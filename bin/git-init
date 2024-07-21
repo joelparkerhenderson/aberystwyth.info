@@ -1,0 +1,12 @@
+#!/bin/sh
+
+git remote add origin git@github.com:joelparkerhenderson/aberystwyth.git
+
+for path in README.md .gitignore .nojekyll Makefile CNAME sitemap.xml CONTRIBUTING.md CODE_OF_CONDUCT.md LICENSE.md CODEOWNERS index.html map.url doc bin data.tsv data.json assets/images/splash assets/images/icons assets/images/gallery unused; do
+    echo "$path"
+    find "$path" \( -type f -o -type l \) | sort | while read -r file; do
+        git add "$file" && git commit -m "Add $file" "$file"
+    done
+done
+
+echo "git push --force --set-upstream origin main"
