@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="en">
+	<head>
+        <title>www.Aberystwyth.info - Aberystwyth, Ceredigion, Wales, UK</title>
+		<meta charset="utf-8" />
+        <link rel="canonical" href="https://www.aberystwyth.info/">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/3.0.0/pure-min.css" integrity="sha512-X2yGIVwg8zeG8N4xfsidr9MqIfIE8Yz1It+w2rhUJMqxUwvbVqC5OPcyRlPKYOw/bsdJut91//NO9rSbQZIPRQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/3.0.0/grids-responsive.min.css" integrity="sha512-5hr5fSxiYwkxK0EZX2B/DILA1QoyXwIf9ynWVbyMvqcMIDZ0XZKWw+xk9mysLSOLV4iMrBB1t/YAxt/006W4HA==" crossorigin="anonymous" referrerpolicy="no-referrer" />        <script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/3.14.0/cdn.min.js" integrity="sha512-4e/5PZ1eoLJMDjaJXTHkWRA0yec8bm07/iINYSd5rdJ38jGm5OZkEi3J+7LqSDWNATNJ4/aneNlrk2AYnnckIg==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <style>
+            /*
+            @media screen and (min-width: 640px) {
+                main {
+                    max-width: 640px;
+                    margin: 0 auto;
+                }
+            }
+            */
+            body {
+                font-family:Arial,helvetica,sans-serif;
+                font-size:100%;
+                font-size:1em;
+            }
+            .center {
+                justify-content: center;
+                text-align:center;
+            }
+            .blockCenter {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            header, footer {
+                width: 100%;
+                background-color: #ddd;
+                color: #111;
+                font-weight: bold;
+            }
+            header {
+                border-bottom: 1px solid #888;
+                margin-bottom: 2em;
+            }
+            footer {
+                border-top: 1px solid #888;
+                margin-top: 2em;
+            }
+            main {
+            }
+            nav {
+            }
+            .pure-menu-link {
+                margin: 0.2em;
+                font-size: 4vw;
+                padding: 5px; 
+                border: 1px solid black;
+            }
+            .pure-menu-link i {
+                margin-right: 0.25em;
+            }
+            a.pure-menu-link:hover {
+                color: black;
+                text-shadow: 0 0;
+            }
+            .pure-u-box {
+                padding: 1em;
+            }
+            .splash {
+                margin: 0;
+                padding: 0;
+                position: relative; 
+                text-align: center; 
+            }
+            .splash img {
+                width: 100%;
+            }
+            .splash-headline-area {
+                position: absolute;
+                top: 43%;
+                left: 50%;
+                transform: translate(-50%, -43%);
+            }
+            .splash h1 {
+                color: white;
+                font-size: 5.0vw; 
+                text-shadow: 2px 2px 2px #000, -0.5px -0.5px 1px #000, -0.5px 0.5px 1px #000, 0.5px -0.5px 1px #000;
+            }
+        </style>
+    </head>
+	<body>
+
+        <main class="center">
+            <div class="splash">
+                <img src="assets/images/splash/aberystwyth-seafront-by-joel-parker-henderson.jpg">
+                <div class="splash-headline-area">
+                    <h1>www.Aberystwyth.info</h1>
+                </div>
+            </div>
+
+            <script>
+                document.addEventListener('alpine:init', () => {
+                    Alpine.data('data', () => ({
+
+                        shuffleArrayInPlace(array) {
+                            for (let i = array.length - 1; i > 0; i--) {
+                                const j = Math.floor(Math.random() * (i + 1));
+                                [array[i], array[j]] = [array[j], array[i]];
+                            }
+                            return array;
+                        },
+
+                        category: '',
+                        categoryFilter(group) {
+                            return this.category === '' || group.emojis.includes(this.category);
+                        },
+
+                        search: '',
+                        searchFilter(group) {
+                            if (this.search === '') { return true; }
+                            let x = this.search.toLowerCase();
+                            console.debug('searchFilter search: ' + this.search + ' x: ' + x);
+                            return (
+                                (group.title_as_en != null && group.title_as_en.toLowerCase().includes(x)) ||
+                                (group.title_as_cy != null && group.title_as_cy.toLowerCase().includes(x)) ||
+                                (group.subtitle_as_en != null && group.subtitle_as_en.toLowerCase().includes(x)) ||
+                                (group.subtitle_as_cy != null && group.subtitle_as_cy.toLowerCase().includes(x)) ||
+                                (group.email != null && group.email.toLowerCase().includes(x)) ||
+                                (group.phone != null && group.phone.toLowerCase().includes(x)) ||
+                                (group.map != null && group.map.toLowerCase().includes(x)) ||
+                                (group.facebookURL != null && group.facebookURL.toLowerCase().includes(x)) ||
+                                (group.instagramURL != null && group.instagramURL.toLowerCase().includes(x)) ||
+                                (group.tiktokURL != null && group.tiktokURL.toLowerCase().includes(x)) ||
+                                (group.twitterURL != null && group.twitterURL.toLowerCase().includes(x)) ||
+                                (group.youtubeURL != null && group.youtubeURL.toLowerCase().includes(x))                                (group.youtubeURL != null && group.youtubeURL.toLowerCase().includes(x))
+                            )
+                        }
+                    }))
+                });
+            </script>
+
+            <div x-data="data">
+
+                <hr>
+                <h1>Aberystwyth Directory</h1>
+                <hr>
+    
+                <p>
+                    <select x-model="category">
+                        <option value="" disabled selected>Search by categories…</option>
+
+                        <option value="💧">💧 Drinks</option></option>
+                        <option value="🍅">🍅 Food</option></option>
+                        <option value="🛍">🛍 Shops</option>
+                        <option value="🌃">🌃 Nightlife</option>
+                        <option value="🏫">🏫 Indoor Activities</option>
+                        <option value="🏞">🏞 Outdoor Activities</option>
+                        <option value="🎈">🎈 Kid Activities</option>
+                        <option value="🌼">🌼 Health & Body</option>
+                        <option value="🎞">🎞 Videos</option>                        
+                        <option value="👥">👥 Groups</option>
+                        <option value="🏢">🏢 Businesses</option>
+
+                        <hr>
+
+                        <option value="💧">💧 Drinks</option></option>
+                        <option value="☕">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕ Coffee</option>
+                        <option value="🫖">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🫖 Tea</option>
+                        <option value="🍺">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍺 Beer</option>
+                        <option value="🍷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍷 Wine</option>
+                        <option value="🍸">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍸 Cocktails</option>
+
+                        <hr>
+
+                        <option value="🍅">🍅 Food</option></option>
+                        <option value="🍽">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍽 Restaurants</option>
+                        <option value="🛒">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛒 Markets</option>
+                        <option value="🥖">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥖 Bakery</option>
+                        <option value="🍔">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍔 Burgers</option>
+                        <option value="🍛">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍛 Curry</option>
+                        <option value="🥪">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥪 Deli</option>
+                        <option value="🍕">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍕 Pizza</option>
+                        <option value="🍖">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍖 Carvery</option>
+                        <option value="🍦">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍦 Ice Cream</option>
+                        <option value="🍭">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Sweets & Treats</option>
+                        <option value="🐟">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐟 Fish & Seafood</option>
+                        <option value="🥗">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥗 Vegetarian & Vegan</option>
+                        <option value="🐮">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐮 Dairy</option>
+                        <option value="🥩">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥩 Butchers</option>
+
+                        <hr>
+
+                        <option value="🛍">🛍 Shops</option>
+                        <option value="👛">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👛 Accessories</option>                        
+                        <option value="🕰">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🕰 Antiques</option>
+                        <option value="🖼">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖼 Arts</option>
+                        <option value="📚">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Books</option>
+                        <option value="💌">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💌 Cards</option>
+                        <option value="💝">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💝 Charity</option>
+                        <option value="👚">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👚 Clothes</option>
+                        <option value="💻">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Computers</option>
+                        <option value="🧑‍🍳">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🍳 Cookwares</option>
+                        <option value="🧶">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧶 Crafts</option>
+                        <option value="🏬">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏬 Department Stores, Malls, Markets</option>
+                        <option value="🎲">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎲 Games</option>
+                        <option value="🎁">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎁 Gifts</option>
+                        <option value="🌷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌷 Flowers</option>
+                        <option value="💎">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💎 Jewelry</option>
+                        <option value="🐶">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐶 Pets</option>
+                        <option value="📱">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📱 Phones</option>                        
+                        <option value="📷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Photography</option>
+                        <option value="🎽">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎽 Sports</option>
+                        <option value="🛠️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Tools</option>
+                        <option value="🧸">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧸 Toys</option>
+                        
+                        <hr>
+
+                        <option value="🏫">🏫 Indoor Activities</option>
+                        <option value="🎸">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎸 Bands</option>
+                        <option value="🎱">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎱 Billiards</option>
+                        <option value="🎳">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎳 Bowling</option>
+                        <option value="⛪">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛪ Churches</option>
+                        <option value="🎯">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Darts</option>
+                        <option value="🎥">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎥 Films</option>
+                        <option value="🏛">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛 Museums</option>
+                        <option value="🎭">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎭 Theatre</option>
+                        <option value="🎵">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎵 Music</option>
+                        <option value="🏆">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 Sports TV</option>
+                        <option value="🪩">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🪩 Nightclubs</option>
+                        <option value="👾">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 Video Games</option>
+
+                        <hr>
+ 
+                        <option value="🏞">🏞 Outdoor Activities</option>
+                        <option value="🏕">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏕 Camping</option>
+                        <option value="🚲">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚲 Bicycling</option>
+                        <option value="🚣">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚣 Boating</option>
+                        <option value="🎣">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎣 Fishing</option>
+                        <option value="⛳">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛳ Golfing</option>
+                        <option value="🏊">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏊 Swimming</option>
+                        <option value="🏄">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏄 Surfing</option>
+                        <option value="🥾">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥾 Walking</option>
+
+                        <hr>
+
+                        <option value="🌼">🌼 Health & Body</option>
+                        <option value="👩‍⚕️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍⚕️ Providers</option>
+                        <option value="💆">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💆 Spas & Massages</option>
+                        <option value="💪">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Gyms & Trainers</option>
+                        <option value="🧘">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧘 Yoga & Pilates</option>
+                        <option value="👁️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ Eyecare & Glasses</option>
+                        <option value="💇">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💇 Hair & Salons</option>
+                        <option value="💅">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💅 Manicures & Pedicures</option>
+                        <option value="💈">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💈 Barbers & Shaves</option>
+                        <option value="🦋">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦋 Tattoos & Piercings</option>
+                        <option value="🦷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦷 Dentists & Orthodontists</option>
+                        <option value="💊">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💊 Pharmacies & Drugstores</option>
+                        <option value="🏥">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏥 Hospitals & Surgeries</option>
+
+                        <hr>
+
+                        <option value="🏢">🏢 Businesses</option>
+                        <option value="🏧">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏧 ATMs</option>
+                        <option value="🏦">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏦 Banks</option>
+                        <option value="🧑‍💻️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍💻️ Coworking</option>
+                        <option value="🛎">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 Hotels, Guesthouses, BNBs</option>
+                        <option value="⚖️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️ Lawyers</option>
+                        <option value="🏡">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏡 Property Brokers</option>
+
+                        <hr>
+
+                        <option value="🎉">🎉 Extras</option>
+                        <option value="📅">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📅 Events</option>
+                        <option value="🌄">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌄 Views</option>
+                        <option value="🌅">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌅 Sunsets</option>
+                        <option value="🌃">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌃 Nightlife</option>
+                        <option value="🛤">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛤 Railways</option>
+                        <option value="🎓">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Schools</option>
+                        <option value="📖">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 Libraries</option>
+                        <option value="🦁">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦁 Zoos</option>
+
+                        <hr>
+
+                        <option value="🏳">🏳 Flags</option>
+                        <option value="🏴󠁧󠁢󠁷󠁬󠁳󠁿">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales</option>
+                        <option value="🇧🇩">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇧🇩 Bangladesh</option>
+                        <option value="🇧🇬">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇧🇬 Bulgaria</option>
+                        <option value="🇫🇷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 France</option>
+                        <option value="🇬🇷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇷 Greece</option>
+                        <option value="🇭🇺">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇭🇺 Hungary</option>
+                        <option value="🇮🇹">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇮🇹 Italy</option>
+                        <option value="🇮🇳">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇮🇳 India</option>
+                        <option value="🇯🇲">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇯🇲 Jamaica</option>
+                        <option value="🇪🇸">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 Spain</option>
+                        <option value="🇹🇷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇹🇷 Türkiye</option>
+                        <option value="🇦🇪">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇦🇪 United Arab Emirates</option>
+                        <option value="🏳‍🌈">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏳‍🌈 Rainbow</option>
+
+                    </select>
+
+                    <input class="search-input" type="search" placeholder="Search" x-model="search">
+                    <button x-on:click="alert('search')"><i class="fa-solid fa-magnifying-glass"></i></button>
+                    <button x-on:click="search = ''; category = '';"><i class="fa-solid fa-xmark"></i></button>
+                </p>
+    
+                <div 
+                    class="pure-g" 
+                    style="margin-left: 2em; margin-right: 2em;"  
+                    x-data="{ groups: [] }" 
+                    x-init="fetch('data.json')
+                        .then(response => response.json())
+                        .then(json => groups = json)"
+                >
+                    <template x-for="group in groups">
+                        <template x-if="categoryFilter(group) && searchFilter(group)">
+                            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                                <div class="pure-u-box">
+                                    <template x-if="group.handle != null">
+                                        <a :href="group.websiteURL || group.facebookURL || group.instagramURL"><img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/' + group.handle + '/1080.jpg'" alt="icon" ></a>
+                                    </template>
+                                    <template x-if="group.handle == null">
+                                        <img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/x/1080.jpg'" alt="icon" >
+                                    </template>
+                                    <h2>
+                                        <template x-if="group.title_as_en != null">
+                                            <span x-text="group.title_as_en"></span>
+                                        </template>
+                                        <template x-if="group.title_as_en != null && group.title_as_cy != null">
+                                            <span>/<br></span>
+                                        </template>
+                                        <template x-if="group.title_as_cy != null">
+                                            <span x-text="group.title_as_cy"></span>
+                                        </template>
+                                    </h2>
+                                    <p style="font-size: 200%; margin-top: 0; margin-bottom: 0;">
+                                        <template x-if="group.websiteURL != null">
+                                            <a :href="group.websiteURL"><i class="fa-solid fa-house"></i></a>
+                                        </template>
+                                        <template x-if="group.phone != null && group.phoneCountryCode != null && group.phoneLocalCode != null">
+                                            <a :href="'tel:+' + group.phoneGlobalPrefix + ' (' + group.phoneLocalPrefix + ') ' + group.phone"><i class="fa-solid fa-phone"></i></a>
+                                        </template>
+                                        <template x-if="group.calendar != null">
+                                            <a :href="group.calendar"><i class="fa-solid fa-calendar"></i></a>
+                                        </template>
+                                        <template x-if="group.map != null">
+                                            <a :href="'https://www.google.com/maps/search/' + group.map"><i class="fa-solid fa-map-pin"></i></a>
+                                        </template>
+                                        <template x-if="group.facebookURL != null">
+                                            <a :href="group.facebookURL"><i class="fa-brands fa-facebook"></i></a>
+                                        </template>
+                                        <template x-if="group.instagramURL != null">
+                                            <a :href="group.instagramURL"><i class="fa-brands fa-instagram"></i></a>
+                                        </template>
+                                        <template x-if="group.twitterURL != null">
+                                            <a :href="group.twitterURL"><i class="fa-brands fa-twitter"></i></a>
+                                        </template>
+                                        <template x-if="group.tiktokURL != null">
+                                            <a :href="group.tiktokURL"><i class="fa-brands fa-tiktok"></i></a>
+                                        </template>
+                                        <template x-if="group.youtube != null">
+                                            <a :href="group.youtubeURL"><i class="fa-brands fa-youtube"></i></a>
+                                        </template>
+                                        <template x-if="group.email != null">
+                                            <a :href="'mailto:' + group.email"><i class="fa-regular fa-envelope"></i></a>
+                                        </template>
+                                    </p>
+                                        <template x-if="group.subtitle_as_en != null">
+                                            <p style="padding-left: 0.5em; padding-right: 0.5em;">
+                                                <span x-text="group.subtitle_as_en"></span>
+                                            </p>
+                                        </template>
+                                        <template x-if="group.subtitle_as_cy != null">
+                                            <p style="padding-left: 0.5em; padding-right: 0.5em;">
+                                                <span x-text="group.subtitle_as_cy"></span>
+                                            </p>
+                                        </template>
+                                    </p>
+                                </div>
+                            </div>
+                        </template>
+                    </template>
+                </div>
+            </div>
+
+            <hr>
+            <h1>Aberystwyth Gallery</h1>
+            <hr>
+
+            <div 
+                class="pure-g" 
+                style="margin-left: 2em; margin-right: 2em;"
+                x-data=""
+            >
+                <template x-for="i in 80">
+                    <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                        <div class="pure-u-box">
+                            <a target="_blank" :href="'assets/images/gallery/' + i + '.jpg'"><img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/gallery/' + i + '.jpg'" alt="icon" ></a>
+                        </div>
+                    </div>
+                </template>
+    
+            </div>
+
+        </main>
+
+        <footer class="center">
+            <nav class="pure-g">
+                <div class="pure-u-1-2">
+                    <a class="pure-menu-link" href="#" x-on:click="search = ''; category = '';">🏠</a>
+                </div>
+                <div class="pure-u-1-2">
+                    <a class="pure-menu-link" href="mailto:joel@joelparkerhenderson.com">✉️</a>
+                </div>
+            </nav>
+        </footer>
+
+    </body>
+
+</html>
