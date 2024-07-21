@@ -1,0 +1,4 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+jq -R -f "$top/bin/transform-from-data-tsv-into-data-json.jq" "$top/data.tsv" | sed '/: "",$/d' > "$top/data.json"
