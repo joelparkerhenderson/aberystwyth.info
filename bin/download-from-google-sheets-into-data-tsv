@@ -1,0 +1,4 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+curl -sSL 'https://docs.google.com/spreadsheets/d/13bEPzL0AmN6MDWtGZKpAEVNgOBNbPk7ZEFWEw_rF_ic/export?exportFormat=tsv' | sed 's/\r//g' > "$top/data.tsv"
