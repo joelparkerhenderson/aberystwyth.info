@@ -1,0 +1,2 @@
+#!/bin/sh
+jpegoptim --max=84 --threshold=1 --all-progressive --strip-all "$@"
