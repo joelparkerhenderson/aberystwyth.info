@@ -2990,6 +2990,65 @@
     "country": "UK"
   },
   {
+    "id": "fdb9dd69a2cc37c3ef873eb88e9d8be7",
+    "handle": "ultimatexscapeaberystwyth",
+    "title_as_en": "Ultimate Xscape Aberystwyth",
+    "subtitle_as_cy": "Ymunwch â ni am 60 munud o hwyl wefreiddiol yn y Escape Room.",
+    "subtitle_as_en": "Join us for 60 minutes of thrilling fun at the Escape Room.",
+    "emojis": "🏫🏞🎈",
+    "email": "info@silvermountainexperience.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 890620",
+    "websiteURL": "http://www.ultimatexscape.co.uk/",
+    "facebookURL": "https://www.facebook.com/ultimatexscapeaber/",
+    "street": "Ponterwyd",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 3AB",
+    "country": "UK"
+  },
+  {
+    "id": "76d9a32adc695455bffec54e9deb33d8",
+    "handle": "redkitecafe",
+    "title_as_en": "Red Kite Cafe and Grill ",
+    "subtitle_as_cy": "Amrywiaeth flasus o opsiynau brecwast a chinio, yn ogystal â dewis eang o ddiodydd poeth ac oer, ac amrywiaeth o ddanteithion melys.",
+    "subtitle_as_en": "A delicious range of breakfast and lunch options, as well as a wide selection of hot and cold drinks, and a range of sweet treats.",
+    "emojis": "💧☕🫖🍅🍽🍭",
+    "email": "info@silvermountainexperience.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 890340",
+    "websiteURL": "https://redkitecafe.co.uk",
+    "facebookURL": "https://www.facebook.com/redkitecafe",
+    "street": "Ponterwyd",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 3AB",
+    "country": ""
+  },
+  {
+    "id": "f5f5ee8a44dac3caa553a34660a83c7c",
+    "handle": "thesilvermountainexperience",
+    "title_as_en": "The Silver Mountain Experience ",
+    "subtitle_as_cy": "Profiadau actor byw a hanes hynod ddiddorol, yn seiliedig mewn Mwynglawdd Arian-Plwm unigryw ym Mynyddoedd Cambria",
+    "subtitle_as_en": "Live actor experiences and fascinating history, based at a unique Silver-Lead Mine in the Cambrian Mountains",
+    "email": "info@silvermountainexperience.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 890620",
+    "websiteURL": "https://silvermountainexperience.co.ukk",
+    "facebookURL": "https://www.facebook.com/SilverMountainExperience",
+    "street": "Ponterwyd",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 3AB",
+    "country": ""
+  },
+  {
     "id": "e894a6a5c0711fbd991a74eaaaf118a4",
     "title_as_en": "Pets at Home",
     "phoneGlobalPrefix": "44",
@@ -4565,6 +4624,22 @@
     "country": "UK"
   },
   {
+    "id": "b0b02a9a790b3ca8d290a9e1205713dc",
+    "handle": "themagicoflifebutterflyhouse",
+    "title_as_en": "The Magic of Life Butterfly House",
+    "subtitle_as_cy": "Cerddwch i mewn i fyd o ieir bach yr haf trofannol sy'n hedfan yn rhydd. Y tu mewn yng nghanol dyffryn Rheidol.",
+    "subtitle_as_en": "Walk into a world of free-flying tropical butterflies. Indoors in the heart of the Rheidol Valley.",
+    "emojis": "🏛🎈🦁",
+    "email": "info@magicoflife.org",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 880928",
+    "websiteURL": "https://www.magicoflife.org",
+    "facebookURL": "https://www.facebook.com/TheMagicOfLifeButterflyHouse",
+    "instagramURL": "https://www.instagram.com/magic_of_life_butterfly_house/",
+    "country": ""
+  },
+  {
     "id": "aeabc0c713eb1390e5a9080f5c268ebe",
     "handle": "libinus1877",
     "title_as_en": "Libinus 1877",
@@ -4919,18 +4994,6 @@
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
     "country": "UK"
-  },
-  {
-    "id": "fdb9dd69a2cc37c3ef873eb88e9d8be7",
-    "country": ""
-  },
-  {
-    "id": "76d9a32adc695455bffec54e9deb33d8",
-    "country": ""
-  },
-  {
-    "id": "f5f5ee8a44dac3caa553a34660a83c7c",
-    "country": ""
   },
   {
     "id": "c09120f756c04a016686fbaead0210a6",
