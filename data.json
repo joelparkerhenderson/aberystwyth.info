@@ -3767,6 +3767,22 @@
     "country": "UK"
   },
   {
+    "id": "c327c96fc13cb6251c3fbd93d74e773b",
+    "handle": "aberystwythcameraclub",
+    "title_as_cy": "Clwb Camera Aberystwyth",
+    "title_as_en": "Camera Club Aberystwyth",
+    "subtitle_as_cy": "I unrhyw un sydd â diddordeb cyffredin mewn tynnu a gwneud delweddau.",
+    "subtitle_as_en": "For anyone with a common interest in taking and making images.",
+    "emojis": "👥",
+    "websiteURL": "https://aberystwythcameraclub.org.uk/",
+    "facebookURL": "https://www.facebook.com/groups/2059119337563273/",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23",
+    "country": "UK"
+  },
+  {
     "id": "6cd12c04103891ffbc61cb45a9385358",
     "title_as_en": "Aber Catering",
     "subtitle_as_cy": "Arlwyo ar gyfer eich holl anghenion • Bocsys Brecwast • Te Prynhawn • Bwffe • Digwyddiadau Corfforaethol • Cacennau",
@@ -3899,14 +3915,24 @@
   },
   {
     "id": "61e70aac013968d00477d764c7fbf1bb",
+    "handle": "ystradfflurstrataflorida",
     "title_as_en": "Strata Florida Trust",
-    "subtitle_as_en": "ystradfflurstrataflorida",
+    "subtitle_as_cy": "Mae'r Ymddiriedolaeth yn adfer Fferm Mynachlog Fawr i greu Canolfan Ystrad Fflur; lle a fydd yn dathlu hanes, diwylliant a thirwedd Cymru.",
+    "subtitle_as_en": "The Trust is restoring the Mynachlog Fawr Farm to create The Strata Florida Centre; a place that will celebrate Welsh history, culture and landscape.",
+    "email": "info@strataflorida.org.uk",
     "phoneGlobalPrefix": "44",
     "phoneLocalPrefix": "0",
-    "city": "Aberystwyth",
+    "phone": "1974 831760",
+    "websiteURL": "https://www.strataflorida.org.uk",
+    "facebookURL": "https://www.facebook.com/YstradFflur",
+    "instagramURL": "https://www.instagram.com/ystradfflurstrataflorida/",
+    "youtubeURL": "https://www.youtube.com/@stratafloridatrust4138",
+    "twitterURL": "https://twitter.com/YstradFflur",
+    "street": "Abbey Rd, Ystrad Fflur",
+    "city": "Ystrad Meurig",
     "district": "Ceredigion",
     "subcountry": "Wales",
-    "postcode": "SY23",
+    "postcode": "SY25 6ES",
     "country": "UK"
   },
   {
@@ -4734,6 +4760,24 @@
     "country": ""
   },
   {
+    "id": "8239c09b5018cb036d2896644a830742",
+    "handle": "dominospizzaaberystwyth",
+    "title_as_en": "Domino's Pizza - Aberystwyth",
+    "subtitle_as_cy": "Pizza",
+    "subtitle_as_en": "Pizza",
+    "emojis": "🍅🍕",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 612111",
+    "websiteURL": "https://www.dominos.co.uk/pizza-near-me/aberystwyth/unit-1-the-barn-centre",
+    "street": "Unit 1 The Barn Centre",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 1LN",
+    "country": "UK"
+  },
+  {
     "id": "931d595a8db950add394a2d417d5f1af",
     "title_as_cy": "Canolfan Podiatreg Aberystwyth",
     "title_as_en": "Aberystwyth Podiatry Centre",
@@ -4808,6 +4852,74 @@
     "subtitle_as_en": "By AlexTravels",
     "youtubeURL": "https://www.youtube.com/watch?v=j4vlKFHGbtI",
     "country": ""
+  },
+  {
+    "id": "c09120f756c04a016686fbaead0210a6",
+    "title_as_en": "Queensbridge Hotel",
+    "subtitle_as_cy": "Gwesty",
+    "subtitle_as_en": "Hotel",
+    "emojis": "🏢🛎",
+    "email": "queensbridgehotel@btinternet.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 612 343",
+    "websiteURL": "https://queensbridgehotel.com/",
+    "street": "Victoria Terrace",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2DH",
+    "country": "UK"
+  },
+  {
+    "id": "79d09df9802268de52fa98babe12c570",
+    "handle": "cardiganbaygueshouseaberystwyth",
+    "title_as_en": "Cardigan Bay Guest House",
+    "subtitle_as_cy": "Gwesty",
+    "subtitle_as_en": "Hotel",
+    "emojis": "🏢🛎",
+    "email": "shelley-guesthouse@hotmail.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 600420",
+    "websiteURL": "https://www.cardiganbayguesthouse.co.uk/",
+    "facebookURL": "https://www.facebook.com/CardiganBayGuestHouse/",
+    "street": "63 Marine Terrace",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2BX",
+    "country": "UK"
+  },
+  {
+    "id": "53e97069dadad44d339933963e74afda",
+    "handle": "premierinnaberystwyth",
+    "title_as_en": "Premier Inn - Aberystwyth",
+    "subtitle_as_cy": "Gwesty",
+    "subtitle_as_en": "Hotel",
+    "emojis": "🏢🛎",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "0333 234 6529",
+    "websiteURL": "https://www.premierinn.com/gb/en/hotels/wales/dyfed/aberystwyth/aberystwyth.html",
+    "street": "36-37 Marine Terrace",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2BX",
+    "country": "UK"
+  },
+  {
+    "id": "8f04473ab29991919f9a1fd37ee5912e",
+    "title_as_en": "Brynawel Guest House ",
+    "subtitle_as_cy": "Gwesty",
+    "subtitle_as_en": "Hotel",
+    "emojis": "🏢🛎",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23",
+    "country": "UK"
   },
   {
     "id": "9371c184d1186d0d2ef03a7b654f8d13",
@@ -4994,30 +5106,6 @@
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
     "country": "UK"
-  },
-  {
-    "id": "c09120f756c04a016686fbaead0210a6",
-    "country": ""
-  },
-  {
-    "id": "79d09df9802268de52fa98babe12c570",
-    "country": ""
-  },
-  {
-    "id": "53e97069dadad44d339933963e74afda",
-    "country": ""
-  },
-  {
-    "id": "8f04473ab29991919f9a1fd37ee5912e",
-    "country": ""
-  },
-  {
-    "id": "8239c09b5018cb036d2896644a830742",
-    "country": ""
-  },
-  {
-    "id": "c327c96fc13cb6251c3fbd93d74e773b",
-    "country": ""
   },
   {
     "id": "aba3a67d5811bdf1bdff8ce937b6cec3",
