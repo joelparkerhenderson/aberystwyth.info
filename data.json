@@ -16,7 +16,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4182746",
+    "longitude": "-4.0638533"
   },
   {
     "id": "9443b91c1e80b1c181ab89ebfb611954",
@@ -37,7 +39,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY24 5LJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4811252",
+    "longitude": "-4.0507077"
   },
   {
     "id": "c37759f24a446f00809e62c7e822209f",
@@ -56,7 +60,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LF",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.413959",
+    "longitude": "-4.0827059"
   },
   {
     "id": "dec04403a3da85bb0f1b6b71dd6033c0",
@@ -77,7 +83,8 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AT",
-    "country": "UK"
+    "country": "UK",
+    "longitude": ""
   },
   {
     "id": "d51fa5440a618c1dd1ac5b0873966092",
@@ -99,7 +106,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4233168",
+    "longitude": "-4.0809941"
   },
   {
     "id": "844e235c15d09f445a857022e2b1350f",
@@ -117,12 +126,12 @@
     "instagramURL": "https://instagram.com/aberystwyth.university/",
     "youtubeURL": "https://www.youtube.com/user/aberystwythuni",
     "twitterURL": "https://twitter.com/AberUni",
-    "street": "01970 623111",
     "city": "Aberystwyth",
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AX",
-    "country": "UK"
+    "country": "UK",
+    "longitude": ""
   },
   {
     "id": "198bd172ad931d1e7762cd29cce22c35",
@@ -142,7 +151,8 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3BU",
-    "country": "UK"
+    "country": "UK",
+    "longitude": ""
   },
   {
     "id": "b308491c1173a82f17b34670759b2317",
@@ -164,7 +174,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DL",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4147866",
+    "longitude": "-4.0854121"
   },
   {
     "id": "7318f4679d84cd2dcdb271f9e2dcffe3",
@@ -185,7 +197,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DH",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4205621",
+    "longitude": "-4.0842485"
   },
   {
     "id": "40b55956d44b65d1d2ee6771d105c7e2",
@@ -206,7 +220,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1QD",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4120264",
+    "longitude": "-4.085356"
   },
   {
     "id": "f20c42405acf7feac446de5c8b677b22",
@@ -223,7 +239,8 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "longitude": ""
   },
   {
     "id": "6a35bc0120832092cdf32033a3b3f478",
@@ -244,7 +261,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2JH",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4150291",
+    "longitude": "-4.0831015"
   },
   {
     "id": "8ec2e5e0c767bea0dafe6c55174e764f",
@@ -261,7 +280,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4140638",
+    "longitude": "-4.0817329"
   },
   {
     "id": "90f47de012c4da0c44aa58b417faa3bf",
@@ -282,7 +303,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1HS",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4148611",
+    "longitude": "-4.0834096"
   },
   {
     "id": "42eca134796e09c18351bea6d55c9cfd",
@@ -300,7 +323,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4180498",
+    "longitude": "-4.0841708"
   },
   {
     "id": "f2f98c42c0db1c61e6393ea2a969427c",
@@ -321,7 +346,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142069",
+    "longitude": "-4.0852682"
   },
   {
     "id": "416f0404196b76b0360fd52759a68570",
@@ -338,7 +365,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4145332",
+    "longitude": "-4.0863921"
   },
   {
     "id": "84bbd0c1629e1f222350e7a307e77a3a",
@@ -357,7 +386,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415827",
+    "longitude": "-4.0836263"
   },
   {
     "id": "bd1ea996923f56822fcd68782f049453",
@@ -376,7 +407,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "bf91e3b4e8c64481c314aa0274a5941e",
@@ -394,7 +427,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1EA",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142214",
+    "longitude": "-4.0854628"
   },
   {
     "id": "fbf97ff1772f87199da8ec993ea6e882",
@@ -414,7 +449,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146228",
+    "longitude": "-4.0863726"
   },
   {
     "id": "8f3774bbb54ad68791e39e291b950d95",
@@ -433,7 +470,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4139",
+    "longitude": "-4.0867295"
   },
   {
     "id": "ca1e945fc044cc7b14f5ba6107e2df0f",
@@ -455,7 +494,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1JG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4132344",
+    "longitude": "-4.0867877"
   },
   {
     "id": "5ea67aeef1cb7cadec8fb381f00e4587",
@@ -475,7 +516,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DU",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.413566",
+    "longitude": "-4.0869051"
   },
   {
     "id": "ce4f205c5fba67e5121b0e8e3ebe555e",
@@ -496,7 +539,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2JN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4153444",
+    "longitude": "-4.082211"
   },
   {
     "id": "32468252d9742abfd139965e38c2d5f5",
@@ -516,7 +561,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4147084",
+    "longitude": "-4.0861958"
   },
   {
     "id": "1134f684987fb82c20f9a416711ab0fc",
@@ -535,7 +582,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1AS",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4100265",
+    "longitude": "-4.0860192"
   },
   {
     "id": "9219dc81073b3139d400e5aeb7a1debc",
@@ -554,7 +603,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AQ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4162576",
+    "longitude": "-4.0837762"
   },
   {
     "id": "fdb8938e8705fa108bd39ecf7dcbea59",
@@ -570,7 +621,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "cd528efb10a3c7ec0e2b512103693e4a",
@@ -589,7 +642,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4158623",
+    "longitude": "-4.0834667"
   },
   {
     "id": "c3daac0a469a724e4aca3b755fb7416f",
@@ -609,7 +664,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1HS",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.414473",
+    "longitude": "-4.0836055"
   },
   {
     "id": "39d596f4bd130ec6d930f2b73c81f166",
@@ -630,7 +687,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DL",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4147272",
+    "longitude": "-4.0856015"
   },
   {
     "id": "f53a882b2fc89dbd0833cef9de183d60",
@@ -650,7 +709,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4175802",
+    "longitude": "-3.9313103"
   },
   {
     "id": "a14e0fe9f0b1394d1f0b1a394af8dc00",
@@ -670,7 +731,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "aff15c6ba454b739bd59d0f9bf99ab55",
@@ -688,7 +751,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4139744",
+    "longitude": "-4.0860368"
   },
   {
     "id": "f6359b56b9dc3548cb442699c665d817",
@@ -705,7 +770,9 @@
     "instagramURL": "https://instagram.com/wales_coast_path",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.3595103",
+    "longitude": "-3.9454436"
   },
   {
     "id": "483ad4c79e5a001b812e5163187838b3",
@@ -726,7 +793,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4163831",
+    "longitude": "-4.0833084"
   },
   {
     "id": "85d4f1921e257a210883cc630bbf4103",
@@ -745,7 +814,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142414",
+    "longitude": "-4.086221"
   },
   {
     "id": "eae7d8c60fcfa7d9f88fa43a401b0e7e",
@@ -764,7 +835,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4163831",
+    "longitude": "-4.0833084"
   },
   {
     "id": "adcf1914e65b724ff3d97445249300f1",
@@ -781,7 +854,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "98a468664c1d4dd5d21088e343a0efab",
@@ -800,7 +875,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4139606",
+    "longitude": "-4.0867637"
   },
   {
     "id": "e1827b1171def4ab24a38a50d52894c3",
@@ -821,7 +898,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2NN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4169314",
+    "longitude": "-4.0835903"
   },
   {
     "id": "82eb98b6fc3a68efe618e79c2e658d2c",
@@ -841,7 +920,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AP",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.416691",
+    "longitude": "-4.0851475"
   },
   {
     "id": "a24ef07a6dd46b047a40e19e020c0647",
@@ -862,7 +943,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DA",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4183108",
+    "longitude": "-4.0842223"
   },
   {
     "id": "6989ee9020b7865851c38f2a7c4eca8a",
@@ -883,7 +966,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4160259",
+    "longitude": "-4.0832973"
   },
   {
     "id": "c9251976086c39ef376b93f75a07006a",
@@ -904,7 +989,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AP",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4169218",
+    "longitude": "-4.0842105"
   },
   {
     "id": "740c8868f42e95614c5c1ee6ad13b265",
@@ -925,7 +1012,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.2421491",
+    "longitude": "-4.2594561"
   },
   {
     "id": "45429e411e73c9a8289522a58eca4590",
@@ -945,7 +1034,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4148912",
+    "longitude": "-4.0863779"
   },
   {
     "id": "31b31ddfcd30b41a503edf1351d472a5",
@@ -966,7 +1057,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3TL",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4091616",
+    "longitude": "-4.0751292"
   },
   {
     "id": "cfbc000b35b0a1d997e6e6ef662b753c",
@@ -987,7 +1080,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AU",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142552",
+    "longitude": "-4.0877623"
   },
   {
     "id": "b74060a1e51a694f9e32d5982fdd922b",
@@ -1008,7 +1103,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3SE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4091025",
+    "longitude": "-4.0610213"
   },
   {
     "id": "fbc8ee1fe64ba68bbb68aa8b5ff4248c",
@@ -1029,7 +1126,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.411123",
+    "longitude": "-4.079114"
   },
   {
     "id": "dd6eed29a8dd645d7790a614232485ca",
@@ -1047,7 +1146,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4151552",
+    "longitude": "-4.0855971"
   },
   {
     "id": "3c0f40057e160d67350a4ead30444851",
@@ -1065,7 +1166,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.413959",
+    "longitude": "-4.0827059"
   },
   {
     "id": "f65d4e117f2c6b1efa7182d13a72a1a0",
@@ -1085,7 +1188,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142348",
+    "longitude": "-4.0857228"
   },
   {
     "id": "663dfed8d2936387575f09d75acdd647",
@@ -1104,7 +1209,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4154314",
+    "longitude": "-4.0869345"
   },
   {
     "id": "d91c9972175c76a3175537ad379a2b2c",
@@ -1122,7 +1229,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "14f6000fa7b9de7502112f26d6b12f51",
@@ -1143,7 +1252,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1JW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4123259",
+    "longitude": "-4.0879936"
   },
   {
     "id": "02f45040333164381ffd9ee5481d659b",
@@ -1163,7 +1274,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2NN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4169314",
+    "longitude": "-4.0835903"
   },
   {
     "id": "e5b70b32cc71197fe0bd64ae35a64102",
@@ -1184,7 +1297,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY24 5JA",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4878972",
+    "longitude": "-4.0511302"
   },
   {
     "id": "59d6e9c40268c0375915bcdb2e59559f",
@@ -1204,7 +1319,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "8c4c66ef5184293c12b67e87c1889e0f",
@@ -1223,7 +1340,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "597156c5079cdcb5e0d415cd33f0eaec",
@@ -1243,7 +1362,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "607f5aa9d4f57ba6db695b2dc97a220c",
@@ -1263,7 +1384,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "0d77b4953b108d711d2575fd2ccf2cc7",
@@ -1284,7 +1407,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NB",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.41475",
+    "longitude": "-4.0828272"
   },
   {
     "id": "73db2b357cf8065b2de64594ce617813",
@@ -1304,7 +1429,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2JW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4156973",
+    "longitude": "-4.0800639"
   },
   {
     "id": "201cf906c0c9ab30ec3200767eab9ba0",
@@ -1324,7 +1451,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AQ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4163306",
+    "longitude": "-4.0841596"
   },
   {
     "id": "b5482321a6febbf9e06a90c084ca8d68",
@@ -1344,7 +1473,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AF",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4164194",
+    "longitude": "-4.0838141"
   },
   {
     "id": "0fed71f7c5720f8f037e64dd69eeb354",
@@ -1364,7 +1495,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1ER",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4156975",
+    "longitude": "-4.0711888"
   },
   {
     "id": "90a2548fff84e98f127a79ef53d7f06e",
@@ -1383,7 +1516,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4173023",
+    "longitude": "-4.0843674"
   },
   {
     "id": "cf65b066d16346fcf9c503236d3c8027",
@@ -1403,7 +1538,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4135267",
+    "longitude": "-4.0864841"
   },
   {
     "id": "cbc40e3cf78b5646b2829080f8e3c0e6",
@@ -1423,7 +1560,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1QB",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4123819",
+    "longitude": "-4.0852386"
   },
   {
     "id": "8142d2e725c4380d137eeadf6a15fb14",
@@ -1443,7 +1582,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4141599",
+    "longitude": "-4.0863369"
   },
   {
     "id": "e4d476ec4999adb660eec3b578c1ad73",
@@ -1464,7 +1605,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4152691",
+    "longitude": "-4.0868081"
   },
   {
     "id": "1ca214fb9f174782982ff6dce2e6a086",
@@ -1485,7 +1628,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY24 5AA",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4537416",
+    "longitude": "-4.0195183"
   },
   {
     "id": "ac37ce29f03e65c12c8f1a2ae97d354c",
@@ -1506,7 +1651,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4159631",
+    "longitude": "-4.0834695"
   },
   {
     "id": "b7c0ef056eab9b64bb789a07d7338964",
@@ -1527,7 +1674,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DL",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146559",
+    "longitude": "-4.0855526"
   },
   {
     "id": "9e28abb36729c7b9e60761f445ed107a",
@@ -1548,7 +1697,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DL",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146063",
+    "longitude": "-4.0854812"
   },
   {
     "id": "3ffb7fc18b45acf8a1d8ab0125b5a2b0",
@@ -1568,7 +1719,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1HX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4143087",
+    "longitude": "-4.0833544"
   },
   {
     "id": "dc93e1837897f63704a9a94a5d820708",
@@ -1590,7 +1743,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NT",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146799",
+    "longitude": "-4.0830473"
   },
   {
     "id": "a9da9a12cb611da792d78dab3eff4d4b",
@@ -1611,7 +1766,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2HY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4225209",
+    "longitude": "-4.0764809"
   },
   {
     "id": "c71ccc0bd5aa7fb547d285f549dcf38c",
@@ -1630,7 +1787,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "4fa1d437c9c72c5de232bf2e843b28b5",
@@ -1648,7 +1807,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "1d360be012f5ad2ac1823397d5e99ac7",
@@ -1668,7 +1829,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LX,",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4158543",
+    "longitude": "-4.0780247"
   },
   {
     "id": "4ecb63f599ed9449137355c72251403d",
@@ -1689,7 +1852,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AQ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4165772",
+    "longitude": "-4.0839291"
   },
   {
     "id": "418f73f112040cbb935e7933a7bda33a",
@@ -1706,7 +1871,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "02661b61399b00d83c52047bbf4642af",
@@ -1725,7 +1892,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "21dba10679a46bc7fc5016b693f129ff",
@@ -1735,7 +1904,7 @@
     "subtitle_as_en": "This short walk is centred around Aberystwyth Castle. This is an Edwardian fortress that was built in response to the First Welsh War in the late 13th century. It replaced an earlier fortress slightly south and control of it alternated between the Welsh and English during its history. Charles I turned it into a mint in 1637 and produced silver shillings and in 1649 it was slighted by Oliver Cromwell. An interesting stroll with much history to appreciate.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/aberystwyth-castle",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "07c12bb5b0459049fde4a093e79b4538",
@@ -1745,7 +1914,7 @@
     "subtitle_as_en": "This is a lovely circular route in Aberystwyth that begins on the seaside and visits the top of Constitution Hill and Penglais Woods. This trail is especially beautiful in spring when the wildflowers are in bloom. This route is relatively flat and suitable for a wide range of ages and fitness levels. This route may be muddy after rain, so waterproof shoes are recommended. You may encounter livestock along this route so leads are advised if you bring your dog.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/aberystwyth-loop-to-constitution-hill",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "9f8388f3d544a9c12935bf842b4d50fd",
@@ -1755,7 +1924,7 @@
     "subtitle_as_en": "The Ceredigion Coast Path is a waymarked, long-distance footpath on the coast of Ceredigion in Wales. In its entirety, it is 96 kilometres (60 miles) in length, running along the coast of Cardigan Bay from Cardigan to Ynyslas. This stretch takes you from Aberystwyth to Ynyslas, offering stunning views across Cardigan Bay and the Dovey Estuary. Starting in Aberystwyth, follow the road past the Old Harbour to Traeth y De (South Beach) and continue on the path around the Castle Grounds.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/ceredigion-coast-path-aberystwyth-to-ynyslas",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "e70201a99cf635ddece5d70feb320077",
@@ -1765,7 +1934,7 @@
     "subtitle_as_en": "This is a wonderful short walk up Constitution Hill. You will have lovely views of Aberystwyth and the coast form the top. Parts of this trail may be overgrown in certain seasons so long pants are advised. This route is relatively flat and suitable for a wide range of ages and fitness levels. Check out the cafe, camera obscura, and Cliff Railway at the top!",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/constitution-hill",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "d7d6d2f1ff746b74ffed80ea985e06c5",
@@ -1775,7 +1944,7 @@
     "subtitle_as_en": "This beautiful route in Devil's Bridge leads visitors through this steep wooded gorge within the Cambrian Mountains. The circular 45-minute walk consists of 675 steep, uneven steps that lead you down the Rheidol Gorge and back up the other side with breathtaking views of the tall Mynach waterfall. On the way back up, you can stand in the robbers' cave and touch the waterfall from the decking viewpoint if it's been raining very heavily prior to your visit.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/devil-s-bridge-falls-nature-trail",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "f7d94cdcab68a8f1b2ccf16d4d70fab8",
@@ -1785,7 +1954,7 @@
     "subtitle_as_en": "Here is a route with some strenuous upward inclines but will give the reward of far reaching, very striking views. It can be wet underfoot after a rain and with the hills, you will want solid footwear. The scenery throughout the walk, not just at the highest points, is really impressive. Bring a snack, water and a camera (or phone) to make the most of it.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/nant-y-moch-to-plynlimmon-fawr",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "dcc2ace52ede37ff75aede69a1684a57",
@@ -1795,7 +1964,7 @@
     "subtitle_as_en": "Here you will have a moderate hike that takes you from the A44 to the summit of Plynlimon. It is a pretty walk with fantastic views looking across the open land down to the reservoir below. For the very adventurous, you can continue further from the summit of Plynlimon and make your way to Pen Pumlumon which is another summit a short distance further east.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/pumlumon-summit",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "c3505f4d77ff7f0a9549a6d8bf531c98",
@@ -1803,7 +1972,7 @@
     "title_as_en": "Llyn Pendam Circular Walk - 3.7 km",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/llyn-pendam-circular",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "f4af0eb9e0da0da6ae2b2e331b7f9b53",
@@ -1813,7 +1982,7 @@
     "subtitle_as_en": "This is a nice and easy woodland trail through Penglais Woods, which is particularly beautiful in spring when the bluebells carpet the forest floor. The trail starts with an ascent, but soon levels out as you explore the woodland. It offers some great views of the coast before heading back down to the trailhead.",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/penglais-woods",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "e87baf19ee85fa4c747baf0e15651eff",
@@ -1821,7 +1990,7 @@
     "title_as_en": "River Rheidol Path Walk - 5.8 km",
     "emojis": "🏞🥾",
     "websiteURL": "https://www.alltrails.com/en-gb/trail/wales/ceredigion/river-rheidol-path",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "93c6deba3f538b3ae1e348988b61ef87",
@@ -1838,7 +2007,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LB",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142308",
+    "longitude": "-4.0788701"
   },
   {
     "id": "21f08ec78e5c29c17b05e2a667a60b3f",
@@ -1857,7 +2028,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "b2a5e08d7902a5b10e7401ad918daaf2",
@@ -1878,7 +2051,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AR",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4150083",
+    "longitude": "-4.0859299"
   },
   {
     "id": "9bb81021c99e65755cb6d4a4cf0f4bf9",
@@ -1899,7 +2074,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4163831",
+    "longitude": "-4.0833084"
   },
   {
     "id": "9d89c1ce1f57214999a737f51ebf2d79",
@@ -1919,7 +2096,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2HX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4229027",
+    "longitude": "-4.0802548"
   },
   {
     "id": "9e515e766fbe5a5d3d828e5c4ec9319d",
@@ -1936,7 +2115,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "21dcce1cf2c584b81bcd2e29cb316bf2",
@@ -1957,7 +2138,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4144513",
+    "longitude": "-4.0834807"
   },
   {
     "id": "9c01f1e12d5a8977ce2610c484fbc91e",
@@ -1977,7 +2160,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4145753",
+    "longitude": "-4.0860783"
   },
   {
     "id": "78ef336f3dcd60a4d4daf39cce364dd8",
@@ -1995,7 +2180,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4140098",
+    "longitude": "-4.0869622"
   },
   {
     "id": "cdd48cbf82445bb8ed98d287931634b7",
@@ -2013,7 +2200,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9f54ad1e8462e1d9cd44fc0cee51eaf2",
@@ -2032,7 +2221,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4158186",
+    "longitude": "-4.0832666"
   },
   {
     "id": "f719136c86ebc7e2b5f24868c79ff920",
@@ -2052,7 +2243,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PZ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4134514",
+    "longitude": "-4.0855809"
   },
   {
     "id": "57c8b6d09c248ceef4284c4b153b3ef0",
@@ -2069,7 +2262,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "1c40bce00a4bd4a9576fcec3de891534",
@@ -2090,7 +2285,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PZ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4133042",
+    "longitude": "-4.0858229"
   },
   {
     "id": "70b8a0085ca39e879e699e160e36c77b",
@@ -2103,7 +2300,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "7914892e06fe8cc948bf6206bab76723",
@@ -2116,7 +2315,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "c4db1264ac1391795ec0584e81b9b74f",
@@ -2136,7 +2337,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4142774",
+    "longitude": "-4.0861162"
   },
   {
     "id": "d95cd131609f15ccc12dea7c411414dc",
@@ -2157,7 +2360,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DT",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4159435",
+    "longitude": "-4.0838739"
   },
   {
     "id": "6b371cbcea2129ece44fbdaa0da8445d",
@@ -2178,7 +2383,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4160283",
+    "longitude": "-4.0799119"
   },
   {
     "id": "caabe1a75208dce2716428c6ee7dc690",
@@ -2196,7 +2403,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4155004",
+    "longitude": "-4.0849742"
   },
   {
     "id": "ece7be2ef70e369431e76a2942c4f464",
@@ -2213,7 +2422,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4181053",
+    "longitude": "-4.0840396"
   },
   {
     "id": "c89ef32a921118f2d936211283240729",
@@ -2232,7 +2443,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY24",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.44217",
+    "longitude": "-4.0281019"
   },
   {
     "id": "55b230cca1611ee926a431f99b2698a0",
@@ -2252,7 +2465,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PB",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4122989",
+    "longitude": "-4.0813196"
   },
   {
     "id": "3ae3c42ceff6d4c335ad667c19cf9633",
@@ -2271,7 +2486,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "baf832157237ac74809e6386629734b7",
@@ -2290,7 +2507,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4154093",
+    "longitude": "-4.0842558"
   },
   {
     "id": "56e9e0f49a6e23aac629fe3731c86a54",
@@ -2309,7 +2528,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4159755",
+    "longitude": "-4.078413"
   },
   {
     "id": "e5945b5df85711e279d7eb8a13b43e9e",
@@ -2330,7 +2551,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "ce9089d43b87bf756e78a32e0bb817c5",
@@ -2349,7 +2572,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "865e921d4e954092e2573a027a2f9fb7",
@@ -2368,7 +2593,8 @@
     "city": "Llanbadarn Fawr, Aberystwyth",
     "district": "Ceredigion",
     "subcountry": "Wales",
-    "country": ""
+    "latitude": "52.410101",
+    "longitude": "-4.0588179"
   },
   {
     "id": "c3dec682eabd07b63396972b061901c9",
@@ -2389,7 +2615,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "1e845267dbd288468f064b92cff83c78",
@@ -2407,7 +2635,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "2c0ba10c4de33333093be3383e7c32ba",
@@ -2427,7 +2657,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 4QG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4138472",
+    "longitude": "-4.0736454"
   },
   {
     "id": "c4a7540e88781c41249fc557a07f08f4",
@@ -2446,7 +2678,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146456",
+    "longitude": "-4.0849364"
   },
   {
     "id": "0b2dc70f4d599096a311acea819ff50d",
@@ -2465,7 +2699,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1PG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4123021",
+    "longitude": "-4.0804431"
   },
   {
     "id": "c687d600e2b24719d44a323b2a62a4b4",
@@ -2487,7 +2723,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NT",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4145166",
+    "longitude": "-4.0830723"
   },
   {
     "id": "428037cc4bb1020d12ca97fb9e4137c0",
@@ -2508,7 +2746,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146359",
+    "longitude": "-4.0819632"
   },
   {
     "id": "2c15cc8a9fe586c37c2a4023d8f2fb1c",
@@ -2528,7 +2768,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1HS",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4147315",
+    "longitude": "-4.0833621"
   },
   {
     "id": "4ff320dd341a6693d3de052afe5136f0",
@@ -2546,7 +2788,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1JS",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4122701",
+    "longitude": "-4.0886788"
   },
   {
     "id": "e5764bec82d8707ad757b830c73b63e3",
@@ -2567,7 +2811,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "32361a7310ff327995120547f9aad31b",
@@ -2586,7 +2832,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2NF",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4155377",
+    "longitude": "-4.0826491"
   },
   {
     "id": "7e864e258a1e2f85deb2ea5a834e8fee",
@@ -2603,7 +2851,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NY",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4146771",
+    "longitude": "-4.0819205"
   },
   {
     "id": "38a0acb5e9d53c9eb77f847a303dcbaf",
@@ -2623,7 +2873,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4156307",
+    "longitude": "-4.0831108"
   },
   {
     "id": "3f0b4fa681c402d4ef7249f2c53fa766",
@@ -2643,7 +2895,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.413959",
+    "longitude": "-4.0827059"
   },
   {
     "id": "6bda3b0cc958bcff54aa3a2d5bef5b64",
@@ -2662,7 +2916,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3HR",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4197617",
+    "longitude": "-4.0158914"
   },
   {
     "id": "4b305fcfb18efe474bd0c204a2d3058b",
@@ -2680,7 +2936,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 !HX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4140958",
+    "longitude": "-4.0835487"
   },
   {
     "id": "0b20708ad38100bc1ecde45dc2999d47",
@@ -2699,7 +2957,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "df99e7dec4da20bc998bd388f73b4046",
@@ -2718,7 +2978,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2LJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4145347",
+    "longitude": "-4.0860467"
   },
   {
     "id": "313f02a9bf9aaba5f9fd00a4e7bd1218",
@@ -2737,7 +2999,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "c50a4851d495b0eb58e193ac52dd6de3",
@@ -2758,7 +3022,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136339",
+    "longitude": "-4.0862815"
   },
   {
     "id": "b3adacfa4cc98dff2a13b4990e0c9456",
@@ -2775,7 +3041,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "63121312d268ee187ca2af641d3054ff",
@@ -2795,7 +3063,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.414609",
+    "longitude": "-4.0850228"
   },
   {
     "id": "09881952611525d251fddeda9a8a459a",
@@ -2806,7 +3076,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "0a67a9f466f0fb9a44c49d7a8545799e",
@@ -2819,7 +3091,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "889a378e352d4684543e3161a3726ff8",
@@ -2830,7 +3104,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "a9231a5ca9c08903c7055a1920a3abe5",
@@ -2848,7 +3124,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "cceeae28c0d90370872744f70ce398c5",
@@ -2861,7 +3139,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "e78eda2a166008e30bfbec93e8202a76",
@@ -2872,7 +3152,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "869559a725f82c0224cba9db6f84a642",
@@ -2885,7 +3167,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "a0d90c093cf486b4daa0e8387d61314e",
@@ -2898,7 +3182,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "0fba34c5f544b9e81a85cadf0db718ea",
@@ -2914,7 +3200,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "8c284459572021370fbf4b42674924db",
@@ -2928,7 +3216,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "88f94684ebc11b90875f5161896085f1",
@@ -2947,7 +3237,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NT",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4145283",
+    "longitude": "-4.0829097"
   },
   {
     "id": "24557cfc21af585f894496469467cd97",
@@ -2961,7 +3253,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "de7ea915a5785eff2d6dad1c3e4dfda6",
@@ -2975,7 +3269,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "f97f362eb5861649508d507ffa6dc091",
@@ -2987,7 +3283,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "fdb9dd69a2cc37c3ef873eb88e9d8be7",
@@ -3007,7 +3305,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3AB",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4129511",
+    "longitude": "-3.8411629"
   },
   {
     "id": "76d9a32adc695455bffec54e9deb33d8",
@@ -3027,7 +3327,8 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3AB",
-    "country": ""
+    "latitude": "52.4129511",
+    "longitude": "-3.8411629"
   },
   {
     "id": "f5f5ee8a44dac3caa553a34660a83c7c",
@@ -3046,7 +3347,8 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3AB",
-    "country": ""
+    "latitude": "52.4129511",
+    "longitude": "-3.8411629"
   },
   {
     "id": "e894a6a5c0711fbd991a74eaaaf118a4",
@@ -3057,7 +3359,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "40f85d098b2d036c53c9b5735ea0cccf",
@@ -3068,7 +3372,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "98dc0ebd5efc2408428f90f854caa69c",
@@ -3079,7 +3385,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "e829b099f1a6ecc0ae0783f31563ea5c",
@@ -3098,7 +3406,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "696d2eca08c588529678ae0b65509bb1",
@@ -3118,7 +3428,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LF",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4131434",
+    "longitude": "-4.0824289"
   },
   {
     "id": "1ebfce2559a850065def0f918d7b2dfd",
@@ -3129,7 +3441,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "0622136c1ffa5b35ee915fbc460ddb40",
@@ -3141,7 +3455,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "202922f75544264da94bd401e50c6533",
@@ -3161,7 +3477,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NP",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4150553",
+    "longitude": "-4.0826792"
   },
   {
     "id": "cd7f7ddd71e9bd624700fea37ec1d1b5",
@@ -3175,7 +3493,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "63dc35ce9bd14e6c7528785199db6e43",
@@ -3189,7 +3509,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9553e7af6240bd71eef3a9b20b1f9ce8",
@@ -3203,7 +3525,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "96eea0183101f610d79c61c36f089393",
@@ -3217,7 +3541,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "7b60ad238d4ece746322ad5ff07d2fab",
@@ -3235,7 +3561,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 5AH",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4144981",
+    "longitude": "-4.0814307"
   },
   {
     "id": "1b92db7e0619b5e49b958efbe9e26472",
@@ -3250,7 +3578,7 @@
     "phone": "7976 419528",
     "facebookURL": "https://facebook.com/cacennaumirainhaf",
     "instagramURL": "https://instagram.com/cacennau_mirain_haf/",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "0d0075d937cad616631e6db652c6080c",
@@ -3264,7 +3592,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "f918ab4eef33953fc66061eeecaf28e3",
@@ -3278,7 +3608,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "e56013155c10248c0a5ff1a4b98fdb61",
@@ -3292,7 +3624,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "f94d1249c6198dafcd02324decabf5d8",
@@ -3312,7 +3646,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3NG",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.8962101",
+    "longitude": "-4.5040799"
   },
   {
     "id": "76eeeb5a499dbe35fafc82fe92a3b521",
@@ -3324,7 +3660,7 @@
     "facebookURL": "https://facebook.com/AberBeerPongSociety",
     "instagramURL": "https://instagram.com/abps_15/",
     "tiktokURL": "https://www.tiktok.com/@aberbeerpong",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "83732fc76e92f6a7bd4a3f4c5bd0ae62",
@@ -3339,7 +3675,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4152311",
+    "longitude": "-4.0867001"
   },
   {
     "id": "156abbe91e025f170e144e14f024959a",
@@ -3352,13 +3690,15 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4157319",
+    "longitude": "-4.082153"
   },
   {
     "id": "d69cacf4c9f65d9f5795dc9629962ecf",
     "title_as_en": "Vaughans",
     "subtitle_as_en": "The Electrical People",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "43e02185c16d1d1e1569f9561e502b6c",
@@ -3372,7 +3712,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AR",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4149659",
+    "longitude": "-4.0860227"
   },
   {
     "id": "1b15c43d11624d501c19e95fef643763",
@@ -3380,7 +3722,7 @@
     "subtitle_as_cy": "Bwyty Tandoori",
     "subtitle_as_en": "Tandoori Restaurant",
     "emojis": "🍅🍽🇮🇳",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "f8f5e6bd46dfe6c095a04ff510ad2b7a",
@@ -3388,7 +3730,7 @@
     "subtitle_as_cy": "Byrgyrs Smash • Pizza • Cyw Iâr Peri • Cebab Donner Tro-ffrio",
     "subtitle_as_en": "Smash Burgers • Pizza • Peri Peri Chicken • Stir Fried Donner Kebab",
     "emojis": "🍅🍽🍔🍕",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "9b0c934ade6aa094c3dd2213322d18bf",
@@ -3405,7 +3747,7 @@
     "facebookURL": "https://facebook.com/welshcomputers",
     "instagramURL": "https://instagram.com/welshcomputers/",
     "twitterURL": "https://twitter.com/welsh_computers",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "a828adbf75db6c111e0d7e63855984d7",
@@ -3417,7 +3759,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "aa09dfe66e56e820e9965e9bba096857",
@@ -3431,7 +3775,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "00fa553f6a5e5cdb7284bd3a6b25f26f",
@@ -3449,7 +3795,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "703e121b747d2e622a8ce933808560cc",
@@ -3460,7 +3808,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9b92a11904607a0234dfcd14a7595e67",
@@ -3471,7 +3821,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "6b4bd2aa7e4eaa38a5c627fcfeb93ca3",
@@ -3482,7 +3834,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "3c482565487099d76034b740b0084197",
@@ -3493,7 +3847,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "f0d55ff7f220b5810e345d2734fbc3a1",
@@ -3513,7 +3869,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "18823d871022745d68432a0dab5dfa16",
@@ -3533,7 +3891,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1RH",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4412088",
+    "longitude": "-4.0314521"
   },
   {
     "id": "bea952b1d5b17928e555a87cbaa1c172",
@@ -3544,7 +3904,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "fa77e852239efbd74fa217f2231f299c",
@@ -3555,7 +3917,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "dc25da74dc16d142660e52553cd36ab8",
@@ -3567,7 +3931,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "dd19a3343bb8563fee55357552d26fcc",
@@ -3579,7 +3945,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "b0472fa64bce902b1dfb48d2bcf87794",
@@ -3599,7 +3967,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "4bc8cc9144360af808aa3fc5dd5b4390",
@@ -3619,7 +3989,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4147612",
+    "longitude": "-4.0840924"
   },
   {
     "id": "4f78c47fb9707c45b7651eadf0c3bb5b",
@@ -3632,7 +4004,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "32a7488eba9eaf2135c7f275ec18dcf8",
@@ -3644,7 +4018,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "0667e146e7543da79839e603fc411d72",
@@ -3655,7 +4031,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "144fa3fa25479634bac9fc9f34f418b5",
@@ -3674,7 +4052,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.41484",
+    "longitude": "-4.0844821"
   },
   {
     "id": "329369e7e9b56f3ca44582f93eaaf981",
@@ -3686,7 +4066,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "7e90ca9a3fb4ed305866b3e32853cbcd",
@@ -3699,7 +4081,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "723c0af6215a4231f5a9172bed904643",
@@ -3720,7 +4104,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3AE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.3933884",
+    "longitude": "-3.8556471"
   },
   {
     "id": "113c6656e860b5097641a7dc26c2cbfc",
@@ -3731,7 +4117,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "43ca4b06bf2dbdb84b825e6e3524276d",
@@ -3742,7 +4130,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "3757846aa0e6a9dff4e8418debb48534",
@@ -3753,7 +4143,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9cfb4130ab8f3fefa3d652a549a10eef",
@@ -3764,7 +4156,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "c327c96fc13cb6251c3fbd93d74e773b",
@@ -3780,7 +4174,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "6cd12c04103891ffbc61cb45a9385358",
@@ -3797,7 +4193,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "2e6cbc691bdd31732fdd3578d0af49e6",
@@ -3808,7 +4206,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "46029d44b2f0ddd1c6d1b9e93209fb55",
@@ -3819,7 +4219,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "d548a2bbc17adc056e746a77704309db",
@@ -3837,7 +4239,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4187966",
+    "longitude": "-4.0839369"
   },
   {
     "id": "ea43077578c8bd9ceb7011ee70ee3c4b",
@@ -3848,7 +4252,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "666fcff4a57c8c1fdeab3c34524bfeb7",
@@ -3859,7 +4265,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "56a6edc7d3589be8d20879957b81c38d",
@@ -3870,7 +4278,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "6bf76f2387a6136a77f5e9e9659541be",
@@ -3889,7 +4299,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 3JW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.3812139",
+    "longitude": "-3.8454501"
   },
   {
     "id": "c04c74d282c6ef9789546f4f57a35635",
@@ -3900,7 +4312,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "6fcd1c3a1860e4a0e4e582669da7b812",
@@ -3911,7 +4325,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "61e70aac013968d00477d764c7fbf1bb",
@@ -3933,7 +4349,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY25 6ES",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.2759341",
+    "longitude": "-3.8446453"
   },
   {
     "id": "b8ab2f8b5145d5ac978be1a7591257e5",
@@ -3947,7 +4365,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "b8e2c50d93409d8146ac5b4b953e1e24",
@@ -3965,7 +4385,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "6ee2db88c95c1babb178ae8e28d69463",
@@ -3980,7 +4402,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "99773d5c937c7f90929db6b82479704f",
@@ -3995,7 +4419,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "77e39faac095249c2405e3c250edcdd4",
@@ -4010,7 +4436,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "ca28a8a38a9afbdacf89b3108ee15285",
@@ -4021,7 +4449,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "3c5f8b22845e327fec5dc1f852078ee0",
@@ -4042,7 +4472,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2JS",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4160352",
+    "longitude": "-4.0797245"
   },
   {
     "id": "75ff0828dd572602ae406bc65567f80f",
@@ -4053,7 +4485,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9de147dc115f2c05c7c618af99f905fe",
@@ -4064,7 +4498,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "a0aef28390b54b390972333cef7e92f2",
@@ -4075,7 +4511,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "ce3528a5d877ed5784724f484ab6bbff",
@@ -4094,7 +4532,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "3ed13da798cfae09cf9d23362008b51d",
@@ -4105,7 +4545,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "c679c6746bc7da02d4d0a339c0593e7b",
@@ -4116,7 +4558,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "49fa46cc9e516b698fe3594bf19e1d3a",
@@ -4127,7 +4571,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "77dd6ab35b8b6dcfa1796fca3f5f3e90",
@@ -4138,7 +4584,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "7686c4ecc1d415bda29d5695030a964d",
@@ -4154,7 +4602,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BJ",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4154093",
+    "longitude": "-4.0842558"
   },
   {
     "id": "5afa9a14fa1b31af8b765db74d8cd63a",
@@ -4165,7 +4615,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "ba869dbef6ae0d927b0ca577ae84bef8",
@@ -4183,7 +4635,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4132112",
+    "longitude": "-4.0857487"
   },
   {
     "id": "457f62ca6bccd0f3f6d3a5de4fe9835a",
@@ -4194,7 +4648,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "d9ed24765cf5d4dda148caf949a0261d",
@@ -4205,7 +4661,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "4a50dc791dc612b6512af13ca4cf05a6",
@@ -4216,7 +4674,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "1da6ed96898ac321b8effba0abf0a560",
@@ -4230,7 +4690,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9102308d9eada22aea37031d0904d8f1",
@@ -4244,7 +4706,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "bb9e799f45c4aeb308ea6f0b87f67733",
@@ -4257,7 +4721,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "6d5342e046a4109c061dbc954f418f3c",
@@ -4268,7 +4734,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "bf62735c6e5dd24beeb0e6d0b3f4929c",
@@ -4287,7 +4755,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2AR",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4155473",
+    "longitude": "-4.0846281"
   },
   {
     "id": "798da8f8438fcbde32aeac2b297d4132",
@@ -4299,7 +4769,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "ad3fe46dfb8ca039e147839fea6cf277",
@@ -4312,7 +4784,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "3922bdf20300d2091cf6deb368ac3897",
@@ -4327,7 +4801,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "69d3155f92fdbec511954b55eaa813fe",
@@ -4338,7 +4814,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "82eee1559c85d9274fe96ffeedd1ebbe",
@@ -4351,7 +4829,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "fcd871ecd23536d06f6131a6f817e3f1",
@@ -4368,7 +4848,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "7c64bb2d2a0ffba9d4c6993f5ca90efd",
@@ -4381,7 +4863,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "801b9596463941f1e391fa233be00cc9",
@@ -4395,7 +4879,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "577d94fec7efe2c213cbd7b66aa09ab4",
@@ -4410,7 +4896,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "3998efba191347caf74da86da66c0e7d",
@@ -4423,7 +4911,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "37f7e41d90094684282c2e724b0f3221",
@@ -4444,7 +4934,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "77bc429ce438176be033603c5b71f2f0",
@@ -4458,7 +4950,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "443d9468a620869012eba11d3c86f836",
@@ -4470,7 +4964,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "b4a7a57df62c45fa1c49f9654f472b64",
@@ -4484,7 +4980,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DW",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4136681",
+    "longitude": "-4.0866994"
   },
   {
     "id": "15980612e6b6eaa7ac84b0a2d575e54c",
@@ -4495,7 +4993,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "bc27e3edc9630c80cc97a36d63e7c168",
@@ -4510,7 +5010,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "7d047d9829ae2a4b35b15ba64b361849",
@@ -4523,7 +5025,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "10c17a6f122fd799fdc51e0f9a9d8c0a",
@@ -4534,7 +5038,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "80cad4f853258d593b744c456666ba4f",
@@ -4553,7 +5059,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4140216",
+    "longitude": "-4.0858052"
   },
   {
     "id": "6e4620de236e0b4157d7f9b969814821",
@@ -4564,7 +5072,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "38ff670b4408bf8d1acf1789bcd3fc7b",
@@ -4574,7 +5084,7 @@
     "subtitle_as_en": "A society of arts and crafts! Use #AberCrafts or tag us to share your crafts with us! 🎨🪡🧶🪢",
     "emojis": "👥🧶",
     "instagramURL": "https://instagram.com/aber_crafts_society/",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "12e149a6648c931d04daaa9b621a89d3",
@@ -4586,7 +5096,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "e0efbfb252be31b79c082a63d9785e39",
@@ -4607,26 +5119,28 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4144836",
+    "longitude": "-4.0854119"
   },
   {
     "id": "35f84727c09ae8493430c82ba6238bad",
     "title_as_en": "Harry's",
     "subtitle_as_en": "Hotel • Bar • Bistro",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "2fd37969edf0949513aa7e32a6f9a877",
     "title_as_cy": "Yr Eidal Fach",
     "title_as_en": "Little Italy",
     "subtitle_as_en": "Italian Restaurant",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "985796161bc72f726f22941cd6227327",
     "title_as_en": "Spartacus",
     "subtitle_as_en": "Baguettes • Paninis • Rolls • Sandwiches • Tea • Coffee",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "5fb21578668433972ce120f3b0c27f0a",
@@ -4647,7 +5161,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY24 5NA",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4864979",
+    "longitude": "-4.0446138"
   },
   {
     "id": "b0b02a9a790b3ca8d290a9e1205713dc",
@@ -4663,7 +5179,7 @@
     "websiteURL": "https://www.magicoflife.org",
     "facebookURL": "https://www.facebook.com/TheMagicOfLifeButterflyHouse",
     "instagramURL": "https://www.instagram.com/magic_of_life_butterfly_house/",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "aeabc0c713eb1390e5a9080f5c268ebe",
@@ -4683,7 +5199,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY24 5JA",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4878972",
+    "longitude": "-4.0511302"
   },
   {
     "id": "1f41f676f36aa3d90cbaa2d41ad7bada",
@@ -4691,7 +5209,7 @@
     "title_as_en": "The Hive, Aberaeron",
     "emojis": "🍅🍽🫖☕🍦",
     "websiteURL": "https://www.thehiveaberaeron.com/",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "340b28cb650e697be0ffbb26de05990e",
@@ -4699,24 +5217,24 @@
     "title_as_en": "The New Celtic, Aberaeron",
     "emojis": "🍅🍽🍸🍷",
     "websiteURL": "https://www.newceltic.co.uk/",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "a3c517be24092f92cd27a83719b2959d",
     "title_as_en": "George's ",
     "subtitle_as_cy": "Barbwr Traddodiadol",
     "subtitle_as_en": "Traditional Barber",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "69c4708fd44c514af7b2e616bfd29aca",
     "title_as_en": "Hot Dumplings",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "649f61d02db754d1c0e902e1ecf2f79a",
     "title_as_en": "Andy's Records",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "4f84feaaa40ca374b13bcef851ff57fc",
@@ -4726,7 +5244,7 @@
     "phoneLocalPrefix": "0",
     "phone": "1970 612120",
     "websiteURL": "https://www.fourseasonshotel.biz",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "70ee72e361189ba97b6750e799c98777",
@@ -4736,28 +5254,28 @@
     "subtitle_as_en": "Strength & mobility classes tailored to different levels. Personal training sessions. Fully qualified, registered & insured. Come and train with me.",
     "emojis": "🌼💪",
     "facebookURL": "https://www.facebook.com/profile.php?id=100065650206331",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "9edb684dcf392a534241e1becb5cdc7f",
     "title_as_cy": "Ddeintyddfa Stryd Portland",
     "title_as_en": "Portland Street Dental Practice",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "ff8dd7a4a5189316fdab58068861f3b2",
     "title_as_en": "Family Shopper & Beer Cave ",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "bed90bccfd7a4f520672d242bef09c5e",
     "title_as_en": "Sophisticut",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "0f4fd741b5618783d7a379fddb7678fe",
     "title_as_en": "Kim Rees",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "8239c09b5018cb036d2896644a830742",
@@ -4775,18 +5293,20 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1LN",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4151046",
+    "longitude": "-4.0802189"
   },
   {
     "id": "931d595a8db950add394a2d417d5f1af",
     "title_as_cy": "Canolfan Podiatreg Aberystwyth",
     "title_as_en": "Aberystwyth Podiatry Centre",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "7d91ec827a1cd4c5e2f9e1d44dd8c269",
     "title_as_en": "WHSmith",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "6f0cf7aae52d08b3f31390c1c8aafea8",
@@ -4794,13 +5314,13 @@
     "title_as_en": "tenous cancer care",
     "subtitle_as_cy": "Estyn gobaigth. Estyn llaw.",
     "subtitle_as_en": "Give hope. Help cope.",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "59d2fb3373c523bec12180dad0f7e8b4",
     "title_as_cy": "Blwch Sglodion",
     "title_as_en": "Fish & Chips",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "96cb3e2535d967596dd5ffd9b750e8a0",
@@ -4808,7 +5328,7 @@
     "title_as_en": "Fish & Chips on the Pier",
     "subtitle_as_cy": "Bwytewch Ar Y Pier Neu Ei Gymrydn Gludfwwyd",
     "subtitle_as_en": "Seating Inside. Contactless Pay. Free WiFi.",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "24368955701c516c6364fe74a67bce2f",
@@ -4816,7 +5336,7 @@
     "subtitle_as_cy": "Gwesty",
     "subtitle_as_en": "Guest House",
     "emojis": "🏢🛎",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "2c5cc44df7f68e0c396f88d89be3eaa0",
@@ -4825,7 +5345,7 @@
     "subtitle_as_en": "By Glen And Rhonda",
     "emojis": "🎞",
     "youtubeURL": "https://www.youtube.com/watch?v=dZIWwucinFY",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "09455980b0092a9d0850cb399caefebe",
@@ -4834,7 +5354,7 @@
     "subtitle_as_en": "By Walk With Me Tim",
     "emojis": "🎞",
     "youtubeURL": "https://www.youtube.com/watch?v=XnEKhuBnj38",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "160eb6793010eef0c421b799c07ae124",
@@ -4843,7 +5363,7 @@
     "subtitle_as_en": "By The Time Travel Artist.",
     "emojis": "🎞",
     "youtubeURL": "https://www.youtube.com/watch?v=a9eFvSz8iO0",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "320cc82bed5efc75fb24eb2a919ed48b",
@@ -4851,7 +5371,7 @@
     "title_as_en": " Top 10 Things To Do in Aberystwyth | Wales Travel Guide ",
     "subtitle_as_en": "By AlexTravels",
     "youtubeURL": "https://www.youtube.com/watch?v=j4vlKFHGbtI",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "c09120f756c04a016686fbaead0210a6",
@@ -4869,7 +5389,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2DH",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4210313",
+    "longitude": "-4.0845284"
   },
   {
     "id": "79d09df9802268de52fa98babe12c570",
@@ -4889,7 +5411,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4194805",
+    "longitude": "-4.0844337"
   },
   {
     "id": "53e97069dadad44d339933963e74afda",
@@ -4907,7 +5431,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2BX",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4176885",
+    "longitude": "-4.0840304"
   },
   {
     "id": "8f04473ab29991919f9a1fd37ee5912e",
@@ -4919,7 +5445,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "9371c184d1186d0d2ef03a7b654f8d13",
@@ -4933,7 +5461,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "aa7084bd716f9c3c52cf57e6c05ccf36",
@@ -4947,7 +5477,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "191539e7aee7a05c843eb0d96b97e52d",
@@ -4965,7 +5497,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2JH",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4149342",
+    "longitude": "-4.0832256"
   },
   {
     "id": "2de48b9881c104d61703328e2f518095",
@@ -4982,7 +5516,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "be8b9c5b5e869c6381e17eef00860ae6",
@@ -4999,7 +5535,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.415303",
+    "longitude": "-4.08292"
   },
   {
     "id": "39cef106117b858bd4ca1df08ea14d5d",
@@ -5017,7 +5555,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 2ND",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4151322",
+    "longitude": "-4.0833738"
   },
   {
     "id": "ecaeeda130539ea13ccd671e2cb8c491",
@@ -5029,7 +5569,7 @@
     "websiteURL": "https://hsbc.co.uk",
     "facebookURL": "https://facebook.com/HSBCUK",
     "instagramURL": "https://instagram.com/hsbc_uk/",
-    "country": ""
+    "longitude": ""
   },
   {
     "id": "14d6eddad17cec187ee93929fde5f9b9",
@@ -5048,7 +5588,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4150843",
+    "longitude": "-4.0837086"
   },
   {
     "id": "d6916eb1aa36b652a1892e2c39db225b",
@@ -5067,7 +5609,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1NP",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4148836",
+    "longitude": "-4.0825351"
   },
   {
     "id": "3dfa48828efefee2767e81bf3b1a75ae",
@@ -5086,7 +5630,9 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
+    "country": "UK",
+    "latitude": "52.4150225",
+    "longitude": "-4.0838949"
   },
   {
     "id": "9394f0baa4f34dbc668e8f19211d3f53",
@@ -5105,710 +5651,72 @@
     "district": "Ceredigion",
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
-    "country": "UK"
-  },
-  {
-    "id": "aba3a67d5811bdf1bdff8ce937b6cec3",
-    "country": ""
-  },
-  {
-    "id": "9b4f829d35768934794f068095519841",
-    "country": ""
-  },
-  {
-    "id": "d625b68c72088e25b33aee6c5c4c9445",
-    "country": ""
-  },
-  {
-    "id": "41c7750568b892827e120c36c858a852",
-    "country": ""
-  },
-  {
-    "id": "0a4ce1ce05797040842e4633f95cb7ed",
-    "country": ""
-  },
-  {
-    "id": "c66e62953334a22acf7dc8b90339e645",
-    "country": ""
-  },
-  {
-    "id": "828ace2b381cde37e0dcbb1b3014ce67",
-    "country": ""
-  },
-  {
-    "id": "e0439a94ebf6c8930d20d410770bb9bf",
-    "country": ""
-  },
-  {
-    "id": "ec1089ad95b7abdfdfd73ee457a6b9dc",
-    "country": ""
-  },
-  {
-    "id": "6b2b68897bda1e661e80ae5eb938e58d",
-    "country": ""
-  },
-  {
-    "id": "e27a4bdfc4c782bbaa528f364aeb28c5",
-    "country": ""
-  },
-  {
-    "id": "94121f8e586b0b83393fa09db9edca08",
-    "country": ""
-  },
-  {
-    "id": "7ea83a6b624c11ca7ea1f8ae646978bb",
-    "country": ""
-  },
-  {
-    "id": "efacbf471bad66b5fc67ca8e10bf0be6",
-    "country": ""
-  },
-  {
-    "id": "76c9205706a1356f475cf2ebd58a51ec",
-    "country": ""
-  },
-  {
-    "id": "b19bc8b2dbe8468cf30e4286e76b0683",
-    "country": ""
-  },
-  {
-    "id": "c42aefbe06be2e81c30cdfab561e1f25",
-    "country": ""
-  },
-  {
-    "id": "fa376ee10ef3e878715e801d93c1cf17",
-    "country": ""
-  },
-  {
-    "id": "f8e06219b9e6071389b6b14b4ba5b15a",
-    "country": ""
-  },
-  {
-    "id": "fe9587986a011fac6ef2c139cdb64f5d",
-    "country": ""
-  },
-  {
-    "id": "d39590c292dee3c48712d1caf62d9b5a",
-    "country": ""
-  },
-  {
-    "id": "06f04729cc464d52b23e30972b544dc8",
-    "country": ""
-  },
-  {
-    "id": "1e77150390b3d2d35944a17b69315ec7",
-    "country": ""
-  },
-  {
-    "id": "d1637a9fc61d38211d2e881c46f5bbf5",
-    "country": ""
-  },
-  {
-    "id": "47c2c5ad94f13f7c82d6372f12247a69",
-    "country": ""
-  },
-  {
-    "id": "0f51d4bf0d75f10654c5dc70960bae8c",
-    "country": ""
-  },
-  {
-    "id": "3577bb0a071f04927a5407f4b4777587",
-    "country": ""
-  },
-  {
-    "id": "6d537e9b9c1d1fa68c7bd5ffd4e0d9e1",
-    "country": ""
-  },
-  {
-    "id": "06b9ea6b1aa489df96c5be3c7bdc304e",
-    "country": ""
-  },
-  {
-    "id": "0cf798f804fff154b1b470f18eb838e6",
-    "country": ""
-  },
-  {
-    "id": "12ff1a2bca548fadf5af35d295d8b680",
-    "country": ""
-  },
-  {
-    "id": "41bd7815065a3f44a43633df300370bc",
-    "country": ""
-  },
-  {
-    "id": "16de06073d221142b51e8f4e90f8d86d",
-    "country": ""
-  },
-  {
-    "id": "a47d24509e0c1575ceee4f6e3afeb7eb",
-    "country": ""
-  },
-  {
-    "id": "d80606b75f1da4d84f1de588e31597a9",
-    "country": ""
-  },
-  {
-    "id": "9d973c2d450584d2251756f2da899a08",
-    "country": ""
-  },
-  {
-    "id": "b059f33714d1744539504117021e5b76",
-    "country": ""
-  },
-  {
-    "id": "cc380ad3b2073ff9a26ef243b96a32fc",
-    "country": ""
-  },
-  {
-    "id": "b16d4921e180314b19061c7e4a144fb3",
-    "country": ""
-  },
-  {
-    "id": "4218acc18d4442be4d7ef163f1137d4c",
-    "country": ""
-  },
-  {
-    "id": "ca15662785e3b067503adc8aa60ab2bd",
-    "country": ""
-  },
-  {
-    "id": "0f9cb00265019b1bb2a96410e10c5b71",
-    "country": ""
-  },
-  {
-    "id": "7d00a90ef89623aad1503453ae93dd27",
-    "country": ""
-  },
-  {
-    "id": "aaf8d1a5d649d23ec449503c3064f70f",
-    "country": ""
-  },
-  {
-    "id": "fa89906b18e380319e0608b17a8d4958",
-    "country": ""
-  },
-  {
-    "id": "9a97f87c1658a31651136fe50fdda03c",
-    "country": ""
-  },
-  {
-    "id": "5d7899992af9d1a3839db389b1d701ed",
-    "country": ""
-  },
-  {
-    "id": "bc32e8afde937cc107b391fed19fe8bd",
-    "country": ""
-  },
-  {
-    "id": "352e167f6f1185fa6b6e80774e1e4464",
-    "country": ""
-  },
-  {
-    "id": "396dc949f9efb0880852802b2325a877",
-    "country": ""
-  },
-  {
-    "id": "afb368de49783592add24a5c99baa483",
-    "country": ""
-  },
-  {
-    "id": "b77494ea48dff372c1ce406387b0ad52",
-    "country": ""
-  },
-  {
-    "id": "23d4b7eabff11a2990f08a4a2a2392fb",
-    "country": ""
-  },
-  {
-    "id": "f8fb5f372dc60532719f40d649073a51",
-    "country": ""
-  },
-  {
-    "id": "62b0c654bca85d6bfc807261c587345a",
-    "country": ""
-  },
-  {
-    "id": "dd12d54a49bbcfd553c1ac176c4e168b",
-    "country": ""
-  },
-  {
-    "id": "262cf56e5521bed0c2c0e6f6a8cb1fa2",
-    "country": ""
-  },
-  {
-    "id": "3892aef92bb4185842bb249b26439a3b",
-    "country": ""
-  },
-  {
-    "id": "2d3119f89a230329acea6bd4e7e9a756",
-    "country": ""
-  },
-  {
-    "id": "d4089e3d94bb3f267fe48716206c07db",
-    "country": ""
-  },
-  {
-    "id": "99fbeb25b97ec1311d0d584f2bafacd0",
-    "country": ""
-  },
-  {
-    "id": "0c5514105ad9783e8276a8c4d3614645",
-    "country": ""
-  },
-  {
-    "id": "779fcafe17618d7d24f7f96c2724e3bc",
-    "country": ""
-  },
-  {
-    "id": "5ee0a0751f449d2157410d96790bcc06",
-    "country": ""
-  },
-  {
-    "id": "5563b4cad875b4f9a8b4029081281b26",
-    "country": ""
-  },
-  {
-    "id": "77b91b5af3cc136450d341707e115641",
-    "country": ""
-  },
-  {
-    "id": "091ef678346aa03643b328f739ccd717",
-    "country": ""
-  },
-  {
-    "id": "f476bad5d3e5b35b0df1b710a7d36fab",
-    "country": ""
-  },
-  {
-    "id": "ad3e123c016c3f017d9a362ca754ed29",
-    "country": ""
-  },
-  {
-    "id": "4e3ea98c7597a8f916f6d25861ce6451",
-    "country": ""
-  },
-  {
-    "id": "99488db2eae0e865aca056a023831c45",
-    "country": ""
-  },
-  {
-    "id": "d8ee77f612e954ea1de1cd7e05ebb6b7",
-    "country": ""
-  },
-  {
-    "id": "2e5b0648fcf3ba9cbe3227234a9e77e6",
-    "country": ""
-  },
-  {
-    "id": "806971c02fa4525bf05e9cd938805a65",
-    "country": ""
-  },
-  {
-    "id": "a01813e8a726dbfcc0121d3a636e99e3",
-    "country": ""
-  },
-  {
-    "id": "4eb7344420870d9527db97fae2473381",
-    "country": ""
-  },
-  {
-    "id": "028279b8167d7e30f5ac56a501f7af2b",
-    "country": ""
-  },
-  {
-    "id": "a18e2535bd473c3132d78cc17a112aa4",
-    "country": ""
-  },
-  {
-    "id": "e41e073268f1c0d6dbbd81f74a0b526e",
-    "country": ""
-  },
-  {
-    "id": "6058ba19ad960bf08efa35f5a81c9270",
-    "country": ""
-  },
-  {
-    "id": "f95a425d30e1d6e1d81d282a8eb34b36",
-    "country": ""
-  },
-  {
-    "id": "cbbe5744f180979dda7b60203d9a1c6b",
-    "country": ""
-  },
-  {
-    "id": "e415b739f655e3539949d551e735e23d",
-    "country": ""
-  },
-  {
-    "id": "630d7bee60a283ff4000a6f024ba6f95",
-    "country": ""
-  },
-  {
-    "id": "b2059217908c4a806fe70b82adb0dd50",
-    "country": ""
-  },
-  {
-    "id": "279aa92085c02dbb06bfb0ac9d5ebc98",
-    "country": ""
-  },
-  {
-    "id": "ef3b7d8fcd60bc8b272dbdb62c09daa8",
-    "country": ""
-  },
-  {
-    "id": "71c74a3927d64b714362f4d421aad02a",
-    "country": ""
-  },
-  {
-    "id": "dab5c91921498f8e44a2598730cf419b",
-    "country": ""
-  },
-  {
-    "id": "1b4bc2ea4a97d0b99325b7f59650c2ce",
-    "country": ""
-  },
-  {
-    "id": "94056bd23c6c2cf2e70db1951966822e",
-    "country": ""
-  },
-  {
-    "id": "399b35aa38329eeabdc224352ca090fe",
-    "country": ""
-  },
-  {
-    "id": "49d176e6da2a68c8da1cfc3fe92b03fd",
-    "country": ""
-  },
-  {
-    "id": "35079ec6ba76eca02abf895a21d60b4b",
-    "country": ""
-  },
-  {
-    "id": "2675b92d08e7ca7b321c700fc9eec528",
-    "country": ""
-  },
-  {
-    "id": "2181f8430d395850b656107de5350eed",
-    "country": ""
-  },
-  {
-    "id": "6d1a207ccba494bcd294214d0a87f55b",
-    "country": ""
-  },
-  {
-    "id": "2ec834aa0011106921cc007a1a0b8766",
-    "country": ""
-  },
-  {
-    "id": "5cbe9435ee66dea62963e405ab49067d",
-    "country": ""
-  },
-  {
-    "id": "8acb61809a589dda31e6b59577d613ab",
-    "country": ""
-  },
-  {
-    "id": "6b1e7d2a5c15b761229627bba0daa02c",
-    "country": ""
-  },
-  {
-    "id": "0841b53f9a1f893510e6d4e1177ddf47",
-    "country": ""
-  },
-  {
-    "id": "0a78d7eedb6b3d73e407de81b5136a3a",
-    "country": ""
-  },
-  {
-    "id": "cb7c543e3e71bc443124d863daf5eafc",
-    "country": ""
-  },
-  {
-    "id": "c06d3af2c9809cb43e637eeabdb344cf",
-    "country": ""
-  },
-  {
-    "id": "2db8d1c6a13436029f573b60f75788cc",
-    "country": ""
-  },
-  {
-    "id": "70fa26c3cc2146422ba4237641789768",
-    "country": ""
-  },
-  {
-    "id": "2153360d9fa19073e6a4522e0c2870e7",
-    "country": ""
-  },
-  {
-    "id": "8d49c70dd7fa36400225f901ea125458",
-    "country": ""
-  },
-  {
-    "id": "9e825459983c3ad46541168d189937a2",
-    "country": ""
-  },
-  {
-    "id": "90584488e4c6aff19a20fa356ac803a4",
-    "country": ""
-  },
-  {
-    "id": "a213ad2ce241810c67dad904250d9551",
-    "country": ""
-  },
-  {
-    "id": "f70ea3d52b1760ee81272d732c37bae1",
-    "country": ""
-  },
-  {
-    "id": "adddfdc87f551911bd8a4b1733020cd2",
-    "country": ""
-  },
-  {
-    "id": "7375cfc1578a4218b8b58ff34d5b5485",
-    "country": ""
-  },
-  {
-    "id": "c5fa0c7cd75edb429a1521adea5fd37a",
-    "country": ""
-  },
-  {
-    "id": "e1442a51905fe06ec423e3e331431e20",
-    "country": ""
-  },
-  {
-    "id": "53efac9572b15a1f5a0bb1baee8105e4",
-    "country": ""
-  },
-  {
-    "id": "8e0f32336eeb10648c5bbae068b3d551",
-    "country": ""
-  },
-  {
-    "id": "85f028062264b690d915e378a213512c",
-    "country": ""
-  },
-  {
-    "id": "1cc2f30b2ffd876ff453bbff6f7d42a2",
-    "country": ""
-  },
-  {
-    "id": "e71335b53da902bafbae32a27daf2b4c",
-    "country": ""
-  },
-  {
-    "id": "9ac4e196ac2466b1e626321fdd60d8b7",
-    "country": ""
-  },
-  {
-    "id": "a84555265545d0990cacec34af156e87",
-    "country": ""
-  },
-  {
-    "id": "41cb8132fbd646801c79f982ea9df353",
-    "country": ""
-  },
-  {
-    "id": "376d4c0ab6874463dd01a715579e9d19",
-    "country": ""
-  },
-  {
-    "id": "155f1cddd20891e37d0892a2196e1b78",
-    "country": ""
-  },
-  {
-    "id": "12442247ed4d40528d94a124c19936a1",
-    "country": ""
-  },
-  {
-    "id": "dd7fdb3dd82a97cdcea6f644e8b4c0e1",
-    "country": ""
-  },
-  {
-    "id": "6e95a4bc372f2457435d20185a849375",
-    "country": ""
-  },
-  {
-    "id": "faba52b7dd159035ade7baeac56d2c58",
-    "country": ""
-  },
-  {
-    "id": "2b730231b7733516554fa070ffc40f6c",
-    "country": ""
-  },
-  {
-    "id": "132ef56430e7f922663f1fc271dd0c18",
-    "country": ""
-  },
-  {
-    "id": "4ab3d90d4cfceab15d20173a800fc7fe",
-    "country": ""
-  },
-  {
-    "id": "8ac1f6d46d2ef83deb1566eff7974ad5",
-    "country": ""
-  },
-  {
-    "id": "aee2625b8d3356c839e610aff577069f",
-    "country": ""
-  },
-  {
-    "id": "e45bc054c6503a7dea7b9b962fdb39b5",
-    "country": ""
-  },
-  {
-    "id": "57b1d509aba77827040d37c786800122",
-    "country": ""
-  },
-  {
-    "id": "f3cd77d135351210248c17dddf3a5364",
-    "country": ""
-  },
-  {
-    "id": "80f28bc5d2aa55aa0779f89d0beb8d0d",
-    "country": ""
-  },
-  {
-    "id": "69e3fd6d275a58afde8796e9dac65cad",
-    "country": ""
-  },
-  {
-    "id": "c40931c156b952cecd42ae9de01956d4",
-    "country": ""
-  },
-  {
-    "id": "7a5e1df018fdbaacbde47a5bfcda3f21",
-    "country": ""
-  },
-  {
-    "id": "3790e7ee43a9e069d69b1a9cbbf137be",
-    "country": ""
-  },
-  {
-    "id": "88c61bcfb769c8d1dafe9c2df1bae2a5",
-    "country": ""
-  },
-  {
-    "id": "6bb43e41ed1a3254e471a48a213a5550",
-    "country": ""
-  },
-  {
-    "id": "2df17dfb63e19fa6ad8d94cd7d5fed33",
-    "country": ""
-  },
-  {
-    "id": "d30fe565a9eb8249ddcf316dd80c6f61",
-    "country": ""
-  },
-  {
-    "id": "9d04ca75b1a8ee2d542d768a6e9947d4",
-    "country": ""
-  },
-  {
-    "id": "e45eaffbbe186472705f2c634eea9534",
-    "country": ""
-  },
-  {
-    "id": "71ee193f1396272c41a0a54016a6ba53",
-    "country": ""
-  },
-  {
-    "id": "b5f43a3e8cf8dd7bcdeb03b548fbab0b",
-    "country": ""
-  },
-  {
-    "id": "54fcd02df85914b104a90bec9aa795da",
-    "country": ""
-  },
-  {
-    "id": "8024c120d402dd5813bd119c008ff55e",
-    "country": ""
-  },
-  {
-    "id": "e3fe1a75509f52a9bf8b3aefda8c6779",
-    "country": ""
-  },
-  {
-    "id": "6e9eec60fdbf6fbc637c88b3ed581ff1",
-    "country": ""
-  },
-  {
-    "id": "f9731d0b34c425ae94e5c5acada7c536",
-    "country": ""
-  },
-  {
-    "id": "867c0489599b9b16eb6085dd6253858b",
-    "country": ""
-  },
-  {
-    "id": "cd35b8ec5ee2018a2f9622bea6bbf8fd",
-    "country": ""
-  },
-  {
-    "id": "4b55c86dab473e1035890bb7174ac2bb",
-    "country": ""
-  },
-  {
-    "id": "23cd119034d583c9be60f79b6953b165",
-    "country": ""
-  },
-  {
-    "id": "34ca8a0d5419f73e15c6a73c4b76c0a8",
-    "country": ""
-  },
-  {
-    "id": "aaf9b357f45eb01f5f9450cd692d9a09",
-    "country": ""
-  },
-  {
-    "id": "1c5c3c5a508e5a2c953b1cb2c533d8da",
-    "country": ""
-  },
-  {
-    "id": "ba7db27fedcab87c982d1bc33974bcbb",
-    "country": ""
-  },
-  {
-    "id": "183e2fe4d1e503c66bb6df69705b5b64",
-    "country": ""
-  },
-  {
-    "id": "bad4e817a58df6a2de3bd35d0f577488",
-    "country": ""
-  },
-  {
-    "id": "d171d9059234f8313faa9e56082d9166",
-    "country": ""
-  },
-  {
-    "id": "bf81ab56ec48aa676408246a85df0f07",
-    "country": ""
-  },
-  {
-    "id": "6bcdde50a70de1224f3d59054f352c87",
-    "country": ""
-  },
-  {
-    "id": "7340ff092e8cd77114cf2cc4cc206195",
-    "country": ""
-  },
-  {
-    "id": "6a72c755dba3290b0482bca58778a344",
-    "country": ""
-  },
-  {
-    "id": "d871e089e195b1c5579e2d9ae0127403",
-    "country": ""
-  },
-  {
-    "id": "321f7ee233507da289b3202c89067a5c",
-    "country": ""
-  },
-  {
-    "id": "f8f99b42292985223783ae5623f9633c",
-    "country": ""
-  },
-  {
-    "id": "fc73110a39a9dd3a3baf1c510d209907",
-    "country": ""
+    "country": "UK",
+    "latitude": "52.4150252",
+    "longitude": "-4.0842119"
+  },
+  {
+    "id": "5ff68588cd582bff39665d58deb0930c",
+    "handle": "toilet-uk-sy231lf-9-park-avenue",
+    "title_as_cy": "Toiled Cyhoeddus",
+    "title_as_en": "Public Toilet",
+    "subtitle_as_en": "Park Avenue",
+    "emojis": "🚻",
+    "street": "9 Park Avenue",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 1LF",
+    "country": "UK",
+    "latitude": "52.4120761",
+    "longitude": "-4.0812404"
+  },
+  {
+    "id": "19147a73f429696eaa2dacb56c155b01",
+    "handle": "toilet-uk-sy232bx-46-marine-terrace",
+    "title_as_cy": "Toiled Cyhoeddus",
+    "title_as_en": "Public Toilet",
+    "subtitle_as_en": "North Prom",
+    "emojis": "🚻",
+    "street": "46 Marine Terrace",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 1LF",
+    "country": "UK",
+    "latitude": "52.418364",
+    "longitude": "-4.0840907"
+  },
+  {
+    "id": "343c8ada70fa8c84811af1d850b28f94",
+    "handle": "toilet-uk-sy232au-castle-grounds",
+    "title_as_cy": "Toiled Cyhoeddus",
+    "title_as_en": "Public Toilet",
+    "subtitle_as_en": "Castle Grounds",
+    "emojis": "🚻",
+    "street": "Castle Grounds",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2AU",
+    "country": "UK",
+    "latitude": "52.4131531",
+    "longitude": "-4.0887681"
+  },
+  {
+    "id": "e92546f00f2a094834692d78009cda96",
+    "handle": "toilet-uk-sy231jy-south-marine-terrace",
+    "title_as_cy": "Toiled Cyhoeddus",
+    "title_as_en": "Public Toilet",
+    "subtitle_as_en": "South Prom",
+    "emojis": "🚻",
+    "street": "South Marine Terrace",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 1JY",
+    "country": "UK",
+    "latitude": "52.409144",
+    "longitude": "-4.089003"
   }
 ]

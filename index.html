@@ -109,6 +109,21 @@
                             return array;
                         },
 
+                        mapURL(latitude, longitude) {
+                            return 'https://www.openstreetmap.org/?mlat=' + latitude + '&mlon=' + longitude + '#map=16/' + latitude + '/' + longitude;
+                        },
+
+                        groupTileURL(group) {
+                            if (group.websiteURL != null) { return group.websiteURL; }
+                            if (group.facebookURL != null) { return group.facebookURL; }
+                            if (group.instagramURL != null) { return group.instagramURL; }
+                            if (group.tiktokURL != null) { return group.tiktokURL; }
+                            if (group.youtubeURL != null) { return group.youtubeURL; }
+                            if (group.twitterURL != null) { return group.twitterURL; }
+                            if (group.latitude != null && group.longitude != null) { return mapURL(group.latitude, group.longitude); }
+                            return null;
+                        },
+
                         category: '',
                         categoryFilter(group) {
                             return this.category === '' || group.emojis.includes(this.category);
@@ -151,14 +166,15 @@
                         <option value="💧">💧 Drinks</option></option>
                         <option value="🍅">🍅 Food</option></option>
                         <option value="🛍">🛍 Shops</option>
-                        <option value="🌃">🌃 Nightlife</option>
                         <option value="🏫">🏫 Indoor Activities</option>
                         <option value="🏞">🏞 Outdoor Activities</option>
+                        <option value="🌃">🌃 Nightlife</option>
                         <option value="🎈">🎈 Kid Activities</option>
                         <option value="🌼">🌼 Health & Body</option>
                         <option value="🎞">🎞 Videos</option>                        
                         <option value="👥">👥 Groups</option>
                         <option value="🏢">🏢 Businesses</option>
+                        <option value="🚻">🚻 Toilets</option>
 
                         <hr>
 
@@ -315,7 +331,7 @@
                             <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                                 <div class="pure-u-box">
                                     <template x-if="group.handle != null">
-                                        <a :href="group.websiteURL || group.facebookURL || group.instagramURL"><img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/' + group.handle + '/1080.jpg'" alt="icon" ></a>
+                                        <a :href="groupTileURL(group)"><img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/' + group.handle + '/1080.jpg'" alt="icon" ></a>
                                     </template>
                                     <template x-if="group.handle == null">
                                         <img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/x/1080.jpg'" alt="icon" >
@@ -342,7 +358,10 @@
                                             <a :href="group.calendar"><i class="fa-solid fa-calendar"></i></a>
                                         </template>
                                         <template x-if="group.map != null">
-                                            <a :href="'https://www.google.com/maps/search/' + group.map"><i class="fa-solid fa-map-pin"></i></a>
+                                            <a :href="'https://www.google.com/maps/search/' + group.map"><i class="fa-solid fa-map"></i></a>
+                                        </template>
+                                        <template x-if="group.latitude != null && group.longitude != null">                                           
+                                            <a :href="mapURL(group.latitude, group.longitude)"><i class="fa-solid fa-map-pin"></i></a>
                                         </template>
                                         <template x-if="group.facebookURL != null">
                                             <a :href="group.facebookURL"><i class="fa-brands fa-facebook"></i></a>

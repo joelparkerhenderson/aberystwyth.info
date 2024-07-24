@@ -25,6 +25,8 @@
         district: .[20],
         subcountry: .[21],
         postcode: .[22],
-        country: .[23]
+        country: .[23],
+        latitude: .[24],
+        longitude: .[25]
     }
 ]
