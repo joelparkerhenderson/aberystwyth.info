@@ -52,7 +52,7 @@
             .pure-menu-link {
                 margin: 0.2em;
                 font-size: 4vw;
-                padding: 5px; 
+                padding: 5px;
                 border: 1px solid black;
             }
             .pure-menu-link i {
@@ -68,8 +68,8 @@
             .splash {
                 margin: 0;
                 padding: 0;
-                position: relative; 
-                text-align: center; 
+                position: relative;
+                text-align: center;
             }
             .splash img {
                 width: 100%;
@@ -82,7 +82,7 @@
             }
             .splash h1 {
                 color: white;
-                font-size: 5.0vw; 
+                font-size: 5.0vw;
                 text-shadow: 2px 2px 2px #000, -0.5px -0.5px 1px #000, -0.5px 0.5px 1px #000, 0.5px -0.5px 1px #000;
             }
         </style>
@@ -158,7 +158,7 @@
                 <hr>
                 <h1>Aberystwyth Directory</h1>
                 <hr>
-    
+
                 <p>
                     <select x-model="category">
                         <option value="" disabled selected>Search by categories…</option>
@@ -168,10 +168,10 @@
                         <option value="🛍">🛍 Shops</option>
                         <option value="🏫">🏫 Indoor Activities</option>
                         <option value="🏞">🏞 Outdoor Activities</option>
-                        <option value="🌃">🌃 Nightlife</option>
                         <option value="🎈">🎈 Kid Activities</option>
+                        <option value="🌃">🌃 Nightlife</option>
                         <option value="🌼">🌼 Health & Body</option>
-                        <option value="🎞">🎞 Videos</option>                        
+                        <option value="🎞">🎞 Videos</option>
                         <option value="👥">👥 Groups</option>
                         <option value="🏢">🏢 Businesses</option>
                         <option value="🚻">🚻 Toilets</option>
@@ -206,7 +206,7 @@
                         <hr>
 
                         <option value="🛍">🛍 Shops</option>
-                        <option value="👛">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👛 Accessories</option>                        
+                        <option value="👛">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👛 Accessories</option>
                         <option value="🕰">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🕰 Antiques</option>
                         <option value="🖼">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖼 Arts</option>
                         <option value="📚">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Books</option>
@@ -222,12 +222,12 @@
                         <option value="🌷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌷 Flowers</option>
                         <option value="💎">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💎 Jewelry</option>
                         <option value="🐶">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐶 Pets</option>
-                        <option value="📱">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📱 Phones</option>                        
+                        <option value="📱">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📱 Phones</option>
                         <option value="📷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Photography</option>
                         <option value="🎽">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎽 Sports</option>
                         <option value="🛠️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Tools</option>
                         <option value="🧸">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧸 Toys</option>
-                        
+
                         <hr>
 
                         <option value="🏫">🏫 Indoor Activities</option>
@@ -245,13 +245,14 @@
                         <option value="👾">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 Video Games</option>
 
                         <hr>
- 
+
                         <option value="🏞">🏞 Outdoor Activities</option>
                         <option value="🏕">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏕 Camping</option>
                         <option value="🚲">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚲 Bicycling</option>
                         <option value="🚣">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚣 Boating</option>
                         <option value="🎣">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎣 Fishing</option>
                         <option value="⛳">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛳ Golfing</option>
+                        <option value="🏇">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏇 Riding</option>
                         <option value="🏃">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏃 Running</option>
                         <option value="🏊">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏊 Swimming</option>
                         <option value="🏄">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏄 Surfing</option>
@@ -318,11 +319,11 @@
                     <button x-on:click="alert('search')"><i class="fa-solid fa-magnifying-glass"></i></button>
                     <button x-on:click="search = ''; category = '';"><i class="fa-solid fa-xmark"></i></button>
                 </p>
-    
-                <div 
-                    class="pure-g" 
-                    style="margin-left: 2em; margin-right: 2em;"  
-                    x-data="{ groups: [] }" 
+
+                <div
+                    class="pure-g"
+                    style="margin-left: 2em; margin-right: 2em;"
+                    x-data="{ groups: [] }"
                     x-init="fetch('data.json')
                         .then(response => response.json())
                         .then(json => groups = json)"
@@ -361,7 +362,7 @@
                                         <template x-if="group.map != null">
                                             <a :href="'https://www.google.com/maps/search/' + group.map"><i class="fa-solid fa-map"></i></a>
                                         </template>
-                                        <template x-if="group.latitude != null && group.longitude != null">                                           
+                                        <template x-if="group.latitude != null && group.longitude != null">
                                             <a :href="mapURL(group.latitude, group.longitude)"><i class="fa-solid fa-map-pin"></i></a>
                                         </template>
                                         <template x-if="group.facebookURL != null">
@@ -405,8 +406,8 @@
             <h1>Aberystwyth Gallery</h1>
             <hr>
 
-            <div 
-                class="pure-g" 
+            <div
+                class="pure-g"
                 style="margin-left: 2em; margin-right: 2em;"
                 x-data=""
             >
@@ -417,7 +418,7 @@
                         </div>
                     </div>
                 </template>
-    
+
             </div>
 
         </main>
