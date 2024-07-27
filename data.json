@@ -2501,6 +2501,14 @@
     "longitude": "-4.0813196"
   },
   {
+    "id": "4fa2fac216ca83f1815026c09a243862",
+    "title_as_en": "Tesco Express",
+    "subtitle_as_cy": "Siop fwyd",
+    "subtitle_as_en": "Grocery Store",
+    "emojis": "🍅🛒",
+    "longitude": ""
+  },
+  {
     "id": "3ae3c42ceff6d4c335ad667c19cf9633",
     "handle": "marksandspencer",
     "title_as_en": "Marks & Spencer",
@@ -2520,6 +2528,14 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "63fef9c0a13bc5801d376ef3c976a7e2",
+    "title_as_en": "Spar",
+    "subtitle_as_cy": "Siop Groser",
+    "subtitle_as_en": "Grocery Store",
+    "emojis": "🍅🛒",
+    "longitude": ""
   },
   {
     "id": "baf832157237ac74809e6386629734b7",
@@ -3186,6 +3202,19 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "6e06d4f209c71d084925629b16ac0c48",
+    "handle": "rachelsorganic",
+    "title_as_en": "Rachel's Organic Dairy",
+    "subtitle_as_cy": "Iogwrt organig blasus wedi'i wneud gyda'r gorau sydd gan natur i'w gynnig.",
+    "subtitle_as_en": "Great tasting organic yogurts made with the best nature has to offer.",
+    "emojis": "🍅🐮",
+    "websiteURL": "https://www.rachelsorganic.co.uk/",
+    "facebookURL": "https://www.facebook.com/rachelsorganic",
+    "youtubeURL": "https://www.youtube.com/user/RachelsOrganicTV",
+    "twitterURL": "https://twitter.com/rachelsorganic",
+    "longitude": ""
   },
   {
     "id": "869559a725f82c0224cba9db6f84a642",
@@ -4233,6 +4262,21 @@
     "longitude": "-4.08292"
   },
   {
+    "id": "de39223b78967c7deffebe383fae039d",
+    "handle": "juderileymarbling",
+    "title_as_en": "Jude Riley Marbling",
+    "subtitle_as_cy": "Marmori ar bapur, sidan a chalchfaen i gynhyrchu gemwaith, sgarffiau, cardiau a matiau diod hardd",
+    "subtitle_as_en": "Marbling on paper, silk and limestone to produce beautiful jewellery, scarves, cards and coasters",
+    "emojis": "🛍🖼🧶💌",
+    "email": "juderiley22@gmail.com ",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1974 202461",
+    "websiteURL": "https://www.juderileymarbling.co.uk",
+    "facebookURL": "https://www.facebook.com/juderileymarbling",
+    "longitude": ""
+  },
+  {
     "id": "3757846aa0e6a9dff4e8418debb48534",
     "title_as_en": "Mouth of the Ystwyth Newspaper",
     "phoneGlobalPrefix": "44",
@@ -4522,6 +4566,20 @@
     "longitude": "-4.08292"
   },
   {
+    "id": "d68c44c6a3cad12acc14aff8b574ecf2",
+    "handle": "agcain",
+    "title_as_en": "Ag Cain",
+    "subtitle_as_cy": "Artist a Darlunydd",
+    "subtitle_as_en": "Artist & Illustrator",
+    "emojis": "🛍🖼🧶💌",
+    "email": "agcain@btinternet.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1974 282748",
+    "websiteURL": "https://www.agcain.com",
+    "longitude": ""
+  },
+  {
     "id": "77e39faac095249c2405e3c250edcdd4",
     "title_as_en": "Clinig Corff Ystwyth",
     "subtitle_as_cy": "Diagnosis arbenigol, rheoli a thrin poen yn y cymalau, poen nerfau, poen yn y cyhyrau, poen disg",
@@ -4659,6 +4717,20 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "be4a46ffc464f59452efd91896b1971f",
+    "handle": "anitawoodsart",
+    "title_as_en": "Anita Woods Art",
+    "subtitle_as_cy": "Artist Gain",
+    "subtitle_as_en": "Fine Artist",
+    "emojis": "🛍🖼🧶💌",
+    "email": "anitawoodsart@gmail.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7891 919444",
+    "websiteURL": "https://www.anitawoods.net",
+    "longitude": ""
   },
   {
     "id": "49fa46cc9e516b698fe3594bf19e1d3a",
@@ -4825,6 +4897,29 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "707e8e22ec6c490616a819ce0a9ddaed",
+    "handle": "afonmel",
+    "title_as_en": "Afon Mêl",
+    "subtitle_as_cy": "Fferm Fel A Medd-dy. Busnes fferm wenyn fach deuluol wedi’i leoli ar gyrion Cei Newydd yng Ngorllewin Cymru.",
+    "subtitle_as_en": "Honey Farm & Meadery. A small, family-run bee farm business based on the outskirts of New Quay in West Wales.",
+    "emojis": "💧🍺🍭🛒🍅🐝🍯",
+    "email": "info@afonmel.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1545 560822",
+    "websiteURL": "https://www.afonmel.com",
+    "facebookURL": "https://www.facebook.com/afonmeluk",
+    "instagramURL": "https://www.instagram.com/afonmeluk/",
+    "street": "New Quay Honey Farm, Cross Inn, ",
+    "city": "New Quay",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SA44 6NN",
+    "country": "UK",
+    "latitude": "52.18226",
+    "longitude": "-4.343558"
   },
   {
     "id": "bb9e799f45c4aeb308ea6f0b87f67733",
@@ -5009,6 +5104,30 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "8c9ed066d3c0d8247670ea302c6dc6b5",
+    "handle": "samanthaboulangerartist",
+    "title_as_en": "Samantha Boulanger Artist",
+    "subtitle_as_cy": "Eco Artist - Ffotograffydd - Gwneuthurwr Printiau - Uwchseiclwr - Hwylusydd Gweithdy",
+    "subtitle_as_en": "Eco Artist - Photographer - Printmaker - Upcyclist - Workshop Facilitator ",
+    "emojis": "🛍🖼🧶💌",
+    "email": "samantha.boulanger@gmail.com",
+    "websiteURL": "https://www.samanthaboulanger.uk/",
+    "facebookURL": "https://www.facebook.com/samanthaboulangerartist/",
+    "instagramURL": "https://www.instagram.com/samanthaboulangerartist/",
+    "longitude": ""
+  },
+  {
+    "id": "9397056bd62be90c5f84ead526066d94",
+    "handle": "kaotickittus",
+    "title_as_en": "Kaotic Kittus",
+    "subtitle_as_cy": "Yr Uwch-seiclwr Damweiniol. Finery eco ffynci wedi'i uwch-gylchu. Gweithdai uwch-gylchu/gwnïo creadigol.",
+    "subtitle_as_en": "The Accidental Up-cyclist. Funky up-cycled foraged eco finery. Up-cycling/creative sewing Workshops.",
+    "emojis": "🛍🧶👚",
+    "email": "kaotic.kittus@gmail.com",
+    "websiteURL": "https://www.kaotickittus.uk/",
+    "longitude": ""
   },
   {
     "id": "577d94fec7efe2c213cbd7b66aa09ab4",
@@ -5360,6 +5479,18 @@
     "longitude": ""
   },
   {
+    "id": "aaf5fdd40d73f5b570f95b923c05ceb2",
+    "handle": "moriathglass",
+    "title_as_en": "Moriath Glass",
+    "subtitle_as_cy": "Tirweddau Gwydr a Gemwaith",
+    "subtitle_as_en": "Glass Landscapes & Jewellery",
+    "email": "info@moriathglass.co.uk",
+    "websiteURL": "https://moriathglass.co.uk/",
+    "facebookURL": "https://www.facebook.com/MoriathGlass/",
+    "instagramURL": "https://www.instagram.com/moriathglass",
+    "longitude": ""
+  },
+  {
     "id": "649f61d02db754d1c0e902e1ecf2f79a",
     "title_as_en": "Andy's Records",
     "longitude": ""
@@ -5426,6 +5557,45 @@
     "longitude": "-4.0802189"
   },
   {
+    "id": "f3952f38010dc72eb4098f6f69af8373",
+    "title_as_en": "The Welsh Quilt Centre",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1570 422 088",
+    "websiteURL": "https://www.welshquilts.com",
+    "street": "The Town Hall, High Street",
+    "city": "Lampeter",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SA48 7BB",
+    "country": "UK",
+    "latitude": "52.1131368",
+    "longitude": "-4.0801821"
+  },
+  {
+    "id": "a0a53d61f39b095214bedbecb591ad86",
+    "handle": "corriscraftcentre",
+    "title_as_en": "Corris Craft Center",
+    "subtitle_as_cy": "Y ganolfan grefftau orau yng Nghymru: canhwyllau crochenwaith llestri gwydr dodrefn gemwaith siocledi gwaith celf gin gwlân lledr. Bwyd a diod flasus.",
+    "subtitle_as_en": "The Best Craft Centre in Wales: Pottery Candles Glassware Jewellery Furniture Chocolates Artwork Leather Wool Gin. Delicious Food & Drink.",
+    "email": "info@corriscraftcentre.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1654 761584",
+    "websiteURL": "https://www.corriscraftcentre.co.uk/",
+    "facebookURL": "https://www.facebook.com/CorrisCraftCentre/",
+    "instagramURL": "https://www.instagram.com/corriscraft/",
+    "twitterURL": "https://twitter.com/CorrisCrafts",
+    "street": "Corris",
+    "city": "Machynlleth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY20 9RF",
+    "country": "UK",
+    "latitude": "52.653861",
+    "longitude": "-3.8398249"
+  },
+  {
     "id": "931d595a8db950add394a2d417d5f1af",
     "title_as_cy": "Canolfan Podiatreg Aberystwyth",
     "title_as_en": "Aberystwyth Podiatry Centre",
@@ -5435,6 +5605,28 @@
     "id": "7d91ec827a1cd4c5e2f9e1d44dd8c269",
     "title_as_en": "WHSmith",
     "longitude": ""
+  },
+  {
+    "id": "d727a5fd41f7b5fd39babdf4ad0ac85a",
+    "handle": "willbromhamosteopathy",
+    "title_as_en": "Will Bromham Osteopathy",
+    "subtitle_as_cy": "Rydym yn helpu pobl sy'n dioddef o boen asgwrn cefn i fyw bywydau hapusach ac iachach.",
+    "subtitle_as_en": "We help people who suffer with spinal pain to live happier healthier lives.",
+    "emojis": "🌼👩‍⚕️",
+    "email": "willbromhamosteopathy@gmail.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7935 813147",
+    "websiteURL": "https://willbromhamosteopathy.co.uk",
+    "facebookURL": "https://www.facebook.com/profile.php?id=100089333971444",
+    "street": "Blaenplwyf",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 4BL",
+    "country": "UK",
+    "latitude": "52.3582652",
+    "longitude": "-4.0920735"
   },
   {
     "id": "6f0cf7aae52d08b3f31390c1c8aafea8",
@@ -5459,13 +5651,6 @@
     "longitude": ""
   },
   {
-    "id": "24368955701c516c6364fe74a67bce2f",
-    "title_as_en": "Yr Hafod",
-    "subtitle_as_cy": "Gwesty",
-    "subtitle_as_en": "Guest House",
-    "longitude": ""
-  },
-  {
     "id": "aeb5092e38b7a4ca110e220ed4ee112c",
     "handle": "llanerchaeron",
     "title_as_en": "National Trust - Llanerchaeron",
@@ -5485,6 +5670,12 @@
     "subcountry": "Wales",
     "postcode": "SA48 8DG",
     "country": "UK",
+    "longitude": ""
+  },
+  {
+    "id": "cabefa5f5cda517c98b334f3e20c74d1",
+    "title_as_en": "Centre for Alternative Technology",
+    "websiteURL": "https://cat.org.uk",
     "longitude": ""
   },
   {
@@ -5597,6 +5788,23 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "24368955701c516c6364fe74a67bce2f",
+    "title_as_cy": "Hafod Hotel",
+    "title_as_en": "Yr Hafod",
+    "subtitle_as_cy": "Gwesty eang ac ymlaciol gyda swyn gwych, lleoliad diguro, bwyd o safon, ystafelloedd moethus gyda golygfa, a thirweddau gwyllt.",
+    "subtitle_as_en": "A spacious and relaxing hotel with great charm, unbeatable location, quality food, luxury rooms with a view, and wild landscapes.",
+    "emojis": "🏢🛎",
+    "websiteURL": "https://thehafod.co.uk/",
+    "street": "Devils Bridge",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 3JL",
+    "country": "UK",
+    "latitude": "52.3770599",
+    "longitude": "-3.8510549"
   },
   {
     "id": "9371c184d1186d0d2ef03a7b654f8d13",
