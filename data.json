@@ -1654,6 +1654,27 @@
     "longitude": "-4.0195183"
   },
   {
+    "id": "e798958cefa021a7331f2c0e67e66ba8",
+    "handle": "bmocoaching",
+    "title_as_en": "BMO Coaching",
+    "subtitle_as_cy": "Nod ysbrydoli, ymgysylltu ac addysgu'r gymuned leol trwy bŵer chwaraeon.",
+    "subtitle_as_en": "Aiming to inspire, engage and educate the local community through the power of sport.",
+    "emojis": "🌼💪🎽🎈",
+    "email": "info@bmocoaching.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7812 410392",
+    "websiteURL": "https://bmocoaching.co.uk/",
+    "facebookURL": "https://www.facebook.com/BMOcoaching",
+    "instagramURL": "https://www.instagram.com/BMOcoaching",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23",
+    "country": "UK",
+    "longitude": ""
+  },
+  {
     "id": "ac37ce29f03e65c12c8f1a2ae97d354c",
     "handle": "clivecontinentalmenswear",
     "title_as_en": "Clive Continental Menswear",
