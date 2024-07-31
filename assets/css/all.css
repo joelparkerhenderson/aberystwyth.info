@@ -1,0 +1,85 @@
+/*
+@media screen and (min-width: 640px) {
+    main {
+        max-width: 640px;
+        margin: 0 auto;
+    }
+}
+*/
+body {
+    font-family:Arial,helvetica,sans-serif;
+    font-size:100%;
+    font-size:1em;
+}
+.center {
+    justify-content: center;
+    text-align:center;
+}
+.blockCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header, footer {
+    width: 100%;
+    background-color: #ddd;
+    color: #111;
+    font-weight: bold;
+}
+header {
+    border-bottom: 1px solid #888;
+    margin-bottom: 2em;
+}
+footer {
+    border-top: 1px solid #888;
+    margin-top: 2em;
+}
+main {
+}
+nav {
+}
+.pure-menu-link {
+    margin: 0.2em;
+    font-size: 4vw;
+    padding: 5px;
+    border: 1px solid black;
+}
+.pure-menu-link i {
+    margin-right: 0.25em;
+}
+a.pure-menu-link:hover {
+    color: black;
+    text-shadow: 0 0;
+}
+.pure-u-box {
+    padding: 1em;
+}
+.pure-u-box img {
+    border: 1px solid #333;
+}
+.pure-u-box h2 {
+}
+.pure-u-box h3 {
+}
+.pure-u-box p {
+}
+.splash {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-align: center;
+}
+.splash img {
+    width: 100%;
+}
+.splash-headline-area {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -43%);
+}
+.splash h1 {
+    color: white;
+    font-size: 5.0vw;
+    text-shadow: 2px 2px 2px #000, -0.5px -0.5px 1px #000, -0.5px 0.5px 1px #000, 0.5px -0.5px 1px #000;
+}
