@@ -1469,7 +1469,7 @@
     "title_as_en": "Tŷ Seidr Bar & Bottle Shop",
     "subtitle_as_cy": "Siop Cider Bar a Botel gydag awyrgylch groesawgar lle gallwch arogli'r cyfuniad perffaith o gemau bwrdd a bwydlen cwrw seidr a chrefft helaeth.",
     "subtitle_as_en": "Cider bar & bottle shop with a welcoming atmosphere where you can savor the perfect combination of board games & extensive cider and craft beer menu.",
-    "emojis": "💧🍺🍷",
+    "emojis": "💧🍺🐶🃏",
     "email": "tyseidr@gmail.com",
     "phoneGlobalPrefix": "44",
     "phoneLocalPrefix": "0",
@@ -2480,7 +2480,7 @@
     "title_as_en": "Gamepark",
     "subtitle_as_cy": "Ni yw stociwr mwyaf Aber o’r holl gemau bwrdd, gemau cardiau a gemau pen bwrdd, fel Warhammer.",
     "subtitle_as_en": "We are Aber’s biggest stockist of all board games, card games and tabletop games, like Warhammer.",
-    "emojis": "🛍🎲",
+    "emojis": "🛍🎲🃏",
     "email": "abergamepark@outlook.com",
     "phoneGlobalPrefix": "44",
     "phoneLocalPrefix": "0",
@@ -2524,8 +2524,12 @@
     "subtitle_as_cy": "Gwely a Brecwast ar y prif bromenâd. Golygfeydd o'r môr ac mae gan bob ystafell en-suite",
     "subtitle_as_en": "Bed & Breakfast on the main promenade. Sea views and all rooms have en-suite",
     "emojis": "🏫🛎",
+    "email": "bookings@helmsmanguesthouse.co.uk",
     "phoneGlobalPrefix": "44",
     "phoneLocalPrefix": "0",
+    "phone": "1970 624132 ",
+    "websiteURL": "https://helmsmanguesthouse.co.uk/",
+    "facebookURL": "https://www.facebook.com/helmsman.guesthouse",
     "instagramURL": "https://instagram.com/helmsmanguesthouse",
     "street": "43 Marine Terrace",
     "city": "Aberystwyth",
@@ -3572,8 +3576,8 @@
     "id": "696d2eca08c588529678ae0b65509bb1",
     "handle": "wyauedkinseggs",
     "title_as_en": "Wyau Edkins Eggs",
-    "subtitle_as_cy": "Cynhyrchwyr wyau maes ffres Cymreig.",
-    "subtitle_as_en": "Producers of fresh Welsh free range eggs.",
+    "subtitle_as_cy": "Peiriant wyau yn gwerthu wyau maes ffres",
+    "subtitle_as_en": "Egg vending machine selling fresh local free range eggs",
     "emojis": "🍅🛒🥚",
     "email": "coedfarm686@gmail.com",
     "phoneGlobalPrefix": "44",
@@ -3956,8 +3960,8 @@
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
     "country": "UK",
-    "latitude": "52.411442",
-    "longitude": "-4.0687485"
+    "latitude": "52.4148392",
+    "longitude": "-4.0838644"
   },
   {
     "id": "703e121b747d2e622a8ce933808560cc",
@@ -4116,8 +4120,8 @@
     "subcountry": "Wales",
     "postcode": "SY23 1DE",
     "country": "UK",
-    "latitude": "52.411442",
-    "longitude": "-4.0687485"
+    "latitude": "52.4148392",
+    "longitude": "-4.0838644"
   },
   {
     "id": "dc25da74dc16d142660e52553cd36ab8",
