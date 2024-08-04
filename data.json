@@ -78,6 +78,7 @@
     "websiteURL": "https://bankvault.cymru/",
     "facebookURL": "https://facebook.com/BankVaultAber",
     "instagramURL": "https://instagram.com/bankvaultaber",
+    "youtubeURL": "https://www.youtube.com/channel/UC_UjXitBAcwmkKwxP1fDLlA",
     "street": "1 New St",
     "city": "Aberystwyth",
     "district": "Ceredigion",
@@ -4335,21 +4336,6 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
-  },
-  {
-    "id": "de39223b78967c7deffebe383fae039d",
-    "handle": "juderileymarbling",
-    "title_as_en": "Jude Riley Marbling",
-    "subtitle_as_cy": "Marmori ar bapur, sidan a chalchfaen i gynhyrchu gemwaith, sgarffiau, cardiau a matiau diod hardd",
-    "subtitle_as_en": "Marbling on paper, silk and limestone to produce beautiful jewellery, scarves, cards and coasters",
-    "emojis": "🛍🖼🧶💌",
-    "email": "juderiley22@gmail.com ",
-    "phoneGlobalPrefix": "44",
-    "phoneLocalPrefix": "0",
-    "phone": "1974 202461",
-    "websiteURL": "https://www.juderileymarbling.co.uk",
-    "facebookURL": "https://www.facebook.com/juderileymarbling",
-    "longitude": ""
   },
   {
     "id": "3757846aa0e6a9dff4e8418debb48534",
