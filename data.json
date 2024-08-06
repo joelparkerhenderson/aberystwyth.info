@@ -6266,6 +6266,27 @@
     "longitude": "-4.08292"
   },
   {
+    "id": "0f3cb2e665f8f3dcfc77c37c516fb19c",
+    "handle": "phonelineaberystwyth ",
+    "title_as_en": "Phoneline Aberystwyth ",
+    "subtitle_as_cy": "Popeth symudol yn ogystal â theclynnau. Siop leol yn gwasanaethu pobl leol.",
+    "subtitle_as_en": "Everything mobile as well as gadgets. A local shop serving local people.",
+    "emojis": "🛍📱",
+    "email": "phoneline@outlook.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 627744",
+    "facebookURL": "https://www.facebook.com/phoneline.aber",
+    "street": "9 North Parade",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2JH",
+    "country": "UK",
+    "latitude": "52.4150435",
+    "longitude": "-4.0830138"
+  },
+  {
     "id": "aa7084bd716f9c3c52cf57e6c05ccf36",
     "title_as_en": "Get Connected",
     "subtitle_as_cy": "Ffonau a Rhyngrwyd a Gwasanaethau",
