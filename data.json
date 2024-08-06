@@ -5671,6 +5671,27 @@
     "longitude": ""
   },
   {
+    "id": "8af2f06e47c2a3860595ffd89d46e486",
+    "handle": "shawtelecommunications",
+    "title_as_en": "Shaw Telecommunications",
+    "subtitle_as_cy": "Cwmni telathrebu lleol Aberystwyth.",
+    "subtitle_as_en": "Aberystwyth's local telecommunications company.",
+    "email": "enquiries@shawtelecommunications.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 600778",
+    "websiteURL": "https://shawtelecommunications.com/",
+    "facebookURL": "https://www.facebook.com/profile.php?id=100063663095399",
+    "street": "Huanfa, Ffordd Penparcau Road, Southgate",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 1RY.",
+    "country": "UK",
+    "latitude": "52.3998096",
+    "longitude": "-4.0707841"
+  },
+  {
     "id": "bed90bccfd7a4f520672d242bef09c5e",
     "title_as_en": "Sophisticut",
     "longitude": ""
