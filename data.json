@@ -5781,8 +5781,23 @@
   },
   {
     "id": "649f61d02db754d1c0e902e1ecf2f79a",
+    "handle": "andysrecordsaberystwyth",
     "title_as_en": "Andy's Records",
-    "longitude": ""
+    "subtitle_as_cy": "Recordiau finyl newydd a defnyddiedig a chryno ddisgiau newydd. Amrywiaeth enfawr o deitlau clasurol. Mae hon yn siop recordiau difrifol.",
+    "subtitle_as_en": "New and used vinyl records and new CDs. Huge range of classic titles. This is a serious record shop.",
+    "email": "shop@andys-records.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 624581",
+    "facebookURL": "https://www.facebook.com/AndysRecordsAber",
+    "street": "16 Northgate Street",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2JS",
+    "country": "UK",
+    "latitude": "52.4159765",
+    "longitude": "-4.0784133"
   },
   {
     "id": "4f84feaaa40ca374b13bcef851ff57fc",
