@@ -5585,6 +5585,27 @@
     "longitude": "-4.08292"
   },
   {
+    "id": "4d84ca109a91c127a4f991e8865c01bc",
+    "handle": "alansalterations",
+    "title_as_en": "Alan's Alterations",
+    "subtitle_as_cy": "Canolfan Gwnïo Canolbarth Cymru",
+    "subtitle_as_en": "Mid Wales Sewing Centre",
+    "email": "sales@alansalterations.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1654 700008",
+    "websiteURL": "https://www.alansalterations.com/",
+    "facebookURL": "https://www.facebook.com/profile.php?id=100066498500464",
+    "street": "Unit 16, Treowain Industrial Estate, Forge Road",
+    "city": "Machynlleth",
+    "district": "Powys",
+    "subcountry": "Wales",
+    "postcode": "SY20 8EG",
+    "country": "UK",
+    "latitude": "52.5896154",
+    "longitude": "-3.843106"
+  },
+  {
     "id": "10c17a6f122fd799fdc51e0f9a9d8c0a",
     "title_as_en": "Juice 33",
     "phoneGlobalPrefix": "44",
@@ -5714,6 +5735,23 @@
     "title_as_cy": "Yr Eidal Fach",
     "title_as_en": "Little Italy",
     "subtitle_as_en": "Italian Restaurant",
+    "longitude": ""
+  },
+  {
+    "id": "ad561171bdec4956279b3d51f0178e2a",
+    "handle": "trinityschoolofmotoringaberystwyth",
+    "title_as_en": "Trinity School of Motoring",
+    "subtitle_as_cy": "Hyfforddwr gyrru lleol gyda dros 40 mlynedd o brofiad. Gwersi ar gael yn Gymraeg a Saesneg.",
+    "subtitle_as_en": "Local driving instructor with over 40 years experience. Lessons available in English and Welsh.",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7977 484458",
+    "facebookURL": "https://www.facebook.com/profile.php?id=100086783974581",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23",
+    "country": "UK",
     "longitude": ""
   },
   {
