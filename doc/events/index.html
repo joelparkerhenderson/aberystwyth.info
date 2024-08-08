@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+	<head>
+        <title>www.Aberystwyth.info - Aberystwyth, Ceredigion, Wales, UK</title>
+		<meta charset="utf-8" />
+        <link rel="canonical" href="https://www.aberystwyth.info/">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/3.0.0/pure-min.css" integrity="sha512-X2yGIVwg8zeG8N4xfsidr9MqIfIE8Yz1It+w2rhUJMqxUwvbVqC5OPcyRlPKYOw/bsdJut91//NO9rSbQZIPRQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/3.0.0/grids-responsive.min.css" integrity="sha512-5hr5fSxiYwkxK0EZX2B/DILA1QoyXwIf9ynWVbyMvqcMIDZ0XZKWw+xk9mysLSOLV4iMrBB1t/YAxt/006W4HA==" crossorigin="anonymous" referrerpolicy="no-referrer" />        <script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/3.14.0/cdn.min.js" integrity="sha512-4e/5PZ1eoLJMDjaJXTHkWRA0yec8bm07/iINYSd5rdJ38jGm5OZkEi3J+7LqSDWNATNJ4/aneNlrk2AYnnckIg==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+
+    <body>
+        <h1>Calendar WIP</h1>
+        <textarea id="calendar" cols="80" rows="25">
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+PRODID:-//Example Inc.//Example Calendar//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20080205T191224Z
+DTSTART;VALUE=DATE:20081006
+SUMMARY:Planning meeting
+UID:4088E990AD89CB3DBB484909
+END:VEVENT
+END:VCALENDAR
+        </textarea>
+        <br>
+        <button id="parse">Parse</button>
+
+        <script type="module">
+            import ICAL from "https://unpkg.com/ical.js/dist/ical.min.js";
+
+            function getCalendarIcs() {
+                console.trace("getCalendarIcs");
+                return getCalendarIcsViaTextAreaElement();
+                //return getCalendarIcsVIaGoogleCalendarForAberystwythInfo();
+            }
+
+            function getCalendarIcsViaTextAreaElement() {
+                console.trace("getGoogleCalendarIcsForAberystwythInfo");
+                let ics = document.getElementById("calendar").value;
+                console.log("getCalendarIcsViaElement: " + ics);
+                return ics;
+            }
+
+            async function getCalendarIcsViaGoogleCalendarForAberystwythInfo() {
+                console.trace("getGoogleCalendarIcsForAberystwythInfo");
+                const url = "https://calendar.google.com/calendar/ical/pm91ch5jsplnc81agf2mn9lsd0%40group.calendar.google.com/public/basic.ics";
+                try {
+                    const response = await fetch(url, {mode: 'no-cors'});
+                    if (!response.ok) {
+                        throw new Error(`Response status: ${response.status}`);
+                    }
+                    let ics = await response.text();
+                    console.log("getCalendarIcsViaGoogle: " + ics);
+                    return ics;
+                } catch (error) {
+                    console.error(error.message);
+                }
+            }
+
+            function doICALICS(ics) {
+                console.trace("doICALICS");
+                let json = ICAL.parse(ics);
+                let vcalendar = new ICAL.Component(json);
+                let vevents = vcalendar.getAllSubcomponents("vevent");
+                for (const vevent of vevents) {
+                    let event = new ICAL.Event(vevent);
+                    doICALEvent(event);
+                }
+            }
+
+            function doICALEvent(event) {
+                console.trace("doICALEvent");
+                console.log("string: " + event.toString());
+                console.log("summary: " + event.summary);
+                console.log("location: " + event.location);
+                console.log("description: " + event.description);
+                console.log("startDate: " + event.startDate.toICALString());
+                console.log("endDate: " + event.endDate.toICALString());
+                console.log("isRecurring: " + event.isRecurring());
+                //console.log("event.recurrenceTypes: " + event.getRecurrenceTypes());
+            }
+
+            let parseButton = document.getElementById("parse");
+            parseButton.addEventListener("click", () => {
+                console.log("parse");
+                let ics = getCalendarIcs();
+                doICALICS(ics);
+            });
+        </script>
+
+    </body>
+</html>

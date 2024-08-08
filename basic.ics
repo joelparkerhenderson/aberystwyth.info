@@ -1,0 +1,1631 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aberystwyth.info
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:Aberystwyth.info shared calendar
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:GMT+1
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20120121T200000Z
+DTEND:20120121T220000Z
+DTSTAMP:20240804T212556Z
+UID:eojab5n8iubcg6hhg11kgsrlpk@google.com
+CREATED:20120110T040047Z
+DESCRIPTION: http://www.meetup.com/San-Francisco-Creative-Coders/events/472
+ 28862/t/ea1_grp/?rv=ea1\n\nGrilling foods & swilling beverages in the hot J
+ anuary sun :)\n\nThis time we're going to move camp over to the Mission and
+  tryout Dolores Park.\n\nAs always bring your latest projects and curiositi
+ es to the conversation as well as any friends who might enjoy meeting our s
+ miling faces.
+LAST-MODIFIED:20120110T040117Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Creative Coders - Dolores Park BBQ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120203
+DTEND;VALUE=DATE:20120204
+DTSTAMP:20240804T212556Z
+UID:bpcq4eali5o52u7vitua29kcmc@google.com
+CREATED:20120203T230344Z
+LAST-MODIFIED:20120203T230357Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Free Cowork Day: NextSpace
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120518T160000Z
+DTEND:20120519T000000Z
+DTSTAMP:20240804T212556Z
+UID:gqtco65soe2tak1acs2s362q0o@google.com
+CREATED:20120516T202129Z
+DESCRIPTION:RockIT Recruiting\n880 Harrison St\, Suite 204\, San Francisco\
+ , CA (map)\n\nRockIT Recruiting is sponsoring an all day Ruby Lounge (9am -
+  5pm) the day after the Unconference. Here's your opportunity to hack on wh
+ at you learned at the Unconference\, pair with the cool people you met\, or
+  just work on your own thing.\n\nIn order to keep your momentum going\, Roc
+ kIT will be catering lunch.\n\nAnd to make sure you have non-stop Ruby acti
+ on\, RockIT will be sponsoring a Ruby Happy Hour starting at 5PM at Iron Ca
+ ctus. Drinks & appetizers are on them until 6PM. RSVP for the Happy Hour he
+ re.\n\n
+LAST-MODIFIED:20120516T202218Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ruby Postcon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140816T010000Z
+DTEND:20140816T030000Z
+DTSTAMP:20240804T212556Z
+UID:p3l9i15p3bqn7ok892h3p4kst0@google.com
+CREATED:20140809T225256Z
+LAST-MODIFIED:20140809T225256Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ava Swanson - Singer Songwriter - Wild Joe's
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140912T010000Z
+DTEND:20140912T040000Z
+DTSTAMP:20240804T212556Z
+UID:c2mkm0nu2f8l4pqg5j227hpqc0@google.com
+CREATED:20140905T190357Z
+LAST-MODIFIED:20140905T190505Z
+LOCATION:Homewood Suites - Buffalo B Conference Room - 1023 E Baxter Ln\, B
+ ozeman\, MT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Programmers Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140913T000000Z
+DTEND:20140913T020000Z
+DTSTAMP:20240804T212556Z
+UID:lb90lci82tiltmvb7eq2q98gfo@google.com
+CREATED:20140905T190834Z
+LAST-MODIFIED:20140905T190859Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Art Walk - last of the season
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140913T183000Z
+DTEND:20140913T220000Z
+DTSTAMP:20240804T212556Z
+UID:7sla52d8e7k7gn6fbvnf3kuies@google.com
+CREATED:20140905T191317Z
+LAST-MODIFIED:20140905T191317Z
+LOCATION:N.W. end of Lowe's parking lot - 1731 Tschache Ln\, off N. 19th\,
+ Bozeman\, MT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Home Tour
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T010000Z
+DTEND:20140921T040000Z
+DTSTAMP:20240804T212556Z
+UID:955ijs6tuoet7rjn096qflbhq4@google.com
+CREATED:20140905T191718Z
+DESCRIPTION:http://www.meetup.com/Saturday-Night-Board-Games-SNBG/events/20
+ 4357292\n
+LAST-MODIFIED:20140905T191718Z
+LOCATION:1601 W Main St\, Bozeman\, MT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Board Games
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141210T003000Z
+DTEND:20141210T010000Z
+DTSTAMP:20240804T212556Z
+UID:tpmbfi8buc10v94vc55s1746ds@google.com
+CREATED:20141206T012203Z
+LAST-MODIFIED:20141206T012203Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Photoshop @ F11
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150413T223000Z
+DTEND:20150414T010000Z
+DTSTAMP:20240804T212556Z
+UID:f5sflp0027sqptj2okhjos3u8k@google.com
+CREATED:20150407T050710Z
+DESCRIPTION:http://www.meetup.com/geonyc/events/219561742/
+LAST-MODIFIED:20150407T050804Z
+LOCATION:Uber NYC\, 636 W 28th St 3rd Fl\, New York\, NY
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Uber
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150408T223000Z
+DTEND:20150409T020000Z
+DTSTAMP:20240804T212556Z
+UID:nnjvlvn4jp66fasjrnb9dbca58@google.com
+CREATED:20150407T051842Z
+DESCRIPTION:http://www.meetup.com/mysqlnyc/events/221369970/
+LAST-MODIFIED:20150407T052400Z
+LOCATION:ThoughtWorks\, 99 Madison Ave.\, 15th Floor\, New York\, NY
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Parallel DB
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151204T000000Z
+DTEND:20151204T020000Z
+DTSTAMP:20240804T212556Z
+UID:rv75fj7vu4ps070a4lkinqnnb0@google.com
+CREATED:20151203T061328Z
+LAST-MODIFIED:20151203T061426Z
+LOCATION:MAP Brewing\, 510 Manley Road\, Bozeman\, MT
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Happy Hour at MAP Brewing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20140813T190000
+DTEND;TZID=America/Denver:20140813T220000
+RRULE:FREQ=WEEKLY;UNTIL=20160113T065959Z;INTERVAL=2;BYDAY=WE
+EXDATE;TZID=America/Denver:20150211T190000
+EXDATE;TZID=America/Denver:20150408T190000
+EXDATE;TZID=America/Denver:20150422T190000
+EXDATE;TZID=America/Denver:20150812T190000
+DTSTAMP:20240804T212556Z
+UID:2kotufaukvm6cuthamc7s3mccc@google.com
+CREATED:20140804T004808Z
+LAST-MODIFIED:20160114T003317Z
+LOCATION:Hastings Entertainment\, 1601 W Main St\, Bozeman\, MT
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ruby (meetup\, biweekly)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T010000Z
+DTEND:20170426T050000Z
+DTSTAMP:20240804T212556Z
+UID:udvojeth2d4qcngjqeltj7cgt8@google.com
+CREATED:20170412T204609Z
+DESCRIPTION:WHEN:\nTuesday\, April 25\, 2017\nWorkshop: 6:00 pm to 7:30 pm\
+ nKey-Signing Party: 7:30 to 9:00 pm\n\nDear Joel\,\n\nEFF invites you and y
+ our friends to get off the sidelines on April 25 and join the data privacy
+ team!\n\nFIRST HALF: PGP Workshop\nThe evening kicks off at 6 pm with an ad
+ vanced workshop on email encryption with EFF's Lisa Wright and Tom Lowentha
+ l\, Staff Technologist at the Committee to Protect Journalists.  Learn how
+ to solidly defend your privacy online using public key cryptography and cre
+ ate your own PGP key. Register for the workshop.\n\nSECOND HALF: Key-Signin
+ g Party\nAt 7:30 pm\, EFF is hosting a community key-signing party. New key
+ holders and established users will mingle\, verify IDs\, and expand the web
+  of trust. You can attend the key-signing party only when you RSVP with you
+ r PGP fingerprint.\n\nMembers may attend one or both halves and are encoura
+ ged to bring a guest. After all\, privacy is a team sport and everyone wins
+ ! Join our roster today.\n\nWHEN:\nTuesday\, April 25\, 2017\nWorkshop: 6:0
+ 0 pm to 7:30 pm\nKey-Signing Party: 7:30 to 9:00 pm\n\nWHERE:\nGrey Area\n2
+ 665 Mission St\nSan Francisco\, CA 94110\n\nSPECIAL NOTES:\nThis is a free
+ gathering for members and we encourage you to bring a friend\; all ages are
+  welcome. Space is limited. No-host bar.\n\nSee you there!\n\nMaggie Kazmie
+ rczak\nMembership Coordinator
+LAST-MODIFIED:20170412T204645Z
+LOCATION:Grey Area\, 2665 Mission St\, San Francisco\, CA 94110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EFF
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T003000Z
+DTEND:20180518T023000Z
+DTSTAMP:20240804T212556Z
+UID:4teu73q2c6njppaumn9adbpk5f@google.com
+CREATED:20180517T195218Z
+DESCRIPTION:For full details\, including the address\, and to RSVP see: htt
+ ps://www.meetup.com/Big-Data-Developers-in-Los-Angeles/events/249674338\n\n
+ Join us for this informative meetup.\n\nDo you want to know how to accelera
+ te development of machine l...
+LAST-MODIFIED:20180517T195218Z
+LOCATION:Convene Conference Ctr - 3rd Floor - 333 South Grand Avenue - Los
+ Angeles\, ca\, us
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Accelerate training of machine/deep learning algorithms
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120116T000000Z
+DTEND:20120116T030000Z
+DTSTAMP:20240804T212556Z
+UID:stjor3sv4m6t76n2g40sdnvbjg@google.com
+CREATED:20120110T032229Z
+DESCRIPTION:Meetup for Scout Masters: San Francisco Skill Seekers & DIY / M
+ akers\n\nWhat: Let's Get Craft-Tea!\n\nWhen: Sunday\, January 15\, 2012 4:0
+ 0 PM\n\nWhere: Lisa's Place\, 94102\, San Francisco\, CA (Ask for details)\
+ n\nIt's time to knit\, drink\, and be merry! Well\, more exactly we will:\n
+ \nDrink tea or coffee (provided by me\, or bring your favorite variety)\n\n
+ Make crafts (I can help you with your knitting\, but feel free to bring wha
+ tever craft you like)\n\nEat snacks (...\n\nClick here to say you're going
+ http://www.meetup.com/Scouts/events/44881232/t/me2o_rt\n
+LAST-MODIFIED:20230104T163819Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Craft-Tea
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100612T013000Z
+DTEND:20100612T043000Z
+DTSTAMP:20240804T212556Z
+UID:3kf7dshlro7eic2bte7ok4kues@google.com
+CREATED:20100609T025519Z
+LAST-MODIFIED:20230104T163822Z
+LOCATION:Twilio & SocialGold  501 Folsom
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:TechCrunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120307T023000Z
+DTEND:20120307T053000Z
+DTSTAMP:20240804T212556Z
+UID:8rro4ueup025d4lenmlb5uomfs@google.com
+CREATED:20120301T015334Z
+DESCRIPTION:Make:SF @ Tech Liminal\nhttp://www.meetup.com/makesf/events/542
+ 46022/t/ea1_grp/?rv=ea1\n\nThis month it's back to crafting with project th
+ at's both fun and good for you:  Hula Hoops! Hula Hoops are not just for ki
+ ds. With a larger\, properly weighted hoop\, most people can participate in
+  hooping  - and there are communities all over the Bay Area where you can p
+ lay and learn.  You're going to make and decorate a custom hoop just for yo
+ u. \n
+LAST-MODIFIED:20230104T163824Z
+LOCATION:TechLiminal\, 268 14th Street Oakland\, CA 94612
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Maker Hula Hoops
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110601T000000Z
+DTEND:20110601T020000Z
+DTSTAMP:20240804T212556Z
+UID:q01m142j599aa5lehj383srr20@google.com
+CREATED:20110523T173547Z
+LAST-MODIFIED:20230104T163826Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mongo Office Hours
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110323T020000Z
+DTEND:20110323T040000Z
+DTSTAMP:20240804T212556Z
+UID:e3e0hlkhrpb55oec4ki7tcjs5s@google.com
+CLASS:PUBLIC
+CREATED:20110314T223454Z
+DESCRIPTION:pariSoma.com: Node.js Meetup\n\nCome learn about Server Side Ja
+ vascript\, and in particular\, Node.js. Goals for the group are to spread i
+ deas about Server Side Javascript\, Node.js in particular\, socialize proje
+ cts\, and discuss the technology and best practices.
+LAST-MODIFIED:20230104T163828Z
+LOCATION:pariSoma.com - 169 11th St.\, San Francisco\, CA 94103
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:pariSoma.com: Node.js
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120126T023000Z
+DTEND:20120126T043000Z
+DTSTAMP:20240804T212556Z
+UID:qjvlpfjapmk4mr8u59shocs2jk@google.com
+CREATED:20120113T032643Z
+DESCRIPTION:Keeping Selenium Tests 100% Blue\n\nhttp://www.meetup.com/selen
+ iumsanfrancisco/events/47873402/t/ea1_grp/?rv=ea1\n\nHi everyone! It's time
+  for the first Selenium meetup of 2012\, and I'm thrilled to announce we're
+  kicking things off with a presentation by Denali Lumma\, QA Lead at Okta.\
+ n\nJoin us as she gives an inside look at how Okta\, an on-demand identity
+ & access management service for cloud/SaaS applications\, addresses test fa
+ ilures and keeps their Selenium tests 100% blue.\n\nShe'll go into details
+ on how Okta has managed to keep failures from happening over and over again
+  and make test results relevant. She'll also present the tools and processe
+ s they've employed to keep their test automation accurate. (See the abstrac
+ t below for more talk details).\n\nThanks to our friends at Mozilla\, we'll
+  be having this meetup at their brand spankin' new office located along the
+  Embarcadero. And they're picking up the food and drinks\, too. You guys tr
+ uly rock!\n\nPer usual\, the event will start around 6:30 with pizza and dr
+ inks and wrap up around 9pm. See you there!\n\nAgenda\n\n6:30pm: Check-in\,
+  pizza\, beer\, mingling\n7:15pm: Announcements\, introductions\n7:30pm: Ta
+ lk by Denali Lumma\n8:15pm: Q&A\n\nKeeping Selenium Tests 100% Blue: Strate
+ gies we're using to get test failures addressed immediately\, and keep auto
+ mated testing results relevant in a highly agile development group.\n\nAt O
+ kta\, we've invested a lot in automated testing. That's because we don't do
+  any manual testing\, and we have to make sure our software works all the t
+ ime\, or we'll be out of business. We have a lot of validation tools\, and
+ a lot of tests\, about 8K unit and functional tests\, and about 1K Selenium
+  tests. We also use security and performance testing software\, and are con
+ stantly trying to find and add new ways of testing our software with softwa
+ re.\n\nOf course\, the trick with automation is keeping the cost of test ma
+ intenance down\, and keeping test failures from creeping up to a noise leve
+ l which invalidates their results in entirety.  With our large and growing
+ number of tests\, a weekly release cycle\, and rapid changes in many branch
+ es\, we have failures all the time.\n\nWe'll go into details on how we've m
+ anaged to keep failures from happening over and over again and make our tes
+ t results relevant.  We'll present the tools and processes we've employed t
+ o keep our test automation accurate\, be able to trust it in gauging our so
+ ftware\n+stability and use it 100% to determine release readiness.\n\nBio:
+ Denali Lumma runs the testing effort at Okta\, offering one-username-one-pa
+ ssword for internet users\, and cloud directory services for enterprise IT.
+   She's worked as a Software Engineer particularly fascinated with correctn
+ ess for over 12 years\, promoting test automation\, test driven-development
+  and continuous build and deploy.  You can reach her at denalilumma@gmail.c
+ om.\n\n
+LAST-MODIFIED:20230104T163830Z
+LOCATION:Mozilla SF\, 2nd Harrison Street\, 7th Floor\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Selenium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120912T020000Z
+DTEND:20120912T040000Z
+DTSTAMP:20240804T212556Z
+UID:du3ecm25i9tqkopqbaij3p1pk8@google.com
+CREATED:20120810T045626Z
+DESCRIPTION:Tuesday\, September 11\, 2012 7:00 PM\n301 Howard\, San Francis
+ co\, CA\nSFPUG September: PostgreSQL 9.2
+LAST-MODIFIED:20230104T163832Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Postgres Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100714T013000Z
+DTEND:20100714T050000Z
+DTSTAMP:20240804T212556Z
+UID:1cslh5hjpu9cume9lprh8pmvp4@google.com
+CREATED:20100707T232452Z
+DESCRIPTION:http://www.meetup.com/makesf/calendar/13816062/
+LAST-MODIFIED:20230104T163834Z
+LOCATION:reMake Lounge: 50 Post St Suite 9  (Crocker Galleria near Sutter S
+ t)  San Francisco \, CA 94104
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121009T163000Z
+DTEND:20121009T173000Z
+DTSTAMP:20240804T212556Z
+UID:bp07pa78g9bdp9safhicjmakng@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com;X-NUM-GUESTS=0:mailto:pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com
+CREATED:20121008T210008Z
+LAST-MODIFIED:20230104T163836Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Soa sprint
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120925T190000Z
+DTEND:20120925T200000Z
+DTSTAMP:20240804T212556Z
+UID:23r1e37hpabntgdag0fcjpfdts@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com;X-NUM-GUESTS=0:mailto:pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com
+CREATED:20120925T170706Z
+LAST-MODIFIED:20230104T163838Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:10x
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120211T220000Z
+DTEND:20120212T000000Z
+DTSTAMP:20240804T212556Z
+UID:7tmpt24khgb0v0idmf3prr9jt8@google.com
+CREATED:20120211T015403Z
+LAST-MODIFIED:20230104T163839Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Startups @ Sugar Cafe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20110802T083000
+DTEND;TZID=America/Los_Angeles:20110802T100000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20120710T152959Z;BYDAY=TU
+EXDATE;TZID=America/Los_Angeles:20120228T083000
+DTSTAMP:20240804T212556Z
+UID:5nht2ssoscn67i9q12uilrim9s@google.com
+CREATED:20110714T195427Z
+DESCRIPTION:http://www.meetup.com/Lean-Coffee/
+LAST-MODIFIED:20230104T163841Z
+LOCATION:Brainwash Cafe\, 1122 Folsom Street\, San Francisco\, CA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Lean Coffee
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110321T153000Z
+DTEND:20110321T170000Z
+DTSTAMP:20240804T212556Z
+UID:mt2mclr44p6f0a32pkhst3dfq8@google.com
+CLASS:PUBLIC
+CREATED:20110314T223319Z
+DESCRIPTION:pariSoma: Entrepreneur Commons\n\nA network of entrepreneurs wh
+ o meet in small groups to discuss their projects and share contacts\, knowl
+ edge and experience in a trusted environment. One such group meets at pariS
+ oma every month\, come and check it out! For more info visit http://www.ent
+ reco.org
+LAST-MODIFIED:20230104T163843Z
+LOCATION:pariSoma.com - 169 11th St.\, San Francisco\, CA 94103
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:pariSoma: Entrepreneur
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121005T210000Z
+DTEND:20121005T220000Z
+DTSTAMP:20240804T212556Z
+UID:taeq5nq7k2plm7mhfjfc7rgjpg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com;X-NUM-GUESTS=0:mailto:pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com
+CREATED:20121005T034705Z
+LAST-MODIFIED:20230104T163845Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jessie
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110721T020000Z
+DTEND:20110721T040000Z
+DTSTAMP:20240804T212556Z
+UID:0adk23mors3jj63tm5gkkksn94@google.com
+CREATED:20110714T190556Z
+DESCRIPTION:Featured talk: "The Fast Entropy Revolution and Ruby on Rails"
+ by Mark Ciotola\n\nhttp://www.sfruby.info/events/24989761/?eventId=24989761
+ &action=detail
+LAST-MODIFIED:20230104T163846Z
+LOCATION:Parisoma.com
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Meetup: Ruby On Rails Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110722T020000Z
+DTEND:20110722T040000Z
+DTSTAMP:20240804T212556Z
+UID:ag3kka82nlqqpph0sn4cfb7hp8@google.com
+CREATED:20110718T215324Z
+LAST-MODIFIED:20230104T163848Z
+LOCATION:ThoughtWorks Headquarters\, 315 Montgomery St 16th Floor\, San Fra
+ ncisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JRuby Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120205T210000Z
+DTEND:20120206T000000Z
+DTSTAMP:20240804T212556Z
+UID:sqpgcl0jhpnce7pavfufi5054o@google.com
+CREATED:20120204T071708Z
+LAST-MODIFIED:20230104T163849Z
+LOCATION:Epicenter Cafe
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hackternoon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100712T203000Z
+DTEND:20100713T030000Z
+DTSTAMP:20240804T212556Z
+UID:94009q1mphm4i8274qke38i5h0@google.com
+CREATED:20100707T231945Z
+DESCRIPTION:http://www.meetup.com/BayAPLN/calendar/13941796/\n
+LAST-MODIFIED:20230104T163851Z
+LOCATION:Tacit Knowledge\,  394 Pacific Avenue (4th floor) San Francisco\,
+ CA 94111
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Agile Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120213T000000Z
+DTEND:20120213T020000Z
+DTSTAMP:20240804T212556Z
+UID:1rvr16dc5u3o2ggvu6ihojc2j8@google.com
+CREATED:20120206T205102Z
+LAST-MODIFIED:20230104T163853Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Craft-Tea
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110722T020000Z
+DTEND:20110722T040000Z
+DTSTAMP:20240804T212556Z
+UID:ps0oiopm00s42i0f4q33o9k6vg@google.com
+CREATED:20110714T192726Z
+DESCRIPTION:http://www.meetup.com/seleniumsanfrancisco/events/25062091
+LAST-MODIFIED:20230104T163854Z
+LOCATION:Yammer\, 410 Townsend St\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Selenium + Javascript for Testing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110721T010000Z
+DTEND:20110721T030000Z
+DTSTAMP:20240804T212556Z
+UID:u0t4k0hm79c4sa79f6t2v5s140@google.com
+CREATED:20110714T194937Z
+DESCRIPTION:Chris Jones of Hot Studio will lead us in a spirited talk about
+  waste and spoilage.
+LAST-MODIFIED:20230104T163856Z
+LOCATION:ThoughtWorks
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Lean UX with Hot Studio at ThoughtWorks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20110125T130000
+DTEND;TZID=America/Los_Angeles:20110125T150000
+RRULE:FREQ=WEEKLY;UNTIL=20120821T200000Z;INTERVAL=2;BYDAY=TU
+EXDATE;TZID=America/Los_Angeles:20120417T130000
+DTSTAMP:20240804T212556Z
+UID:irr4ltcdr7pblm1ke4h9u81in8@google.com
+CLASS:PUBLIC
+CREATED:00010101T000000Z
+DESCRIPTION:http://www.meetup.com/SF-Coworking-Tea/
+LAST-MODIFIED:20230104T163857Z
+LOCATION: Leland's Tea Company 1416 Bush St. (@ corner of Polk St.)
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Meetup: SF Coworking Tea
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120314T013000Z
+DTEND:20120314T033000Z
+DTSTAMP:20240804T212556Z
+UID:1lk0mvgq9pi5jg8bqa0h3df2do@google.com
+CREATED:20120301T015422Z
+DESCRIPTION:Make:SF March 13th @ TechShop http://www.meetup.com/makesf/even
+ ts/54246082/t/ea1_grp/?rv=ea1\n\n\nThis month it's back to crafting with pr
+ oject that's both fun and good for you:  Hula Hoops! Hula Hoops are not jus
+ t for kids. With a larger\, properly weighted hoop\, most people can partic
+ ipate in hooping  - and there are communities all over the Bay Area where y
+ ou can play and learn.  You're going to make and decorate a custom hoop jus
+ t for you. \n
+LAST-MODIFIED:20230104T163900Z
+LOCATION:Tech Shop SoMa\, 926 Howard St\, San Francisco \, CA 94103
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Maker Hula Hoops
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120208T040000Z
+DTEND:20120208T060000Z
+DTSTAMP:20240804T212556Z
+UID:2j8iv26gquht29lr1neircj5fo@google.com
+CREATED:20120203T222221Z
+LAST-MODIFIED:20230104T163902Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Parisoma + Mashery
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101001T013000Z
+DTEND:20101001T050000Z
+DTSTAMP:20240804T212556Z
+UID:vf7cojdatm3eg7h0e1kb5u5ov4@google.com
+CLASS:PUBLIC
+CREATED:20100928T174424Z
+LAST-MODIFIED:20230104T163903Z
+LOCATION:501 Folsom St. 3rd Floor\, San Francisco\, CA 94105
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HTML5 @ Twilio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120120T023000Z
+DTEND:20120120T043000Z
+DTSTAMP:20240804T212556Z
+UID:svq0b73gnd37l3i3o9kkil208s@google.com
+CREATED:20120113T032435Z
+DESCRIPTION:\n
+LAST-MODIFIED:20230104T163904Z
+LOCATION:Engine Yard\, 500 Third St\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: JRuby
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100610T013000Z
+DTEND:20100610T043000Z
+DTSTAMP:20240804T212556Z
+UID:e4lrt1fl6qhfhja4rk35ohhe20@google.com
+CREATED:20100609T025149Z
+LAST-MODIFIED:20230104T163906Z
+LOCATION:Lolapps  116 New Montgomery #700 @ Mission
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Scaling Python
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120113T023000Z
+DTEND:20120113T040000Z
+DTSTAMP:20240804T212556Z
+UID:j43mra2l637uuca2nnn3tssj18@google.com
+CREATED:20120110T040420Z
+DESCRIPTION:http://www.meetup.com/jsmeetup/events/38563112/\n\nHTML5 and Go
+ ogle Dart with Steve Souders and Gilad Bracha\n\n
+LAST-MODIFIED:20230104T163907Z
+LOCATION:Krux Labs\, South Park and 3rd\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: JavaScript DART
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20110111T120000
+DTEND;TZID=America/Los_Angeles:20110111T130000
+RRULE:FREQ=WEEKLY;UNTIL=20121030T190000Z;BYDAY=TU
+EXDATE;TZID=America/Los_Angeles:20110726T120000
+EXDATE;TZID=America/Los_Angeles:20120228T120000
+EXDATE;TZID=America/Los_Angeles:20120417T120000
+EXDATE;TZID=America/Los_Angeles:20120710T120000
+EXDATE;TZID=America/Los_Angeles:20120904T120000
+EXDATE;TZID=America/Los_Angeles:20120925T120000
+DTSTAMP:20240804T212556Z
+UID:6kqqtk9ogcei5i8bl0iocber50@google.com
+CLASS:PUBLIC
+CREATED:00010101T000000Z
+LAST-MODIFIED:20230104T163910Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:LunchTree.com
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20110317T013000Z
+DTEND:20110317T050000Z
+DTSTAMP:20240804T212556Z
+UID:i9tm60ovuhj2g2tb2u3shgr294@google.com
+CLASS:PUBLIC
+CREATED:20110314T221255Z
+DESCRIPTION:pariSoma: HTML5 Show & Tell\n\nLearn how to embed rich media in
+  your site\, with graceful degradation. Learn about Web Sockets and how to
+ implement them. Bring your laptops and be prepared to
+LAST-MODIFIED:20230104T163912Z
+LOCATION:pariSoma.com - 169 11th St.\, San Francisco\, CA 94103
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:pariSoma: HTML5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120426T010000Z
+DTEND:20120426T030000Z
+DTSTAMP:20240804T212556Z
+UID:pd688uqdr6eoerk6e47r0qb7ec@google.com
+CREATED:20120425T175350Z
+DESCRIPTION:http://www.meetup.com/jsmeetup/events/60203352/\n\nProject/Tech
+ nology Showcase: Node\, Backbone\, Fibrous\, Audia\, Rails and more\n\nCarb
+ on Five and Good Eggs are joining up to show off some of the projects they'
+ ve recently worked with an emphasis on the technology that made them possib
+ le. We want to share what we think is interesting and what we've learned al
+ ong the way.\n\nGenetic Symphony - A Genentech\, IDEO\, and Carbon Five col
+ laboration for TED2012. Participants provide a genetic sample via a cheek s
+ wab\, which is processed overnight and used to generate a unique song and v
+ isualization. Tech includes: Backbone\, CoffeeScript\, Audia\, PhoneGap\, S
+ oX\, RMagick\, Rails\, Jasmine and Sinon.\nPresenters: David Hendee and Sea
+ n Durham\, Carbon Five\n\nChatOS - A collaborative UX/programming experimen
+ t that allows participants to build a shared real-time web experience. It p
+ rovides the basic plumbing that makes collaborative programming possible an
+ d leaves it up to the participants to build the tools and design the intera
+ ctions. The talk will provide a live\, interactive demonstration\, and will
+  briefly cover the technology behind the application including Node.js\, Mo
+ cha.js\, HTML 5\, Web Sockets\, and Mongo DB.\n\nPresenter: Alex Cruikshank
+ \, Carbon Five\n\nEscape from the Pyramid of Doom - If you set out to build
+  real\, reliable apps using Node.js you will need to tame the callback-base
+ d asynchronous jungle you find yourself in. For the last several months at
+ Good Eggs we have explored solutions that include a combination of third pa
+ rty libraries\, homegrown libraries\, and convention. For this talk\, we us
+ e our journey to provide a survey of different techniques for writing async
+ hronous code in Node.js including fibrous\, the library solution that we cu
+ rrently use to support our established conventions.\n\nPresenters: Alon Sal
+ ant and Randy Puro\, Good Eggs\n\nQ & A - We want to continue discussing an
+ ything already mentioned\, or go over other topics that might be interestin
+ g (e.g. js testing\, tech stacks\, hosting\, project management\, etc).
+LAST-MODIFIED:20230104T163913Z
+LOCATION:CBS Interactive\, 235 2nd St\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SFJS Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120328T013000Z
+DTEND:20120328T040000Z
+DTSTAMP:20240804T212556Z
+UID:3vvaid67b795senje2dr19vdho@google.com
+CREATED:20120302T080235Z
+DESCRIPTION:http://www.meetup.com/Ember-SF/events/54565652/?a=ea1_grp&rv=ea
+ 1
+LAST-MODIFIED:20230104T163915Z
+LOCATION:dotCloud\, 180 Sansome St.\, 16th Floor\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ember.js Meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120314T020000Z
+DTEND:20120314T040000Z
+DTSTAMP:20240804T212556Z
+UID:rgdcu8vs9jnt6215fej77h5e3c@google.com
+CREATED:20120312T223952Z
+LAST-MODIFIED:20230104T163919Z
+LOCATION:Pete's Tavern\, 4th & King
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Social Good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120307T023000Z
+DTEND:20120307T053000Z
+DTSTAMP:20240804T212556Z
+UID:sbgpi4b9hl5srnrkrm29bfg7ac@google.com
+CREATED:20120301T020054Z
+DESCRIPTION:Announcing a new Meetup!\nNode.js ++ (Serverside Javascripters)
+  Club SF\n\nManaging Personal Data from the Cloud using Node.js - \n\nhttp:
+ //www.meetup.com/Node-js-Serverside-Javascripters-Club-SF/events/53980912/t
+ /ea1_grp/?rv=ea1\n\nManaging Personal Data from the Cloud using Node.js\nHa
+ ck and learn about Singly and the Locker Project\nSingly is a personal data
+  platform.  Singly's core technology is the open source Locker Project.  Lo
+ cker Project provides a personal data store and Singly provides a hosted ac
+ count option.  Singly and the Locker Project are built almost entirely usin
+ g Node.js (with a\n+little bit of Python thrown in for good measure).  Duri
+ ng the event\, attendees will meet the engineering team\, learn more about
+ the technology behind Singly\, and hack on the Locker Project together. Age
+ nda:\n\n6:30 Food\n7:00 Talk: How Locker and Singly use Node (+ Q&A)\nSurpr
+ ise speakers\n7:30 Start hacking!\n\n\n
+LAST-MODIFIED:20230104T163921Z
+LOCATION:Singly HQ\, 777 Florida St. #301\, San Francisco\, CA 94110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Node.js cloud
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100618T010000Z
+DTEND:20100618T050000Z
+DTSTAMP:20240804T212556Z
+UID:gju1951e1dgpv8g99qs3g97iqs@google.com
+CLASS:PUBLIC
+CREATED:20100609T031302Z
+LAST-MODIFIED:20230104T163922Z
+LOCATION:MedHelp\, 929 Market #300
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ruby
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120411T030000Z
+DTEND:20120411T050000Z
+DTSTAMP:20240804T212556Z
+UID:sga5eqjofd61htgdcf2i68huqc@google.com
+CREATED:20120409T224716Z
+DESCRIPTION:How to get there: The 10 and the 22 will get you near as well a
+ s the T light rail.\nPizza Sponsor: Big Nightowls thanks to Mashery for spo
+ nsoring the night's pizza! \n\nClick here to say you're going http://www.me
+ etup.com/SF-Nightowls/events/58118662/t/md1p_rt\n
+LAST-MODIFIED:20230104T163925Z
+LOCATION:PubNub HQ 1045 17th street\, Suite 204 San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SF Nightowls @ PubNub
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100625T183000Z
+DTEND:20100625T213000Z
+DTSTAMP:20240804T212556Z
+UID:5o6horhebor9j83a7kfg7mtqa0@google.com
+CREATED:20100623T165440Z
+DESCRIPTION:http://sselabs.wordpress.com/2010/06/21/sse-labs-aol-in-mountai
+ n-view-ca\n\nBrad Garlinghouse\, President of Consumer Applications at AOL\
+ , and Mike Arrington\, founder and co-editor of TechCrunch.
+LAST-MODIFIED:20230104T163927Z
+LOCATION:AOL\, 401 Ellis\, Mountain View
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AOL TechCruch Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20120830T170000
+DTEND;TZID=America/Los_Angeles:20120830T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20140207T005959Z;BYDAY=TH
+EXDATE;TZID=America/Los_Angeles:20130801T170000
+EXDATE;TZID=America/Los_Angeles:20131128T170000
+DTSTAMP:20240804T212556Z
+UID:5m9mace0cchqhlkrinntf4bmfo@google.com
+CREATED:20120822T201604Z
+LAST-MODIFIED:20230104T163951Z
+LOCATION:Shattuck\, north of campus
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Off the Grid: Berkeley Food Trucks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120323T013000Z
+DTEND:20120323T033000Z
+DTSTAMP:20240804T212556Z
+UID:70tv5niarra314t21paegkafgc@google.com
+CREATED:20120229T225208Z
+DESCRIPTION:How To Create Products Customers Love with Marty Cagan\n\nhttp:
+ //modclothbranchout.eventbrite.com/\n\n
+LAST-MODIFIED:20230104T163953Z
+LOCATION:BranchOut HQ\, 651 Brannan\, 4th Floor San Francisco\, CA 94107
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Modcloth & Branchout: How To Create Products Customers Love
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121009T010000Z
+DTEND:20121009T020000Z
+DTSTAMP:20240804T212556Z
+UID:irk93r0bkdc2otgto8plsk1aqc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com;X-NUM-GUESTS=0:mailto:pm91ch
+ 5jsplnc81agf2mn9lsd0@group.calendar.google.com
+CREATED:20121008T032957Z
+LAST-MODIFIED:20230104T163955Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sandy
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100623T020000Z
+DTEND:20100623T040000Z
+DTSTAMP:20240804T212556Z
+UID:tqs2qd86vgofb5p0r6ba786jjg@google.com
+CLASS:PUBLIC
+CREATED:20100609T033800Z
+LAST-MODIFIED:20230104T163957Z
+LOCATION:SUPINFO  2738 Hyde
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Agile testing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120308T030000Z
+DTEND:20120308T050000Z
+DTSTAMP:20240804T212556Z
+UID:mab209d41v7cqbh3bckn0fse2s@google.com
+CREATED:20120301T015848Z
+LAST-MODIFIED:20230104T163958Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Night @ WellnessSF
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100617T150000Z
+DTEND:20100617T180000Z
+DTSTAMP:20240804T212556Z
+UID:ss8tj0va46t2osp7psp9u781ng@google.com
+CREATED:20100616T033711Z
+DESCRIPTION:\n\n
+LAST-MODIFIED:20230104T164000Z
+LOCATION:501 Folsom Street
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Twilo for Startups
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20101124T030000Z
+DTEND:20101124T060000Z
+DTSTAMP:20240804T212556Z
+UID:s3c5q2aac1se840sqa2ju5okkk@google.com
+CLASS:PUBLIC
+CREATED:20101119T204630Z
+DESCRIPTION:http://www.meetup.com/laruby/calendar/15477201/?__force_urlname
+ =1
+LAST-MODIFIED:20230104T164001Z
+LOCATION:Blank Spaces\, 5405 Wilshire Blvd Los Angeles\, CA 90036 323-330-9
+ 505
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LA Ruby
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120115T210000Z
+DTEND:20120116T000000Z
+DTSTAMP:20240804T212556Z
+UID:fe8hs1799umma8joje0dq4hd60@google.com
+CREATED:20120110T031223Z
+DESCRIPTION:Dan Bikle added this Meetup for Hackternoon\n\nWhat: Sunday Hac
+ kternoon in SF steps from BART.\n\nThis particular Meetup will be hosted by
+  my friend Peter.\n\n
+LAST-MODIFIED:20230104T164003Z
+LOCATION:NextSpace\, 28 2nd Street\, 3rd Floor\, San Francisco\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meetup: Hackernoon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240308T190000Z
+DTEND:20240308T210000Z
+DTSTAMP:20240804T212556Z
+UID:1ks1uqpncspr08b05rt8n03gd4@google.com
+CREATED:20240307T214725Z
+LAST-MODIFIED:20240307T214725Z
+LOCATION:White Horse
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paperwing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240317T143000Z
+DTEND:20240317T163000Z
+DTSTAMP:20240804T212556Z
+UID:0v18qejmgpq2aqa55uhpobt8hr@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/bmx-zudc-raw
+CREATED:20240308T124446Z
+DESCRIPTION:Join with Google Meet: https://meet.google.com/bmx-zudc-raw\n\n
+ Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240308T124519Z
+LOCATION:Church Hall in Llanbadarn\, SY23 3QX
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Irish Set Dance to celebrate St. Patrick's Day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T190000Z
+DTEND:20240328T210000Z
+DTSTAMP:20240804T212556Z
+UID:7tbce13p26ieepbr1ms1d2j1jr@google.com
+CREATED:20240309T051748Z
+LAST-MODIFIED:20240309T051748Z
+LOCATION:Irie
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afrobeats Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240311T180000Z
+DTEND:20240311T210000Z
+DTSTAMP:20240804T212556Z
+UID:2s5btv58j012q4sqnvgd2vkqba@google.com
+CREATED:20240309T165127Z
+LAST-MODIFIED:20240309T165127Z
+LOCATION:Bank Vault\, 1 New St\, Aberystwyth SY23 2AT\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Game Night
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240315T190000Z
+DTEND:20240315T210000Z
+DTSTAMP:20240804T212556Z
+UID:7kn2l6b2bqi62nvo92chlg1rdd@google.com
+CREATED:20240310T154203Z
+LAST-MODIFIED:20240310T154211Z
+LOCATION:Bank Vault\, 1 New St\, Aberystwyth SY23 2AT\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎵 Refreshers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240315T200000Z
+DTEND:20240315T220000Z
+DTSTAMP:20240804T212556Z
+UID:1nd6e7aeaqgob3ubdci9tk97gp@google.com
+CREATED:20240310T154302Z
+LAST-MODIFIED:20240310T154312Z
+LOCATION:Yoko's\, 2 Pier St\, Aberystwyth SY23 2LJ\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏳️‍🌈 Love is Love LGBTQ+ Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T100000Z
+DTEND:20240323T130000Z
+DTSTAMP:20240804T212556Z
+UID:1tk3u8qnkoa4mjc2o9u9oev8cg@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/yep-aaez-mja
+CREATED:20240315T154730Z
+DESCRIPTION:Join with Google Meet: https://meet.google.com/yep-aaez-mja\n\n
+ Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240315T154730Z
+LOCATION:Aberystwyth Prom Bandstand
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tidy the Town
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T183000Z
+DTEND:20240419T203000Z
+DTSTAMP:20240804T212556Z
+UID:0mee3rpbhu639j4l6edavkilrn@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/jxt-sozi-cfk
+CREATED:20240317T140046Z
+DESCRIPTION:<span dir="auto">Frantasmagoria is a jazz quartet featuring sax
+ ophone\, drums\, double bass and electric guitar. </span><span><span><span
+ dir="auto">Jazz\, Funk and Blues its who we are.<br></span></span></span><b
+ r><span dir="auto">The music is inspired by great jazz composers including
+ Duke Ellington\, Miles Davis\, Charlie Parker\, Charles Mingus but the firs
+ t and biggest influence is the music of Thelonious Monk. We believe Monk cr
+ eated some of the coolest music forever inspiring and contemporary. <br><br
+ >Our unique interpretation and spontaneous energy brings often unexpected a
+ nd exciting flavours of latin\, funk and even tango. <br>See less</span>\n\
+ nJoin with Google Meet: https://meet.google.com/jxt-sozi-cfk\n\nLearn more
+ about Meet at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240317T162440Z
+LOCATION:Bank Vault\, 1 New St\, Aberystwyth SY23 2AT\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎵 Frantasmagoria
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240609
+DTSTAMP:20240804T212556Z
+UID:2jvrhotubkjjc7ie47rkt754of@google.com
+CREATED:20240322T113333Z
+DESCRIPTION:<a href="https://aberystwythartscentre.co.uk/gwyl-cranci-2024-c
+ rankie-fest/">https://aberystwythartscentre.co.uk/gwyl-cranci-2024-crankie-
+ fest/</a>
+LAST-MODIFIED:20240322T113355Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrankieFest
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240330T204500Z
+DTEND:20240330T230000Z
+DTSTAMP:20240804T212556Z
+UID:7utg4ff7h2gpkf68r060os0ddn@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tbm-fvvt-hrt
+CREATED:20240325T190738Z
+DESCRIPTION:<a href="https://www.facebook.com/profile.php?id=61553732956198
+ ">https://www.facebook.com/profile.php?id=61553732956198</a>\n\nJoin with G
+ oogle Meet: https://meet.google.com/tbm-fvvt-hrt\n\nLearn more about Meet a
+ t: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240325T190750Z
+LOCATION:Upstairs at the Pier\, The Royal Pier\, Marine Terrace\, Aberystwy
+ th SY23 2AZ\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎵 So Sista
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T190000Z
+DTEND:20240328T210000Z
+DTSTAMP:20240804T212556Z
+UID:227ffpe1qa9agn5m3l3nthspia@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/bip-qips-qhb
+CREATED:20240326T153933Z
+DESCRIPTION:<a href="https://bankvault.cymru/event/anna-anise-boci-w-mairea
+ d/">https://bankvault.cymru/event/anna-anise-boci-w-mairead/</a>\n\nJoin wi
+ th Google Meet: https://meet.google.com/bip-qips-qhb\n\nLearn more about Me
+ et at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240326T153933Z
+LOCATION:Bank Vault
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎵 Anna Anise Boci w/ Mairead
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231116T180000Z
+DTEND:20231116T200000Z
+RRULE:FREQ=WEEKLY;WKST=MO;BYDAY=TH
+EXDATE:20231130T180000Z
+EXDATE:20231207T180000Z
+EXDATE:20231214T180000Z
+EXDATE:20231221T180000Z
+EXDATE:20231228T180000Z
+EXDATE:20240104T180000Z
+EXDATE:20240111T180000Z
+EXDATE:20240118T180000Z
+EXDATE:20240125T180000Z
+EXDATE:20240201T180000Z
+EXDATE:20240215T180000Z
+EXDATE:20240222T180000Z
+EXDATE:20240425T180000Z
+EXDATE:20240229T180000Z
+EXDATE:20240321T180000Z
+DTSTAMP:20240804T212556Z
+UID:3suop41d4aaslohtnqubj7vsvn@google.com
+CREATED:20231116T141826Z
+LAST-MODIFIED:20240326T154151Z
+LOCATION:Tŷ Seidr Bar & Bottle Shop (formally Kanes Bar)\, 16 Corporation S
+ t\, Aberystwyth SY23 2BT\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🎲 Games Night @ Tŷ Seidr / Weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231116T180000Z
+DTEND:20231116T200000Z
+DTSTAMP:20240804T212556Z
+UID:3suop41d4aaslohtnqubj7vsvn@google.com
+RECURRENCE-ID:20231116T180000Z
+CREATED:20231116T141826Z
+LAST-MODIFIED:20240326T154151Z
+LOCATION:Tŷ Seidr Bar & Bottle Shop (formally Kanes Bar)\, 16 Corporation S
+ t\, Aberystwyth SY23 2BT\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🎲 Games Night @ Tŷ Seidr / Weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240407T140000Z
+DTEND:20240407T160000Z
+DTSTAMP:20240804T212556Z
+UID:2gkrme3mvva6l2lsuf5m9sc6cr@google.com
+CREATED:20240406T131316Z
+LAST-MODIFIED:20240406T131316Z
+LOCATION:Castle Hotel
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎸 Bohemians
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T090000Z
+DTEND:20240428T150000Z
+DTSTAMP:20240804T212556Z
+UID:36mk2tjmllhul77mr2n2q1mgkm@google.com
+CREATED:20240415T132949Z
+LAST-MODIFIED:20240415T132949Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Aberystwyth Crafters Farmers Market
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240615T180000Z
+DTEND:20240615T210000Z
+DTSTAMP:20240804T212556Z
+UID:7pe78482l0o50fs7h3nkn1gqoc@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/shy-xfsj-hdm
+CREATED:20240421T112013Z
+DESCRIPTION:Join with Google Meet: https://meet.google.com/shy-xfsj-hdm\n\n
+ Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240421T112022Z
+LOCATION:Upstairs at the Pier\, The Royal Pier\, Marine Terrace\, Aberystwy
+ th SY23 2AZ\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎸 Light Vessel Automatic
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240601T153000
+DTEND;TZID=Europe/London:20240601T170000
+RRULE:FREQ=MONTHLY;WKST=MO;INTERVAL=2;BYDAY=1SA
+DTSTAMP:20240804T212556Z
+UID:03tms2qpegjokg560t56fdkdql@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ovy-qqih-fda
+CREATED:20240529T190138Z
+DESCRIPTION:Join with Google Meet: https://meet.google.com/ovy-qqih-fda\n\n
+ Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240529T190520Z
+LOCATION:The Bookshop by the Sea\, 7 Market St\, Aberystwyth SY23 1DL\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:📚 Storytelling Night @ The Bookshop By The Sea
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240726T183000Z
+DTEND:20240726T203000Z
+DTSTAMP:20240804T212556Z
+UID:7ps4ijcsj4i0597ppsd2e50th2@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/fdr-kivw-epy
+CREATED:20240703T140034Z
+DESCRIPTION:<span dir="auto"><br>Triosh play a mixture of original Jazz\, C
+ oltrane and Monk\, old Welsh tunes\, plus a lot of improvised material. Pro
+ bably best described as ambient punk jazz\, all of the material is a basis
+ for improvising — we take it apart and embark on a unique journey\, differe
+ nt every time but always with feeling.Unique prog-jazz with influences rang
+ e from Jim Hall and Bill Frisell to Hendrix &amp\; John Scofield\, Miles\,
+ Mingus &amp\; Monk.</span>\n\nJoin with Google Meet: https://meet.google.co
+ m/fdr-kivw-epy\n\nLearn more about Meet at: https://support.google.com/a/us
+ ers/answer/9282720
+LAST-MODIFIED:20240703T140800Z
+LOCATION:Bank Vault\, 1 New St\, Aberystwyth SY23 2AT\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🎵 Triosh band at Bank Vault
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240722T190000
+DTEND;TZID=Europe/London:20240722T210000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DTSTAMP:20240804T212556Z
+UID:130rh8jgjjacj19c3jo8kjh26o@google.com
+CREATED:20240708T043503Z
+DESCRIPTION:Aberlatin salsa dance course\, Monday each week\, starting on J
+ uly 22\, for six weeks.
+LAST-MODIFIED:20240708T044253Z
+LOCATION:Yoko's\, 2 Pier St\, Aberystwyth\, Wales\, SY23 2LJ\,  UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🕺Aberlatin dance class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240720T080000Z
+DTEND:20240720T120000Z
+DTSTAMP:20240804T212556Z
+UID:3p0rpgg4g86610ihp7ff5pidma@google.com
+CREATED:20240710T233127Z
+LAST-MODIFIED:20240710T233141Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lifeboat open day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240817T200000Z
+DTEND:20240817T220000Z
+DTSTAMP:20240804T212556Z
+UID:4tr16547p0uhdsskvssr7rohdt@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ach-shye-qxg
+CREATED:20240726T071208Z
+DESCRIPTION:Join with Google Meet: https://meet.google.com/ach-shye-qxg\n\n
+ Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20240728T050752Z
+LOCATION:Skinners Arms\, 14 Penrallt St\, Machynlleth SY20 8AJ\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🎵 Refreshers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240207T180000Z
+DTEND:20240207T190000Z
+RRULE:FREQ=WEEKLY;BYDAY=WE
+EXDATE:20240207T180000Z
+EXDATE:20240214T180000Z
+EXDATE:20240221T180000Z
+EXDATE:20240228T180000Z
+DTSTAMP:20240804T212556Z
+UID:11nq63ktdeu0eh35h7u9uku7au@google.com
+CREATED:20231130T061320Z
+LAST-MODIFIED:20240804T172003Z
+LOCATION:The Bookshop by the Sea\, 7 Market St\, Aberystwyth SY23 1DL\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:📗 Soup & Stillness @ The Bookshop By The Sea + Weekly
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240306T190000
+DTEND;TZID=Europe/London:20240306T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20240804T212556Z
+UID:4l57m061jdivsolgfmpbrhsdvh@google.com
+CREATED:20240104T013601Z
+LAST-MODIFIED:20240804T172644Z
+LOCATION:Athro Lounge\, Welsh school\, Alexandra Rd\, Aberystwyth SY23 1LF\
+ , UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏆 Quiz Night @ Athro Lounge #weekly
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240804T180000
+DTEND;TZID=Europe/London:20240804T230000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DTSTAMP:20240804T212556Z
+UID:4aoomqq9oopbe8du2oq6snqgmf@google.com
+CREATED:20240804T172854Z
+DESCRIPTION:Come and perform at the Bank Vault and take part in our popular
+  Open-Mic session. Professional sound\, good music\, and tasty brews! Music
+ ians & performers welcome. 18:00. Free Entry.
+LAST-MODIFIED:20240804T173056Z
+LOCATION:Bank Vault\, 1 New St\, Aberystwyth SY23 2AT\, UK
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:🎤️ Open Mic @ Bank Vault #weekly
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231115T180000Z
+DTEND:20231115T203000Z
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231129T180000Z
+DTEND:20231129T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20231129T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231206T180000Z
+DTEND:20231206T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20231206T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231213T180000Z
+DTEND:20231213T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20231213T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231220T180000Z
+DTEND:20231220T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20231220T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231227T180000Z
+DTEND:20231227T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20231227T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240103T180000Z
+DTEND:20240103T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20240103T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240110T180000Z
+DTEND:20240110T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20240110T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240117T180000Z
+DTEND:20240117T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20240117T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240124T180000Z
+DTEND:20240124T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20240124T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240131T180000Z
+DTEND:20240131T203000Z
+DTSTAMP:20240804T212556Z
+UID:1side23c6kiajjevpgkjhs0uc0@google.com
+RECURRENCE-ID:20240131T180000Z
+CREATED:20231116T142149Z
+LAST-MODIFIED:20240804T173249Z
+LOCATION:Iries\, Thespian St\, Aberystwyth SY23 2JW\, UK
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:♟️ Chess Night @ Iries #weekly
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240807T180000Z
+DTEND:20240807T220000Z
+DTSTAMP:20240804T212556Z
+UID:3rtqjsgrbqn9v2vepv89la5fs2@google.com
+CREATED:20240804T173232Z
+DESCRIPTION:Head on down and sing us some songs! State of the art Karaoke s
+ ystem & sound system. Huge song selection.  Tasty brews and great tunes! 10
+ % Student Discount. 19:00. Free Entry.
+LAST-MODIFIED:20240804T173324Z
+LOCATION:Bank Vault\, 1 New St\, Aberystwyth SY23 2AT\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🎤️ Karaoke @ Bank Vault #weekly
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
