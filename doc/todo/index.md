@@ -15,6 +15,26 @@ rees.sioned@gmail.com
 
 ### Add via Facebook AberIssues WIP
 
+Ystwyth Belles W.I. based in Morlan Centre. Contact Janet Rowan 07948316314
+
+Over The Falls Podcast
+
+Aberystwyth’s Award Winning Podcast. 
+
+Breaking The Stigma That Men Don’t Talk.
+overthefallspodcast@hotmail.com
+https://www.facebook.com/OverTheFallsPodcast/
+https://www.youtube.com/@overthefallspodcast7470
+
+https://www.facebook.com/MorgansButchers/
+5 North parade,Aberystwyth , Aberystwyth, United Kingdom
+01970 612243
+
+Emma Sylvester asks for:
+Kings and Queens Hair 
+4A Northgate St
+7587 567331
+
 sonnyvaughanelectrical
 https://sonnyvaughanelectrical.co.uk
 
@@ -202,3 +222,9 @@ https://www.instagram.com/newmansgc/
 https://www.instagram.com/crowndecoratingaberystwyth/
 
 https://www.instagram.com/meraki_studio_aber/
+
+https://www.instagram.com/loganberrieshairsalon/
+
+https://www.instagram.com/hanna_nails_aberystwyth/
+
+https://www.facebook.com/ystwythvets
