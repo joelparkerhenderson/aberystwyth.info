@@ -5792,10 +5792,24 @@
   },
   {
     "id": "35f84727c09ae8493430c82ba6238bad",
+    "handle": "harryshotelbarbistro",
     "title_as_en": "Harry's",
-    "subtitle_as_en": "Hotel • Bar • Bistro",
+    "subtitle_as_cy": "Rydyn ni'n westy, bar, a bistro sy'n cynnig ystod eang o fwyd, diodydd yn ogystal â chynnig chwaraeon byw!",
+    "subtitle_as_en": "We are a Hotel, Bar, and Bistro offering a wide range of food, drinks as well as offering live sport!",
+    "emojis": "💧🍺🍅🍽🏆🏢🛎",
+    "email": "enquiries@harrysaberystwyth.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "1970 612647",
     "websiteURL": "https://www.harrysaberystwyth.com/",
-    "longitude": ""
+    "street": "40-46 North Parade",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23 2NF",
+    "country": "UK",
+    "latitude": "52.4159996",
+    "longitude": "-4.081627"
   },
   {
     "id": "a88aea4d74200533141e8e146d0058f5",
