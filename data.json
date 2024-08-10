@@ -2724,7 +2724,6 @@
     "websiteURL": "https://www.orionharthealth.co.uk",
     "facebookURL": "https://facebook.com/profile.php?id=100064048743288",
     "instagramURL": "https://instagram.com/orionharthealth",
-    "street": "SY23",
     "city": "Aberystwyth",
     "district": "Ceredigion",
     "subcountry": "Wales",
@@ -2732,6 +2731,25 @@
     "country": "UK",
     "latitude": "52.415303",
     "longitude": "-4.08292"
+  },
+  {
+    "id": "4d1a8521d67ba6c66c05f0d669d91a33",
+    "handle": "zumbahayleyphil",
+    "title_as_en": "Zumba Fitness with Hayley & Phil",
+    "subtitle_as_cy": "Dosbarth ffitrwydd wythnosol hwyliog a chyfeillgar, sy'n darparu ar gyfer pob lefel ffitrwydd a gallu mewn amgylchedd hamddenol.",
+    "subtitle_as_en": "A fun and friendly weekly fitness class, that caters to all fitness levels and abilities in a relaxed environment.",
+    "emojis": "🌼💪💃",
+    "email": "hayley_roberts1989@outlook.com",
+    "facebookURL": "https://www.facebook.com/groups/ZumbaFitnesswithHayley/",
+    "instagramURL": "https://instagram.com/zumbahayleyphil",
+    "street": "Neuadd Rhydypennau Hall, Pen-y-garn, Bow Street",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY24 5BQ",
+    "country": "UK",
+    "latitude": "52.4505604",
+    "longitude": "-4.020538"
   },
   {
     "id": "ce9089d43b87bf756e78a32e0bb817c5",
@@ -7309,6 +7327,20 @@
     "phoneLocalPrefix": "0",
     "websiteURL": "https://trydan-will-davey-electrical-av.business.site",
     "facebookURL": "https://www.facebook.com/trydanwilldavey/",
+    "longitude": ""
+  },
+  {
+    "id": "817fe6eec0105425dfd4b5a3f922264a",
+    "handle": "lightemup",
+    "title_as_en": "Light 'Em Up ",
+    "subtitle_as_cy": "Datrysiadau goleuadau rheoledig, gosod goleuadau, datrysiadau AV, profiadau gweledol, cefnogaeth dechnegol 24/7 ar bob un o'n gosodiadau.",
+    "subtitle_as_en": "Controlled Lighting Solutions, Lighting Installation, AV Solutions, Visual Experiences, 24/7 technical support on all of our installs.",
+    "emojis": "🏢👷",
+    "email": "joe.willcox@lightemup.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7966 437072",
+    "websiteURL": "https://lightemup.co.uk",
     "longitude": ""
   },
   {
