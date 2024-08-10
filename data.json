@@ -7531,6 +7531,38 @@
     "longitude": ""
   },
   {
+    "id": "417eceb44b01b00ad54a5741f1c8ac6e",
+    "handle": "dyfidesign",
+    "title_as_en": "Dyfi Design ",
+    "subtitle_as_cy": "Dros 20 mlynedd o brofiad yn y diwydiant dylunio graffeg, gyda phrofiad mewn dylunio dwyieithog.",
+    "subtitle_as_en": "Over 20 years’ experience in the graphic design industry, with experience in bilingual design.",
+    "emojis": "🏢🎨",
+    "email": "info@dyfidesign.co.uk",
+    "facebookURL": "https://facebook.com/dyfi.design",
+    "instagramURL": "https://instagram.com/dyfi.design",
+    "city": "Aberystwyth",
+    "district": "Ceredigion",
+    "subcountry": "Wales",
+    "postcode": "SY23",
+    "country": "UK",
+    "longitude": ""
+  },
+  {
+    "id": "b2119f3656bb204e9e3b105d71283ccc",
+    "handle": "gilbertremappingvaletingservice",
+    "title_as_en": "Gilbert Valeting Service",
+    "subtitle_as_cy": "Rydym yn cynnig gwasanaeth glanhau ceir symudol o lanhawyr bach i lanhawyr mewnol ac allanol llawn.",
+    "subtitle_as_en": "We offer a mobile car valeting service from mini valets to full interior and exterior valets.",
+    "emojis": "🏢👷🚗",
+    "email": "gilbertrvservice@gmail.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7462 499966",
+    "websiteURL": "https://gilbert-remapping-valeting-service.sumup.link",
+    "facebookURL": "https://www.facebook.com/GilbertRemappingValetingService/",
+    "longitude": ""
+  },
+  {
     "id": "7e3cb8b41cb8974399c07934f4d58247",
     "handle": "railwayclubaberystwyth",
     "title_as_en": "Railway Club Aberystwyth",
