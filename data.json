@@ -5037,8 +5037,11 @@
   {
     "id": "3ed13da798cfae09cf9d23362008b51d",
     "title_as_en": "Sioned Rees Hair Salon ",
+    "email": "rees.sioned@gmail.com",
     "phoneGlobalPrefix": "44",
     "phoneLocalPrefix": "0",
+    "phone": "1970 615533",
+    "street": "3 Llys Y Brenin",
     "city": "Aberystwyth",
     "district": "Ceredigion",
     "subcountry": "Wales",
@@ -7560,6 +7563,21 @@
     "phone": "7462 499966",
     "websiteURL": "https://gilbert-remapping-valeting-service.sumup.link",
     "facebookURL": "https://www.facebook.com/GilbertRemappingValetingService/",
+    "longitude": ""
+  },
+  {
+    "id": "8777c609346769beade2e057c6b4f159",
+    "handle": "rhyslewisas",
+    "title_as_cy": "Gwasanaethau Pensaerinïnol Rhys Lewis",
+    "title_as_en": "Rhys Lewis Architectural Services",
+    "subtitle_as_cy": "Caniatâd Cynllunio • Cymeradwyaeth Rheoliadau Adeiladu • Cymeradwyaeth Draenio SAB/SUDS • Tendrau Prosiect • Arolygon Mesuredig",
+    "subtitle_as_en": "Planning Permission • Building Regulations Approval • SAB/SUDS Drainage Approval • Project Tenders • Measured Surveys",
+    "emojis": "🏢👷",
+    "email": "rhys_lewis@hotmail.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7951 831094",
+    "instagramURL": "https://www.instagram.com/rhyslewis.as",
     "longitude": ""
   },
   {
