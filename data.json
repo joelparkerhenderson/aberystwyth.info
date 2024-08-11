@@ -7526,6 +7526,21 @@
     "longitude": ""
   },
   {
+    "id": "340fce016077ebc9fb5293e722afb545",
+    "handle": "protekcleaning",
+    "title_as_en": "Protek Cleaning",
+    "subtitle_as_cy": "Glanhau Carpedi - Glanhau Clustogwaith - Glanhau Popty - Glanhau Llawr Caled",
+    "subtitle_as_en": "Carpet Cleaning - Upholstery Cleaning - Oven Cleaning - Hard Floor Cleaning",
+    "emojis": "🏢👷",
+    "email": "pro-tekcleaning@outlook.com",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "7534 213229",
+    "websiteURL": "https://tekem76.wixsite.com/protekcleaning",
+    "facebookURL": "https://www.facebook.com/cwtch.mw",
+    "longitude": ""
+  },
+  {
     "id": "d9d4575dca4f87b5a356e728cb0b10a4",
     "handle": "quickfencehire",
     "title_as_en": "Quick Fence Hire",
@@ -7649,6 +7664,23 @@
     "subcountry": "Wales",
     "postcode": "SY23",
     "country": "UK",
+    "longitude": ""
+  },
+  {
+    "id": "bb5d72ea3dde6a43d7b21a3a6073b927",
+    "handle": "qcareltd",
+    "title_as_en": "Q Care",
+    "subtitle_as_cy": "Cwmni teuluol sy'n darparu gwasanaethau gofal cartref.",
+    "subtitle_as_en": "Family-owned company that provides domiciliary care services.",
+    "emojis": "🏢🧑‍⚕️",
+    "email": "info@q-care.co.uk",
+    "phoneGlobalPrefix": "44",
+    "phoneLocalPrefix": "0",
+    "phone": "0345 481 6001",
+    "websiteURL": "https://qcare.co.uk/",
+    "facebookURL": "https://www.facebook.com/qcareltd",
+    "instagramURL": "https://www.instagram.com/q_care25/",
+    "twitterURL": "https://twitter.com/qcareltd",
     "longitude": ""
   }
 ]
