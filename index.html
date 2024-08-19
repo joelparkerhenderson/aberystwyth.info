@@ -187,7 +187,7 @@
                         <div class="pure-u-1-8">
                             <div class="pure-u-box nav-box">
                                 <div>
-                                    <a class="pure-menu-link" x-on:click="category='navBox.search';"><span class="nav-box-emoji" x-text='navBox.emoji'></span></a>
+                                    <a class="pure-menu-link" x-on:click="category=navBox.emoji"><span class="nav-box-emoji" x-text='navBox.emoji'></span></a>
                                 </div>
                                 <div>
                                     <span class="nav-box-label" x-text='navBox.label'></span>
@@ -196,8 +196,6 @@
                         </div>
                     </template>
                 </nav>
-
-                <hr><h1>Aberystwyth Directory</h1><hr>
 
                 <p>
                     <select x-model="category">
