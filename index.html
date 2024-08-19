@@ -157,6 +157,45 @@
 
                 <hr>
                 <h1>Aberystwyth Directory</h1>
+
+
+
+
+
+                <nav class="pure-g">
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="search = ''; category = '';">🏠</a>
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='💧🍅';">🍔</a>Restaurants
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='💧';">🍺</a><br>Drink
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='🛍🌼';">🛍</a>Shops
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='🏫';">🏫</a>
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='🏞';">🏞</a>Explore
+                    </div>
+
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='📷';">🌼</a>Photos
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='🎥';">🎞</a>Videos
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='👥';">👥</a>Groups
+                    </div>
+                    <div class="pure-u-1-8">
+                        <a class="pure-menu-link" x-on:click="category='🏢';">🏢</a>Businesses
+                    </div>
+                </nav>
+
                 <hr>
 
                 <p>
@@ -174,6 +213,7 @@
                         <option value="🎞">🎞 Videos</option>
                         <option value="👥">👥 Groups</option>
                         <option value="🏢">🏢 Businesses</option>
+                        <option value="🚕">🚕 Taxis</option>
                         <option value="🚻">🚻 Toilets</option>
 
                         <hr>
@@ -265,14 +305,16 @@
 
                         <option value="🌼">🌼 Health & Body</option>
                         <option value="👩‍⚕️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍⚕️ Providers</option>
+                        <option value="💇">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💇 Hair & Beauty</option>
+                        <option value="🦋">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦋 Tattoos & Piercings</option>
+                        <option value="💅">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💅 Manicures & Pedicures</option>
+                        <option value="💈">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💈 Barbers & Shaves</option>
                         <option value="💆">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💆 Spas & Massages</option>
                         <option value="💪">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Gyms & Trainers</option>
                         <option value="🧘">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧘 Yoga & Pilates</option>
                         <option value="👁️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ Eyes & Glasses</option>
-                        <option value="💇">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💇 Hair & Beauty</option>
-                        <option value="💅">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💅 Manicures & Pedicures</option>
-                        <option value="💈">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💈 Barbers & Shaves</option>
-                        <option value="🦋">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦋 Tattoos & Piercings</option>
+                        <option value="👂">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👂 Ears & Aides</option>                        
+                        <option value="🧑‍🏫️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🏫️ Teachers & Tutors</option>
                         <option value="🦷">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦷 Dentists & Orthodontists</option>
                         <option value="💊">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💊 Pharmacies & Drugstores</option>
                         <option value="🧑‍🦽">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🦽 Mobility & Accessibility</option>

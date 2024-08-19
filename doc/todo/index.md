@@ -3,14 +3,47 @@
 
 ## Add
 
+
+### Add direct requests
+
+Dragon Drains
+Complete drainage and jetting service 24/7 emergency call out.
+Tregaron, United Kingdom
+7539 713256
+Dragondrains@outlook.com
+https://www.facebook.com/DragonDrainsLTD/
+
+Visit Deri John Davies for butcher page.
+
+### Add restaurants and pubs
+
+https://www.instagram.com/tafarnymaes
+
+https://www.instagram.com/halfwayinnpisgah/
+
+
+### Add groups
+
+https://www.instagram.com/abersocialrunninggroup/
+
+https://www.instagram.com/aberystwythfrontrunners
+
+
+### Add services providers
+
+https://www.instagram.com/anastasia.massagetherapy
+
+https://www.instagram.com/f_j_aesthetics
+
+https://www.instagram.com/einir_trimble_hypnotherapy
+
+https://www.instagram.com/purehairstudio21_
+
+Sioned Rees Hair Salon (in sheet)
+
 Aperture Perfect Photography
 Natural Wedding Photographer based in Aberystwyth, Wales
 https://www.apertureperfect.co.uk
-
-Sioned Rees Hair Salon 
-rees.sioned@gmail.com
-1970 615533
-3 Llys y brenin, Aberystwyth, United Kingdom
 
 
 ### Add via Facebook AberIssues WIP
@@ -41,6 +74,13 @@ https://sonnyvaughanelectrical.co.uk
 YO! Sushi kiosk inside Tesco
 Japanese dishes taken from the belt or ordered from the open kitchen at a colourful chain eatery.
 Park Ave, Aberystwyth SY23 1PB
+
+Aberystwyth Dance 
+A page for all things dance in Aberystwyth! Find out where to learn and post about dance classes you know about!
+https://www.facebook.com/aberystwythdance/
+Neuadd Rhydypennau Hall, Bow Street, United Kingdom
+aberystwythdance@gmail.com
+
 
 ## Feedback
 
@@ -105,6 +145,7 @@ silverfernglamping.com
 townhouseno1.co.uk
 tybarcud.com
 
+
 ## Hotels deferred
 
 allenscaravans.co.uk
@@ -138,6 +179,7 @@ Meinir Wyn Edwards
 ## Alternatives
 
 https://AberBiz.com
+
 
 ## Misc
 
@@ -228,3 +270,31 @@ https://www.instagram.com/loganberrieshairsalon/
 https://www.instagram.com/hanna_nails_aberystwyth/
 
 https://www.facebook.com/ystwythvets
+
+Nerth Growth, Fitness & Health by Samantha Ackerman 
+Personal Trainer, Ante & Postnatal Exercise Specialist, Fitness Instructor and Zümbini Instructor.
+7533 646872
+contact@nerth.org
+https://www.facebook.com/NerthGFH
+https://instagram.com/nerth.growth.fitness.health
+https://nerth.org
+
+https://www.instagram.com/bronglaisfriends/
+
+https://www.instagram.com/borthandynyslasgolf/
+
+https://www.instagram.com/sarahcookechoreography/
+
+https://www.facebook.com/Superiorfinish2016
+
+https://www.instagram.com/aberystwythtownacademy/
+
+https://www.instagram.com/watchobsession.shop
+
+https://www.instagram.com/learnwithconrad
+
+https://www.instagram.com/aberystwythtownacademy
+
+https://www.instagram.com/eisteddfodurdd/
+
+Daffodil Laundry
