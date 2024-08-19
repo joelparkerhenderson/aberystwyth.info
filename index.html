@@ -47,13 +47,11 @@
             }
             main {
             }
-            nav {
-            }
             .pure-menu-link {
                 margin: 0.2em;
-                font-size: 4vw;
-                padding: 5px;
-                border: 1px solid black;
+                border: none;
+                background: white;
+                /*border: 1px solid black;*/
             }
             .pure-menu-link i {
                 margin-right: 0.25em;
@@ -61,9 +59,11 @@
             a.pure-menu-link:hover {
                 color: black;
                 text-shadow: 0 0;
-            }
+            },
             .pure-u-box {
-                padding: 1em;
+            }
+            .center {
+                justify-content: center;
             }
             .splash {
                 margin: 0;
@@ -85,6 +85,22 @@
                 font-size: 5.0vw;
                 text-shadow: 2px 2px 2px #000, -0.5px -0.5px 1px #000, -0.5px 0.5px 1px #000, 0.5px -0.5px 1px #000;
             }
+            nav {
+                margin-bottom: 2em;
+            }
+            .nav-box {
+                padding: 0em;
+            }
+            .nav-box-emoji {
+                font-size: 5vw;
+            }
+            .nav-box-label {
+                font-size: 1.5vw;
+                font-weight: bold;
+            }
+            .group-box {
+                padding: 1em;
+            }
         </style>
     </head>
 	<body>
@@ -100,6 +116,17 @@
             <script>
                 document.addEventListener('alpine:init', () => {
                     Alpine.data('data', () => ({
+
+                        navBoxes: [
+                            {emoji: '🍅', label: 'Eat'},
+                            {emoji: '💧', label: 'Drink'},
+                            {emoji: '🛍', label: 'Shop'},
+                            {emoji: '🛎', label: 'Stay'},
+                            {emoji: '🏫', label: 'Indoors'},
+                            {emoji: '🏞', label: 'Outdoors'},                          
+                            {emoji: '🏢', label: 'Businesses'},
+                            {emoji: '🚕', label: 'Taxis', search: '🚕'},
+                        ],
 
                         shuffleArrayInPlace(array) {
                             for (let i = array.length - 1; i > 0; i--) {
@@ -155,48 +182,22 @@
 
             <div x-data="data">
 
-                <hr>
-                <h1>Aberystwyth Directory</h1>
-
-
-
-
-
-                <nav class="pure-g">
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="search = ''; category = '';">🏠</a>
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='💧🍅';">🍔</a>Restaurants
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='💧';">🍺</a><br>Drink
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='🛍🌼';">🛍</a>Shops
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='🏫';">🏫</a>
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='🏞';">🏞</a>Explore
-                    </div>
-
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='📷';">🌼</a>Photos
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='🎥';">🎞</a>Videos
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='👥';">👥</a>Groups
-                    </div>
-                    <div class="pure-u-1-8">
-                        <a class="pure-menu-link" x-on:click="category='🏢';">🏢</a>Businesses
-                    </div>
+                <nav class="pure-g center">
+                    <template x-for="navBox in navBoxes">
+                        <div class="pure-u-1-8">
+                            <div class="pure-u-box nav-box">
+                                <div>
+                                    <a class="pure-menu-link" x-on:click="category='navBox.search';"><span class="nav-box-emoji" x-text='navBox.emoji'></span></a>
+                                </div>
+                                <div>
+                                    <span class="nav-box-label" x-text='navBox.label'></span>
+                                </div>
+                            </div>
+                        </div>
+                    </template>
                 </nav>
 
-                <hr>
+                <hr><h1>Aberystwyth Directory</h1><hr>
 
                 <p>
                     <select x-model="category">
@@ -381,7 +382,7 @@
                     <template x-for="group in groups">
                         <template x-if="categoryFilter(group) && searchFilter(group)">
                             <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                                <div class="pure-u-box">
+                                <div class="pure-u-box group-box">
                                     <template x-if="group.handle != null">
                                         <a :href="groupTileURL(group)"><img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/' + group.handle + '/1080.jpg'" alt="icon" ></a>
                                     </template>
@@ -452,9 +453,7 @@
                 </div>
             </div>
 
-            <hr>
-            <h1>Aberystwyth Gallery</h1>
-            <hr>
+            <hr><h1>Aberystwyth Gallery</h1><hr>
 
             <div
                 class="pure-g"
@@ -463,7 +462,7 @@
             >
                 <template x-for="i in 80">
                     <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                        <div class="pure-u-box">
+                        <div class="pure-u-box tile-image">
                             <a target="_blank" :href="'assets/images/gallery/' + i + '.jpg'"><img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/gallery/' + i + '.jpg'" alt="icon" ></a>
                         </div>
                     </div>
