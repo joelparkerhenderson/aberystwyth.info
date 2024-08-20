@@ -173,7 +173,9 @@
                                 (group.instagramURL != null && group.instagramURL.toLowerCase().includes(x)) ||
                                 (group.tiktokURL != null && group.tiktokURL.toLowerCase().includes(x)) ||
                                 (group.twitterURL != null && group.twitterURL.toLowerCase().includes(x)) ||
-                                (group.youtubeURL != null && group.youtubeURL.toLowerCase().includes(x))                                (group.youtubeURL != null && group.youtubeURL.toLowerCase().includes(x))
+                                (group.youtubeURL != null && group.youtubeURL.toLowerCase().includes(x)) ||
+                                (group.tripadvisorURL != null && group.tripadvisorURL.toLowerCase().includes(x)) ||
+                                (group.linkedinURL != null && group.linkedinURL.toLowerCase().includes(x))
                             )
                         }
                     }))
@@ -326,6 +328,7 @@
                         <option value="🏦">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏦 Banks</option>
                         <option value="🧑‍💻️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍💻️ Coworking</option>
                         <option value="🛎">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 Hotels, Guesthouses, BNBs</option>
+                        <option value="🧑‍💼️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍💼️ Professionals</option>
                         <option value="⚖️">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️ Lawyers</option>
                         <option value="🏡">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏡 Property Brokers</option>
 
@@ -364,8 +367,8 @@
 
                     </select>
 
-                    <input class="search-input" type="search" placeholder="Search" x-model="search">
-                    <button x-on:click="alert('search')"><i class="fa-solid fa-magnifying-glass"></i></button>
+                    <input class="search-input" type="search" placeholder="Search by text..." x-model="search">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
                     <button x-on:click="search = ''; category = '';"><i class="fa-solid fa-xmark"></i></button>
                 </p>
 
