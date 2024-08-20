@@ -20,13 +20,15 @@
         youtubeURL: .[15],
         tiktokURL: .[16],
         twitterURL: .[17],
-        street: .[18],
-        city: .[19],
-        district: .[20],
-        subcountry: .[21],
-        postcode: .[22],
-        country: .[23],
-        latitude: .[24],
-        longitude: .[25]
+        tripadvisorURL: .[18],
+        linkedinURL: .[19],
+        street: .[20],
+        city: .[21],
+        district: .[22],
+        subcountry: .[23],
+        postcode: .[24],
+        country: .[25],
+        latitude: .[26],
+        longitude: .[27]
     }
 ]
