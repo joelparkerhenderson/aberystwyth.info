@@ -43,7 +43,11 @@ Browse:
 
 ## Images
 
-The tile images are JPG format and named `1080.jpg`.
+The tile images are JPG format and there are two files:
+
+* `540.jpg` which is for typical use.
+  
+* 1080.jpg` which is for future use because it's the same size as the Instagram tile.
 
 We convert the images to 1080x1080 because this is the size that Instagram uses for social tiles:
 
