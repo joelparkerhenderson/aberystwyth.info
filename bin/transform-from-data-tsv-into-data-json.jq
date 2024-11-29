@@ -29,6 +29,6 @@
         postcode: .[24],
         country: .[25],
         latitude: .[26],
-        longitude: .[27]
+        longitude: .[27],
     }
 ]

@@ -101,6 +101,9 @@
             .group-box {
                 padding: 1em;
             }
+            .gallery-img {
+                border: 1px solid #333;
+            }
         </style>
     </head>
 	<body>
@@ -160,7 +163,6 @@
                         searchFilter(group) {
                             if (this.search === '') { return true; }
                             let x = this.search.toLowerCase();
-                            console.debug('searchFilter search: ' + this.search + ' x: ' + x);
                             return (
                                 (group.title_as_en != null && group.title_as_en.toLowerCase().includes(x)) ||
                                 (group.title_as_cy != null && group.title_as_cy.toLowerCase().includes(x)) ||
@@ -390,17 +392,7 @@
                                     <template x-if="group.handle == null">
                                         <img class="pure-img" style="border: 1px solid #333;" loading="lazy" :src="'assets/images/icons/x/540.jpg'" alt="icon" >
                                     </template>
-                                    <h2>
-                                        <template x-if="group.title_as_en != null">
-                                            <span x-text="group.title_as_en"></span>
-                                        </template>
-                                        <template x-if="group.title_as_en != null && group.title_as_cy != null">
-                                            <span>/<br></span>
-                                        </template>
-                                        <template x-if="group.title_as_cy != null">
-                                            <span x-text="group.title_as_cy"></span>
-                                        </template>
-                                    </h2>
+                                    <h2 x-text="group.title_as_cy"></h2>
                                     <p style="font-size: 200%; margin-top: 0; margin-bottom: 0;">
                                         <template x-if="group.websiteURL != null">
                                             <a :href="group.websiteURL"><i class="fa-solid fa-house"></i></a>
@@ -436,17 +428,7 @@
                                             <a :href="'mailto:' + group.email"><i class="fa-regular fa-envelope"></i></a>
                                         </template>
                                     </p>
-                                        <template x-if="group.subtitle_as_en != null">
-                                            <p style="padding-left: 0.5em; padding-right: 0.5em;">
-                                                <span x-text="group.subtitle_as_en"></span>
-                                            </p>
-                                        </template>
-                                        <template x-if="group.subtitle_as_cy != null">
-                                            <p style="padding-left: 0.5em; padding-right: 0.5em;">
-                                                <span x-text="group.subtitle_as_cy"></span>
-                                            </p>
-                                        </template>
-                                    </p>
+                                    <p style="padding-left: 0.5em; padding-right: 0.5em;" x-text="group.subtitle"></p>
                                 </div>
                             </div>
                         </template>

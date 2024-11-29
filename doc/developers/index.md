@@ -56,3 +56,4 @@ We convert the images to 1080x1080 because this is the size that Instagram uses 
 We optimize the images for the web because this saves bandwidth and improves performance:
 
 * [bin/jpegoptim-x](../bin/jpegoptim-x)
+
