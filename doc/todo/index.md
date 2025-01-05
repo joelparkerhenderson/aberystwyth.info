@@ -552,3 +552,51 @@ https://www.instagram.com/spartacus_sandwiches/
 
 https://www.instagram.com/creativecatsbywendy/
 
+
+
+###
+
+
+http://www.valeriane-leblond.eu/
+https://www.facebook.com/Valeriane.Leblond.Art
+contact@valeriane-leblond.eu
+
+convert 1080.jpg -resize 540x540 540.jpg;
+
+Country Paws Blaenplwyf Dog Groomer
+Dog Groomer. City & Guilds Qualifed. Blaenplwyf - Aberystwyth. Canine First Aid Trained. 
+07713 240664
+CountryPawsGroomers@outlook.com
+https://instagram.com/countrypaws_blaenplwyf
+countrypawsblaenplwyf.co.uk
+
+Your Birth Journey
+Birth & Postnatal Doula in Ceredigion. Doula support, Birth Preparation Course & Groups for mums'/parents' wellbeing in Mid-West Wales.
+yourbirthjourney.doula@gmail.com
+https://yourbirthjourneydoula.com
+https://instagram.com/doula_in_ceredigion
+https://facebook.com/yourbirthjourney
+
+Ancois Beauty salon 
+A modern beauty salon that offers facials, massages, waxing, nails, tanning. 
+
+Cambrian Chambers, Cambrian Place, Aberystwyth, United Kingdom
+1970 626908
+ancoisbeautysalon@hotmail.com
+https://ancoisbeautysalon.co.uk
+https://www.facebook.com/ancoisbeauty
+https://www.instagram.com/ancoisbeautysalon/
+
+https://www.instagram.com/llaiscymru/
+
+https://www.instagram.com/lkdigitalmarketing/
+
+https://www.instagram.com/aberdashery/
+
+https://www.instagram.com/aberystwythforestbathing/
+
+https://www.instagram.com/abergraze/
+
+https://www.instagram.com/morrisbroskitchens/
+
+https://www.instagram.com/everychildwales/
